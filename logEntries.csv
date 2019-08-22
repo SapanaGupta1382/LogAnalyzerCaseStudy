@@ -1,0 +1,1001 @@
+insertId,jsonPayload.disposition,jsonPayload.connection.src_ip,jsonPayload.connection.dest_ip,jsonPayload.connection.dest_port,jsonPayload.remote_location.region,jsonPayload.remote_location.city,jsonPayload.remote_location.country,jsonPayload.remote_location.continent,jsonPayload.instance.vm_name,receiveTimestamp
+1,allow,230.123.168.196,26.74.78.2,80,Wherever,Broniszewice,Poland,Wherever,43b9d616-175d-4a7b-9f77-2c2a35f6a363,2019-08-17 22:37:08 UTC
+2,deny,173.217.37.61,222.144.102.119,80,Wherever,Columbus,United States,Wherever,bd48b87d-f286-4093-9760-b5fe10823101,2019-08-17 22:37:08 UTC
+3,deny,120.138.254.62,86.41.58.12,80,Wherever,Qianjin,China,Wherever,0f2e84fb-e35d-4382-8f22-f09f801b7168,2019-08-17 22:37:08 UTC
+4,allow,161.190.134.173,141.91.70.235,80,Wherever,Caicedonia,Colombia,Wherever,df89765a-a3f7-41b2-a97e-89a3ffa4b68a,2019-08-17 22:37:08 UTC
+5,deny,186.149.201.155,234.3.215.246,80,Wherever,Magnitka,Russia,Wherever,ca8e8459-2660-4fac-b1c4-107d51fa5150,2019-08-17 22:37:08 UTC
+6,deny,209.42.166.254,236.171.53.79,80,Wherever,Yazykovo,Russia,Wherever,c98dadcb-cb47-4b32-a539-b52e5052a118,2019-08-17 22:37:08 UTC
+7,allow,13.2.175.154,25.199.34.204,80,Wherever,Hats’avan,Armenia,Wherever,be61c657-c19b-489e-900d-86ecc610389f,2019-08-17 22:37:08 UTC
+8,deny,12.240.58.78,106.54.230.92,80,Wherever,Kaburon,Indonesia,Wherever,67cf6f28-56a2-4898-af39-753c0ce0a205,2019-08-17 22:37:08 UTC
+9,allow,10.103.253.28,112.20.252.92,80,Wherever,Ban Houakhoua,Laos,Wherever,fb57ebe8-7e13-4fcd-b5c4-425533bee006,2019-08-17 22:37:08 UTC
+10,deny,145.69.252.133,48.158.103.131,80,Wherever,Al Fayyūm,Egypt,Wherever,6943e3c6-4ee1-47b4-86d6-95f64b735eb9,2019-08-17 22:37:08 UTC
+11,deny,19.138.58.222,212.57.179.19,80,Wherever,Xiashitai,China,Wherever,d513bc57-f342-4551-88e3-4acdffe82090,2019-08-17 22:37:08 UTC
+12,allow,154.12.250.44,174.43.98.202,80,Wherever,Toupopu,Indonesia,Wherever,929e42bd-b4a1-4c3b-86e5-f2605f015313,2019-08-17 22:37:08 UTC
+13,deny,91.27.243.43,119.142.207.254,80,Wherever,Trzciana,Poland,Wherever,4288e6c2-d8ab-4b9c-93bb-2a2c2aedae9e,2019-08-17 22:37:08 UTC
+14,deny,89.81.71.205,232.194.212.180,80,Wherever,Mosul,Iraq,Wherever,5624aef1-3dcc-457e-a3b7-9368e5d3d059,2019-08-17 22:37:08 UTC
+15,deny,11.227.83.27,214.101.9.246,80,Wherever,Linstead,Jamaica,Wherever,80777c38-3a2a-4bf7-b1c5-7f8d03149d98,2019-08-17 22:37:08 UTC
+16,allow,122.226.189.180,69.191.140.140,80,Wherever,Portel,Portugal,Wherever,5e9616ad-c31f-4b4a-a304-46a028481114,2019-08-17 22:37:08 UTC
+17,deny,108.3.131.150,187.53.34.172,80,Wherever,Strawczyn,Poland,Wherever,f2c5354a-c0a4-40a4-b6c9-87e84e8b37d5,2019-08-17 22:37:08 UTC
+18,deny,5.77.51.209,84.9.33.41,80,Wherever,Cuba,Portugal,Wherever,cc22a2fc-f5ab-4e8c-bfc2-71dd4b84809e,2019-08-17 22:37:08 UTC
+19,deny,125.79.201.120,209.85.68.23,80,Wherever,Bonao,Dominican Republic,Wherever,f65ab7f0-2dcd-4d14-80ee-0c74a1fdd88c,2019-08-17 22:37:08 UTC
+20,deny,124.201.14.196,208.61.84.232,80,Wherever,Hino,Japan,Wherever,0de4d2d8-ac96-4e47-a88f-7267d50ed229,2019-08-17 22:37:08 UTC
+21,deny,157.96.46.187,130.163.152.68,80,Wherever,Zheleznogorsk-Ilimskiy,Russia,Wherever,e96eb077-d066-4ae7-b64f-c109cf956feb,2019-08-17 22:37:08 UTC
+22,deny,93.128.173.104,27.203.192.40,80,Wherever,Viesīte,Latvia,Wherever,6811086b-fd05-4da8-ad9e-b60d4593fc06,2019-08-17 22:37:08 UTC
+23,deny,229.109.233.92,253.213.0.217,80,Wherever,Cruzeiro,Brazil,Wherever,c3bef634-062f-4580-a146-8630486f6888,2019-08-17 22:37:08 UTC
+24,allow,96.189.153.216,27.164.214.194,80,Wherever,Placencia,Belize,Wherever,d2197306-861c-48d3-8262-77221ce1c843,2019-08-17 22:37:08 UTC
+25,allow,190.43.0.227,244.247.189.94,80,Wherever,Severnoye,Russia,Wherever,2cf6616c-514c-4a9b-b8df-27f3d4b50bab,2019-08-17 22:37:08 UTC
+26,deny,236.103.35.236,38.6.94.29,80,Wherever,Zengguang,China,Wherever,ddbfb641-e2c3-4a68-a9bc-da39ca0ac35a,2019-08-17 22:37:08 UTC
+27,allow,86.149.134.180,161.136.193.139,80,Wherever,Veldhoven,Netherlands,Wherever,df1dcaa5-cd50-451a-aaa0-d9e119486dba,2019-08-17 22:37:08 UTC
+28,allow,123.238.130.83,250.53.136.44,80,Wherever,Cijambe,Indonesia,Wherever,cf88c342-ab3a-4633-bd73-10aa4faaea44,2019-08-17 22:37:08 UTC
+29,deny,244.72.83.110,165.167.12.75,80,Wherever,Igreja,Portugal,Wherever,488e0d98-8eda-46d0-84cc-a49c59c5d49c,2019-08-17 22:37:08 UTC
+30,deny,120.138.79.216,51.159.207.101,80,Wherever,Montalegre,Portugal,Wherever,aa3ca785-ef7e-4b5a-99e8-5c8fddc74a85,2019-08-17 22:37:08 UTC
+31,deny,251.62.14.240,240.26.50.180,80,Wherever,Tonga,Cameroon,Wherever,489e6d38-0aea-4e69-99e2-b3d64c7d525e,2019-08-17 22:37:08 UTC
+32,allow,236.209.75.110,192.198.158.4,80,Wherever,Ratchaburi,Thailand,Wherever,5972536b-dc77-46c9-be57-2364c7bce632,2019-08-17 22:37:08 UTC
+33,allow,201.61.164.33,146.88.206.22,80,Wherever,Fiorentino,San Marino,Wherever,a30f162b-acdd-4653-8028-2603ba081e4f,2019-08-17 22:37:08 UTC
+34,deny,223.109.115.1,64.26.176.244,80,Wherever,Zhuhu,China,Wherever,b34cd367-e545-4795-ad40-be13604fb4da,2019-08-17 22:37:08 UTC
+35,allow,193.59.127.212,147.78.39.68,80,Wherever,Itéa,Greece,Wherever,1dd578c0-ae93-4513-9ec1-d2eaaf6a882c,2019-08-17 22:37:08 UTC
+36,deny,165.7.169.128,223.28.210.67,80,Wherever,Bambari,Central African Republic,Wherever,d3185cd6-49fc-414a-b4e2-36886a706eef,2019-08-17 22:37:08 UTC
+37,allow,240.238.27.151,110.121.177.15,80,Wherever,Wola Jachowa,Poland,Wherever,b82504f6-48b7-46ef-84c0-17b396f3ee0d,2019-08-17 22:37:08 UTC
+38,deny,125.112.227.209,136.42.189.84,80,Wherever,Kaya,Burkina Faso,Wherever,eb174dae-6d88-4c67-99ac-c5f7bb2e8127,2019-08-17 22:37:08 UTC
+39,deny,103.212.233.91,203.102.155.140,80,Wherever,Osby,Sweden,Wherever,3f38d3d0-fd3a-490c-9263-279ef15c2dff,2019-08-17 22:37:08 UTC
+40,allow,48.167.224.24,239.47.230.100,80,Wherever,Horodyshche,Ukraine,Wherever,0cc39cc8-0908-4f69-8925-b6a9461910e1,2019-08-17 22:37:08 UTC
+41,allow,15.182.221.127,162.100.94.171,80,Wherever,Fukuroi,Japan,Wherever,8398be33-e408-4189-b882-5cb3d922dd38,2019-08-17 22:37:08 UTC
+42,deny,177.150.35.226,255.151.207.250,80,Wherever,Chengbei,China,Wherever,26a56cc7-4ac4-4e41-866a-f353ce4c5a3d,2019-08-17 22:37:08 UTC
+43,allow,143.7.7.117,254.165.26.49,80,Wherever,Sindangan,Philippines,Wherever,fb33cfd1-fc48-4c92-b70b-8e013b39c761,2019-08-17 22:37:08 UTC
+44,deny,25.115.139.133,163.170.76.39,80,Wherever,Kiihtelysvaara,Finland,Wherever,47454126-50d9-424e-a886-f760395d7434,2019-08-17 22:37:08 UTC
+45,allow,51.126.222.210,127.254.170.250,80,Wherever,Martingança-Gare,Portugal,Wherever,755a71b1-a97a-4ff0-9045-e3867035cd91,2019-08-17 22:37:08 UTC
+46,allow,202.222.254.57,114.167.17.111,80,Wherever,Tournon-sur-Rhône,France,Wherever,7daa720d-24c3-4377-8fde-4b2a6cdd7579,2019-08-17 22:37:08 UTC
+47,deny,136.191.134.71,252.71.76.31,80,Wherever,Velké Bílovice,Czech Republic,Wherever,2e1d3f44-83be-4b9a-aee1-d23233fb00fe,2019-08-17 22:37:08 UTC
+48,deny,85.67.252.248,127.250.77.223,80,Wherever,Domašinec,Croatia,Wherever,9073f195-eab2-45f7-a1c3-a16e5efb9641,2019-08-17 22:37:08 UTC
+49,allow,41.228.9.81,143.194.179.103,80,Wherever,Wolomoni,Indonesia,Wherever,b568dd36-7f9d-4c7b-8825-ba768d7624c3,2019-08-17 22:37:08 UTC
+50,allow,167.27.200.104,147.31.57.62,80,Wherever,Uluale,Indonesia,Wherever,3d9075fc-41d1-435a-9aa4-b4c3e1d8878e,2019-08-17 22:37:08 UTC
+51,deny,63.82.125.125,7.199.244.71,80,Wherever,Aserrío de Gariché,Panama,Wherever,58c13386-9909-4553-a182-bcfbd2ffb152,2019-08-17 22:37:08 UTC
+52,deny,103.212.53.179,231.93.57.166,80,Wherever,Gorelki,Russia,Wherever,115d511e-2af5-47c9-aa15-d7482ff74168,2019-08-17 22:37:08 UTC
+53,deny,20.17.84.164,140.58.207.163,80,Wherever,Batawa,Indonesia,Wherever,f727e640-3bf5-4145-8c53-db282e9cf78b,2019-08-17 22:37:08 UTC
+54,deny,172.25.126.41,161.109.38.167,80,Wherever,Guanshan,China,Wherever,ae00f635-ab20-4b31-a4d3-57a1e14f0a21,2019-08-17 22:37:08 UTC
+55,deny,106.100.58.68,21.22.251.207,80,Wherever,Itaitinga,Brazil,Wherever,ab2feb76-fe45-4353-b0d0-f84d12bc5a16,2019-08-17 22:37:08 UTC
+56,deny,28.85.124.18,215.156.172.125,80,Wherever,Vahdat,Tajikistan,Wherever,7fb137ba-8178-4344-a203-d3b42ec20cce,2019-08-17 22:37:08 UTC
+57,deny,3.170.41.41,133.166.170.189,80,Wherever,Pulau Pinang,Malaysia,Wherever,09a74dde-a554-40d0-9a6b-3954ee92bd3a,2019-08-17 22:37:08 UTC
+58,allow,54.10.85.78,198.122.78.150,80,Wherever,Songjiang,China,Wherever,3d6d183a-8771-471a-b0e3-b616c229d5f6,2019-08-17 22:37:08 UTC
+59,deny,30.201.164.147,66.58.151.250,80,Wherever,Los Pinos,Mexico,Wherever,20180b78-e2a7-41a3-bf07-eb4bc5ee6711,2019-08-17 22:37:08 UTC
+60,allow,210.251.210.38,116.245.117.250,80,Wherever,Kamigyō-ku,Japan,Wherever,8bcfbdac-a885-4560-bac1-441f5bc21eb4,2019-08-17 22:37:08 UTC
+61,deny,249.209.212.65,249.218.24.10,80,Wherever,Castelo,Portugal,Wherever,da560a74-b441-42d2-b6da-46aac1131dd6,2019-08-17 22:37:08 UTC
+62,allow,62.242.155.87,104.102.21.233,80,Wherever,Mulan,China,Wherever,c5058946-14df-4964-b3cb-3bc11fee4746,2019-08-17 22:37:08 UTC
+63,allow,237.219.116.243,194.146.60.190,80,Wherever,Nóvita,Colombia,Wherever,a52ce3a6-69fa-4211-98c2-ad47a5fab1cc,2019-08-17 22:37:08 UTC
+64,deny,7.214.130.139,11.117.213.92,80,Wherever,Soisy-sous-Montmorency,France,Wherever,4b613401-2712-4fc0-9973-0ef3950cdc46,2019-08-17 22:37:08 UTC
+65,allow,82.175.146.236,217.90.198.182,80,Wherever,Xinhuang,China,Wherever,f8af5e34-02c1-4e66-905e-ab9853f0bf47,2019-08-17 22:37:08 UTC
+66,allow,151.110.122.182,208.92.47.75,80,Wherever,Tor,Egypt,Wherever,bb8c0a4d-2a2b-4242-8f4c-828ccf4b15d6,2019-08-17 22:37:08 UTC
+67,deny,73.124.163.24,133.177.34.182,80,Wherever,Zhajin,China,Wherever,4fdb7772-b3d7-4dec-aba1-d3b029f51d52,2019-08-17 22:37:08 UTC
+68,allow,178.49.173.254,167.152.98.124,80,Wherever,Patenongan,Indonesia,Wherever,de0a3e13-7705-4f71-a958-f90fa3b8a70b,2019-08-17 22:37:08 UTC
+69,allow,229.149.148.178,170.187.139.204,80,Wherever,Cambrai,France,Wherever,f659da6c-e2bc-4d8d-a356-3ef60f56ebb6,2019-08-17 22:37:08 UTC
+70,allow,172.118.216.233,176.253.239.233,80,Wherever,Praia da Vagueira,Portugal,Wherever,b578d56f-f1d7-41e4-b8a2-c96c47678100,2019-08-17 22:37:08 UTC
+71,allow,222.216.94.137,121.107.121.19,80,Wherever,Idanre,Nigeria,Wherever,92492f1d-f718-4ecc-8428-812f09e942fe,2019-08-17 22:37:08 UTC
+72,allow,232.38.101.85,60.28.46.9,80,Wherever,Желино,Macedonia,Wherever,36303777-94a8-4188-a81a-3340d22dfdb2,2019-08-17 22:37:08 UTC
+73,allow,222.26.69.144,119.228.97.254,80,Wherever,Janów,Poland,Wherever,fd2248f5-bef3-4f47-a5ef-0e7025868e40,2019-08-17 22:37:08 UTC
+74,deny,252.78.160.215,253.138.130.192,80,Wherever,Oakland,United States,Wherever,5667a57b-4f9f-43ae-aa6c-ae9a55a09863,2019-08-17 22:37:08 UTC
+75,allow,118.223.77.202,137.31.157.159,80,Wherever,Allen,Philippines,Wherever,fe37af60-4ce3-4db4-b58d-fda3d2c105a0,2019-08-17 22:37:08 UTC
+76,deny,20.6.93.111,73.38.218.137,80,Wherever,Tietê,Brazil,Wherever,d554143e-d73e-4bc5-bd4a-d6d961589edb,2019-08-17 22:37:08 UTC
+77,allow,175.161.229.120,87.3.70.36,80,Wherever,Armenokhórion,Greece,Wherever,c8128ba7-abb0-4d36-aac2-c179acc446c4,2019-08-17 22:37:08 UTC
+78,deny,94.91.135.248,250.113.170.193,80,Wherever,Whakatane,New Zealand,Wherever,ed832b6a-416b-4ea3-8062-96e6c9f7ff86,2019-08-17 22:37:08 UTC
+79,allow,161.248.124.151,142.225.43.227,80,Wherever,Koani Ndogo,Tanzania,Wherever,9387081b-e65d-44f0-ae75-30d12bb8a61f,2019-08-17 22:37:08 UTC
+80,allow,190.204.187.228,190.138.88.208,80,Wherever,Santa Cruz,Mexico,Wherever,e859c38b-9b2e-473e-80bc-b41578a01204,2019-08-17 22:37:08 UTC
+81,allow,102.37.69.190,36.126.136.89,80,Wherever,Chambellan,Haiti,Wherever,e55fd854-70d9-45a8-a532-2056c29ae84f,2019-08-17 22:37:08 UTC
+82,deny,164.170.74.200,92.56.186.28,80,Wherever,Ainaro,East Timor,Wherever,98c681a6-a8db-45fa-8455-06bd0d1c7014,2019-08-17 22:37:08 UTC
+83,allow,26.68.128.35,99.68.199.130,80,Wherever,Ust’ye,Russia,Wherever,e6d7c7d3-c2a7-46d7-afe3-d7002a2698a1,2019-08-17 22:37:08 UTC
+84,deny,166.217.147.244,162.252.83.141,80,Wherever,Prado,Portugal,Wherever,8b66fdf8-30e8-4971-b283-342f7797a1c5,2019-08-17 22:37:08 UTC
+85,allow,170.158.185.204,55.222.143.165,80,Wherever,Sanxixiang,China,Wherever,2a0e9ad4-674e-44be-bd5d-856fa3c96362,2019-08-17 22:37:08 UTC
+86,allow,69.149.90.216,87.210.52.120,80,Wherever,Tours,France,Wherever,faa7a248-280e-469d-9ff2-70b1cb292ba8,2019-08-17 22:37:08 UTC
+87,allow,102.125.1.47,0.177.55.93,80,Wherever,Shichuan,China,Wherever,f20cd263-eb5d-4238-a4ef-e236a8c527dc,2019-08-17 22:37:08 UTC
+88,deny,194.93.136.123,35.46.96.130,80,Wherever,Bamut,Russia,Wherever,a14fafb0-ca59-4d53-8742-4e3e9f4eb36b,2019-08-17 22:37:08 UTC
+89,allow,161.21.51.99,155.64.156.154,80,Wherever,Mafinga,Tanzania,Wherever,da6ebcd7-4ece-4272-b4e2-0fc82fbb019a,2019-08-17 22:37:08 UTC
+90,allow,126.154.81.226,191.59.64.199,80,Wherever,Chiara,Peru,Wherever,9db4f1a5-6fe1-4a6c-a76a-e8a9caa6c308,2019-08-17 22:37:08 UTC
+91,deny,111.175.239.117,136.77.36.57,80,Wherever,Kolbuszowa,Poland,Wherever,14750125-463f-4d6d-9ba8-06e246bf755d,2019-08-17 22:37:08 UTC
+92,deny,36.147.41.9,236.82.98.181,80,Wherever,Muruni,Indonesia,Wherever,dfc4a3cf-cc0b-4ff1-a977-71ff7a418ce6,2019-08-17 22:37:08 UTC
+93,allow,47.100.111.78,0.74.90.54,80,Wherever,Vinhais,Portugal,Wherever,f3a9b2e7-0799-4284-8aca-20a0f14cb412,2019-08-17 22:37:08 UTC
+94,deny,49.176.175.210,63.223.188.235,80,Wherever,Cibeureum,Indonesia,Wherever,7c84207d-ee4a-45cc-861c-c60007007185,2019-08-17 22:37:08 UTC
+95,deny,167.244.185.26,135.22.9.149,80,Wherever,Osogbo,Nigeria,Wherever,516d2150-87f6-420a-87f0-24ce4d89b18e,2019-08-17 22:37:08 UTC
+96,allow,99.23.76.71,64.9.22.93,80,Wherever,Libacao,Philippines,Wherever,77f8f96d-d6bf-4b3e-9714-1efa64ef35ac,2019-08-17 22:37:08 UTC
+97,deny,0.207.128.99,209.77.173.166,80,Wherever,Ouadda,Central African Republic,Wherever,3e13692a-f73a-4b92-8c73-8e792b7a78c4,2019-08-17 22:37:08 UTC
+98,deny,117.108.117.206,140.221.206.225,80,Wherever,Denpasar,Indonesia,Wherever,31eea71b-4d4b-4b6f-ae8b-a7d47407d84b,2019-08-17 22:37:08 UTC
+99,deny,77.226.169.56,222.9.138.253,80,Wherever,Peranap,Indonesia,Wherever,f36de86f-2a06-450c-943f-01a4a5e602f9,2019-08-17 22:37:08 UTC
+100,deny,182.150.131.214,1.181.160.129,80,Wherever,Yonkers,United States,Wherever,58b4f901-b283-4f8b-a206-f55330929d4b,2019-08-17 22:37:08 UTC
+101,deny,145.27.83.183,128.48.209.168,80,Wherever,Prado,Brazil,Wherever,7ad230b8-f887-4602-bb8a-03a867a88045,2019-08-17 22:37:08 UTC
+102,allow,84.109.35.2,243.112.211.191,80,Wherever,Betulia,Colombia,Wherever,eb65af7a-3ad9-48a3-bb9b-06e600189938,2019-08-17 22:37:08 UTC
+103,deny,253.94.185.20,16.234.55.185,80,Wherever,Đoan Hùng,Vietnam,Wherever,caff904e-9465-429c-8b23-903f1b4799f1,2019-08-17 22:37:08 UTC
+104,allow,16.167.182.79,236.2.206.195,80,Wherever,Shanjiao,China,Wherever,28677b1d-cace-4201-97fb-2e1b6fe52b0a,2019-08-17 22:37:08 UTC
+105,deny,65.178.103.160,226.129.245.75,80,Wherever,Donglai,China,Wherever,5aaf2e38-8c13-4488-9f9f-b8b01cd5f46c,2019-08-17 22:37:08 UTC
+106,allow,152.54.116.64,78.253.198.117,80,Wherever,Mayang,Indonesia,Wherever,aa120470-eb0d-47a1-939c-b7d8350b4a67,2019-08-17 22:37:08 UTC
+107,allow,100.77.99.157,86.202.48.12,80,Wherever,Portelinha,Portugal,Wherever,f2d6d56f-a940-44ad-8369-ebec9e90a56a,2019-08-17 22:37:08 UTC
+108,allow,120.28.12.62,161.113.245.194,80,Wherever,Bogorodsk,Russia,Wherever,3e1535e1-3992-4156-85ef-071e6baeb8bc,2019-08-17 22:37:08 UTC
+109,deny,124.182.205.244,154.32.154.186,80,Wherever,Mar’’ina Horka,Belarus,Wherever,1ac935fc-2de4-45dd-b3fb-bfed043ffe75,2019-08-17 22:37:08 UTC
+110,allow,68.143.197.199,10.82.145.86,80,Wherever,Rislane,Morocco,Wherever,1252556a-95ce-4812-a7a0-7490930d9dce,2019-08-17 22:37:08 UTC
+111,deny,200.176.186.132,38.223.194.55,80,Wherever,Litian,China,Wherever,2db4f6f0-e578-407a-a453-6f06ad78ded4,2019-08-17 22:37:08 UTC
+112,deny,53.123.172.199,192.190.15.227,80,Wherever,Soest,Netherlands,Wherever,782a1d9c-a533-41f3-90a4-39e3463af96e,2019-08-17 22:37:08 UTC
+113,allow,42.180.121.141,212.30.222.99,80,Wherever,Staryy Dobrotvir,Ukraine,Wherever,a574fbfc-5b7c-4730-b1c8-e43603f552d3,2019-08-17 22:37:08 UTC
+114,allow,169.131.143.236,189.53.160.5,80,Wherever,Paojan,Indonesia,Wherever,fdd63be8-4e08-4c6e-be3d-ac7c81e9e098,2019-08-17 22:37:08 UTC
+115,allow,249.113.129.145,237.48.81.202,80,Wherever,Kromy,Russia,Wherever,bbe74ca6-ae2c-40da-adda-58f66745d93b,2019-08-17 22:37:08 UTC
+116,allow,192.5.221.188,241.77.245.154,80,Wherever,Limenária,Greece,Wherever,c1e5214a-ba87-4d07-a100-e0895e2c3352,2019-08-17 22:37:08 UTC
+117,deny,250.185.145.207,193.225.108.225,80,Wherever,Rū-ye Sang,Afghanistan,Wherever,c33cedba-4857-4b19-80f8-67996390ea5e,2019-08-17 22:37:08 UTC
+118,allow,52.89.209.103,181.34.190.105,80,Wherever,Skaudvilė,Lithuania,Wherever,d8a6841a-e40e-4234-9df8-568f63c487eb,2019-08-17 22:37:08 UTC
+119,allow,184.46.144.52,96.186.113.185,80,Wherever,Niort,France,Wherever,cc3c0983-fd01-4840-95ed-6b22064778c7,2019-08-17 22:37:08 UTC
+120,allow,235.25.33.151,217.161.246.228,80,Wherever,Sidi Yahia el Gharb,Morocco,Wherever,423545a3-f695-46ea-b5dc-803523bb635b,2019-08-17 22:37:08 UTC
+121,allow,201.139.43.112,54.242.40.6,80,Wherever,Chaplygin,Russia,Wherever,6396f963-49b1-43b0-a1a2-ac4d45fccdce,2019-08-17 22:37:08 UTC
+122,allow,89.201.170.16,28.106.141.65,80,Wherever,Heping,China,Wherever,156dff6b-5431-4532-8d8f-4ccc47ac92ac,2019-08-17 22:37:08 UTC
+123,allow,24.141.130.239,93.118.161.80,80,Wherever,Zhangping,China,Wherever,6da3287d-3abc-496c-8c1d-71907f087204,2019-08-17 22:37:08 UTC
+124,deny,177.0.231.114,227.71.222.45,80,Wherever,Ratchasan,Thailand,Wherever,7d888f94-91af-47bf-93a2-b07451407b9d,2019-08-17 22:37:08 UTC
+125,deny,141.172.38.244,248.168.80.220,80,Wherever,Banjar Swastika,Indonesia,Wherever,f8a021f2-e3ca-4754-a5fb-c15c96b69669,2019-08-17 22:37:08 UTC
+126,allow,49.93.1.127,64.12.190.204,80,Wherever,Kungshamn,Sweden,Wherever,2fb4a618-645f-4456-92c5-e8000c403811,2019-08-17 22:37:08 UTC
+127,deny,30.254.93.169,251.156.226.169,80,Wherever,Verbivka,Ukraine,Wherever,80474b86-f3c5-44ac-8a7c-80aed2ca8c15,2019-08-17 22:37:08 UTC
+128,deny,85.17.183.57,194.4.211.201,80,Wherever,Uren’,Russia,Wherever,a9d7413d-21e8-4fe8-905a-63d1eb6e5b16,2019-08-17 22:37:08 UTC
+129,deny,18.250.239.39,49.103.230.160,80,Wherever,Zhongshan,China,Wherever,5aeb8898-e042-4008-b421-0a7c503d26e4,2019-08-17 22:37:08 UTC
+130,allow,83.167.13.17,54.194.87.35,80,Wherever,Taquari,Brazil,Wherever,bd013e44-5120-49cb-989f-34a9fedcd89e,2019-08-17 22:37:08 UTC
+131,allow,127.13.239.86,254.225.141.244,80,Wherever,Herne,Germany,Wherever,87b1cd94-a9fb-4972-aecf-fbee59218b93,2019-08-17 22:37:08 UTC
+132,deny,63.72.146.83,165.30.109.120,80,Wherever,Weihai,China,Wherever,605df562-f87e-4b47-94f5-60f8e1dc8f85,2019-08-17 22:37:08 UTC
+133,allow,104.219.79.155,196.106.27.124,80,Wherever,Sandakan,Malaysia,Wherever,4edfdaf2-6e94-4225-8c4f-3195a2a11525,2019-08-17 22:37:08 UTC
+134,allow,29.147.249.66,26.253.253.19,80,Wherever,Douane,Tunisia,Wherever,5ac1161c-fb25-4663-bfb7-039988a2748a,2019-08-17 22:37:08 UTC
+135,allow,132.51.57.68,241.23.120.204,80,Wherever,Aglalana,Philippines,Wherever,47dfaee7-e581-4596-8f78-285bb0aa1ed3,2019-08-17 22:37:08 UTC
+136,deny,143.16.38.25,8.220.181.223,80,Wherever,Tomioka,Japan,Wherever,61c14aa1-b0d2-4246-ac3b-fd3bc6bf3aaa,2019-08-17 22:37:08 UTC
+137,deny,11.37.224.249,242.237.192.220,80,Wherever,Pengbu,China,Wherever,f7cda610-421b-4807-8a42-1f61e183675b,2019-08-17 22:37:08 UTC
+138,deny,252.7.254.134,147.60.93.69,80,Wherever,Studená,Czech Republic,Wherever,f9d8d8f9-3e26-43a3-af0f-db8a4ab8bbbf,2019-08-17 22:37:08 UTC
+139,allow,170.253.146.184,33.233.194.9,80,Wherever,Shentong,China,Wherever,d40a231b-ecbc-4659-89a8-43cbd421f1e6,2019-08-17 22:37:08 UTC
+140,deny,54.202.142.221,11.60.251.37,80,Wherever,Sabana Grande de Boyá,Dominican Republic,Wherever,edce740f-1efc-409b-99c9-db1a05e291fd,2019-08-17 22:37:09 UTC
+141,deny,55.133.22.95,83.164.17.8,80,Wherever,Krajan Pangkah Kulon,Indonesia,Wherever,19d68c97-92b1-4cdb-8033-6b0fd425c6e3,2019-08-17 22:37:09 UTC
+142,allow,42.4.252.233,25.217.255.218,80,Wherever,Ningdun,China,Wherever,cdfa558b-22de-4147-935c-2d6f1f4d3dee,2019-08-17 22:37:09 UTC
+143,deny,138.41.25.82,248.133.153.84,80,Wherever,Barra do Piraí,Brazil,Wherever,b01fa990-044c-41a1-846e-9d8c35240c11,2019-08-17 22:37:09 UTC
+144,allow,41.223.126.60,210.57.211.217,80,Wherever,Diyarb Najm,Egypt,Wherever,f95b5d58-6a3e-40d4-a9bc-1c59081f9b88,2019-08-17 22:37:09 UTC
+145,deny,104.73.231.6,2.128.16.250,80,Wherever,Bocowanti,Indonesia,Wherever,04dac6bf-fc67-4724-aee7-559809e6106c,2019-08-17 22:37:09 UTC
+146,allow,76.29.205.79,142.177.140.110,80,Wherever,Weihai,China,Wherever,f4c150c8-ccb3-4778-96d3-20e47b3906da,2019-08-17 22:37:09 UTC
+147,allow,228.226.252.47,219.250.173.87,80,Wherever,Suslonger,Russia,Wherever,9c226dae-a2e7-499f-b3c9-9469f04c1ef1,2019-08-17 22:37:09 UTC
+148,deny,172.241.221.96,45.200.185.232,80,Wherever,Huskvarna,Sweden,Wherever,15437ce5-1834-4071-9f94-6906610d9669,2019-08-17 22:37:09 UTC
+149,allow,141.109.211.66,73.108.9.164,80,Wherever,Mojo,Ethiopia,Wherever,cb75ffbf-22f7-4856-8f65-db09f38afee1,2019-08-17 22:37:09 UTC
+150,deny,3.174.212.55,187.55.156.131,80,Wherever,Baldone,Latvia,Wherever,34dcc5a0-fa4b-4798-b16c-256243599396,2019-08-17 22:37:09 UTC
+151,deny,213.31.65.239,23.240.70.128,80,Wherever,Langarūd,Iran,Wherever,d7d69834-47ce-4073-9940-4577c29026b7,2019-08-17 22:37:09 UTC
+152,allow,29.173.189.245,31.212.194.206,80,Wherever,Santa Clara,Cuba,Wherever,2b427c28-ea7a-4d76-ac21-2d5d00d24134,2019-08-17 22:37:09 UTC
+153,allow,42.69.83.52,3.47.12.221,80,Wherever,Pospelikha,Russia,Wherever,cb3b8c16-0dba-4168-8792-0143d6ffcca9,2019-08-17 22:37:09 UTC
+154,deny,118.234.222.16,165.141.99.91,80,Wherever,Ol Kalou,Kenya,Wherever,04ea00ae-956f-4fa3-8f27-259788957b46,2019-08-17 22:37:09 UTC
+155,allow,217.217.215.200,228.242.90.35,80,Wherever,Concepción,Paraguay,Wherever,0e19af70-827b-42b5-8375-106dd4a7b764,2019-08-17 22:37:09 UTC
+156,deny,27.118.96.124,89.206.88.123,80,Wherever,Duobaoshan,China,Wherever,58e0faf6-b636-48fa-8bc9-3848aee22536,2019-08-17 22:37:09 UTC
+157,deny,110.164.183.26,223.33.116.153,80,Wherever,Mỹ Thọ,Vietnam,Wherever,084a09e4-448c-4924-bd0f-379aa2740593,2019-08-17 22:37:09 UTC
+158,allow,121.87.71.154,204.193.196.116,80,Wherever,Kremenets’,Ukraine,Wherever,28cafad1-e547-49ee-8dd2-32dbe99e15b3,2019-08-17 22:37:09 UTC
+159,allow,171.157.55.211,213.64.238.229,80,Wherever,Krajan Karangwage,Indonesia,Wherever,cae65760-2590-461f-b61b-6c907f7ed192,2019-08-17 22:37:09 UTC
+160,allow,75.146.201.109,59.49.222.244,80,Wherever,Zhaiwu,China,Wherever,5c1b1327-7e2a-493d-9e1c-27dd8bb5bb88,2019-08-17 22:37:09 UTC
+161,deny,171.11.236.145,183.148.199.136,80,Wherever,Alexandroúpoli,Greece,Wherever,03d6c478-ea97-4dd5-8e4a-6fcf50910592,2019-08-17 22:37:09 UTC
+162,deny,109.88.205.200,146.1.76.239,80,Wherever,Cerinza,Colombia,Wherever,ec8605ee-a84b-46ec-a88d-220d41825011,2019-08-17 22:37:09 UTC
+163,allow,113.90.37.85,109.63.61.209,80,Wherever,Sedatigede,Indonesia,Wherever,f6145b27-b811-4503-9864-3999a8542fee,2019-08-17 22:37:09 UTC
+164,deny,149.87.63.140,244.11.172.90,80,Wherever,Biasong,Philippines,Wherever,7d64733f-1b43-412e-a866-7ee47832951e,2019-08-17 22:37:09 UTC
+165,allow,118.86.174.183,220.22.13.152,80,Wherever,Pereval'noe,Ukraine,Wherever,d8d72050-b01c-4692-891a-a9582f586a0c,2019-08-17 22:37:09 UTC
+166,allow,35.187.130.58,191.154.44.112,80,Wherever,Ambon,Indonesia,Wherever,44dd8910-c470-4f00-b328-c68c12c842bb,2019-08-17 22:37:09 UTC
+167,deny,53.61.103.71,185.34.165.7,80,Wherever,Xintai,China,Wherever,c71b9c3e-38c2-4e8b-871e-f7d6b75566fa,2019-08-17 22:37:09 UTC
+168,deny,79.82.173.162,246.94.116.77,80,Wherever,Taywanak Ilaya,Philippines,Wherever,96aa900a-2459-422a-9ca5-36fa73ee4ea6,2019-08-17 22:37:09 UTC
+169,deny,57.237.66.41,45.219.215.167,80,Wherever,Nacimiento,Chile,Wherever,24fccd81-d386-4c98-861e-578c4753cc04,2019-08-17 22:37:09 UTC
+170,deny,202.209.81.187,39.83.77.121,80,Wherever,Asadābād,Afghanistan,Wherever,7ca6bed4-d9c3-4205-8803-d868417ecffb,2019-08-17 22:37:09 UTC
+171,deny,223.179.134.140,209.70.200.1,80,Wherever,Yunmeng Chengguanzhen,China,Wherever,9b3bfed1-0527-4018-9946-1f96c2795d95,2019-08-17 22:37:09 UTC
+172,deny,200.119.107.234,7.128.12.54,80,Wherever,Susanino,Russia,Wherever,8339d3cc-b39f-4314-a212-bf977a83c1ff,2019-08-17 22:37:09 UTC
+173,deny,56.99.16.204,177.54.223.184,80,Wherever,Pergamos,Cyprus,Wherever,7b6a8651-7736-406d-a8c9-aa9bada26a00,2019-08-17 22:37:09 UTC
+174,allow,205.237.246.246,223.107.172.182,80,Wherever,L'Aigle,France,Wherever,853510e6-c83e-496d-8162-14574e317267,2019-08-17 22:37:09 UTC
+175,allow,180.242.29.200,226.57.170.7,80,Wherever,Turze Pole,Poland,Wherever,e678dfab-9fbe-4506-a32e-1388f903564e,2019-08-17 22:37:09 UTC
+176,allow,247.36.35.207,134.249.24.174,80,Wherever,Sinait,Philippines,Wherever,a136d866-7add-4c0a-bfba-7db38a2c092f,2019-08-17 22:37:09 UTC
+177,deny,116.217.7.216,178.114.141.172,80,Wherever,Bacem,Indonesia,Wherever,2e2ea8e5-8575-4bfa-a4c2-eb277d02102c,2019-08-17 22:37:09 UTC
+178,deny,100.117.208.196,79.136.195.63,80,Wherever,Baião,Portugal,Wherever,8f00889a-e0b6-4a28-b6e8-c8fca0330e2e,2019-08-17 22:37:09 UTC
+179,allow,202.113.74.96,188.28.210.237,80,Wherever,Canghou,China,Wherever,4bdcaa5b-acc6-478c-8ba9-c5d0e6c0dd4a,2019-08-17 22:37:09 UTC
+180,deny,205.87.29.82,231.38.93.52,80,Wherever,Carrasqueira,Portugal,Wherever,1bcbf979-63ce-4f81-8d73-12acbfcb95ac,2019-08-17 22:37:09 UTC
+181,deny,72.248.71.105,22.27.21.157,80,Wherever,Gibato,Philippines,Wherever,6caecc38-322b-40d7-83c3-e7bed94c20a5,2019-08-17 22:37:09 UTC
+182,deny,160.195.193.45,120.76.140.15,80,Wherever,Minas de Matahambre,Cuba,Wherever,27a6043d-3167-4f4d-9ed5-e0e63a62b213,2019-08-17 22:37:09 UTC
+183,allow,35.93.67.143,174.160.235.185,80,Wherever,Gościeradów,Poland,Wherever,fb9d348f-14fa-4758-805e-edda83029590,2019-08-17 22:37:09 UTC
+184,allow,163.235.158.254,155.11.169.65,80,Wherever,Sacramento,United States,Wherever,39680d74-01e4-4c14-a969-df9b34964a67,2019-08-17 22:37:09 UTC
+185,deny,77.42.8.192,231.172.167.72,80,Wherever,Sukamulia,Indonesia,Wherever,63b959a1-8944-4f04-bd13-ba691585dbc8,2019-08-17 22:37:09 UTC
+186,allow,171.26.196.23,76.68.116.191,80,Wherever,Pingqiao,China,Wherever,cea65b82-0d35-49f6-89f3-0a4ab43e8421,2019-08-17 22:37:09 UTC
+187,allow,88.137.226.55,67.182.102.118,80,Wherever,Sam Roi Yot,Thailand,Wherever,95bc4cf8-19e1-405f-acb7-590fb36304b1,2019-08-17 22:37:09 UTC
+188,deny,43.108.144.26,219.131.218.147,80,Wherever,Kéfalos,Greece,Wherever,2a98554c-1e34-457c-9f42-05221d418a73,2019-08-17 22:37:09 UTC
+189,allow,27.228.187.202,232.95.55.183,80,Wherever,Pasiripis,Indonesia,Wherever,ae8ed609-ebe8-491a-8229-37de43a4dd9e,2019-08-17 22:37:09 UTC
+190,deny,119.148.32.148,112.130.217.123,80,Wherever,Mahekou,China,Wherever,de53b30a-b2fa-4db3-940f-27a6f67779f6,2019-08-17 22:37:09 UTC
+191,allow,201.6.54.234,86.185.6.59,80,Wherever,Karangpocok,Indonesia,Wherever,dbc0147b-ff37-4c19-82a6-517d5e614346,2019-08-17 22:37:09 UTC
+192,deny,8.175.184.40,65.228.22.21,80,Wherever,Shagang,China,Wherever,f3438e01-5393-4697-9132-b5690ca83c38,2019-08-17 22:37:09 UTC
+193,allow,230.116.238.152,229.237.100.184,80,Wherever,Zavolzh’ye,Russia,Wherever,a872e4ed-ef92-44ca-8143-4f110f0484f9,2019-08-17 22:37:09 UTC
+194,deny,195.127.85.141,127.138.84.32,80,Wherever,Midleton,Ireland,Wherever,fd817b66-64d3-4bba-a5de-c0714301a9fd,2019-08-17 22:37:09 UTC
+195,deny,58.72.118.28,243.98.71.170,80,Wherever,Yaguachi Nuevo,Ecuador,Wherever,a2c0d001-f9b3-4878-b464-e52571db0c1f,2019-08-17 22:37:09 UTC
+196,allow,239.186.243.234,206.13.115.93,80,Wherever,Shenkou,China,Wherever,8a003b88-4a53-4b27-8adc-689f28c4d112,2019-08-17 22:37:09 UTC
+197,deny,128.240.143.104,14.235.91.87,80,Wherever,Poniklá,Czech Republic,Wherever,ee1808e4-836e-4c15-bae0-a2f132b55e99,2019-08-17 22:37:09 UTC
+198,allow,217.217.101.63,208.117.19.192,80,Wherever,Kubanskiy,Russia,Wherever,42ad2920-055d-40c6-83a3-41a05370a370,2019-08-17 22:37:09 UTC
+199,deny,148.205.103.54,244.163.175.104,80,Wherever,Kedungdoro,Indonesia,Wherever,fa8931b6-d5a1-4148-a634-9df025da851c,2019-08-17 22:37:09 UTC
+200,deny,16.46.95.11,163.60.163.46,80,Wherever,Juiz de Fora,Brazil,Wherever,7989add6-00ce-49e9-bc72-9dc591ec2038,2019-08-17 22:37:09 UTC
+201,allow,204.1.128.178,160.25.169.32,80,Wherever,Kedungsumurkrajan,Indonesia,Wherever,738d21c7-7968-4677-96c2-7de4f77ea843,2019-08-17 22:37:09 UTC
+202,allow,123.32.171.185,196.160.247.44,80,Wherever,Malāyer,Iran,Wherever,1d28f6d4-b2a7-4393-b565-aa49a2d4f7b3,2019-08-17 22:37:09 UTC
+203,allow,8.62.52.65,71.11.217.32,80,Wherever,Phú Mỹ,Vietnam,Wherever,01fac414-1df2-49f5-bd77-cc54eca3a030,2019-08-17 22:37:09 UTC
+204,deny,29.77.92.57,156.231.124.180,80,Wherever,Rakitovo,Bulgaria,Wherever,c9cbd169-4daa-41c2-b7d6-0b326202ce3b,2019-08-17 22:37:09 UTC
+205,deny,56.226.123.237,24.34.178.246,80,Wherever,Huillapima,Argentina,Wherever,8bfc08fd-dcad-4e00-8c83-598d83a2316d,2019-08-17 22:37:09 UTC
+206,deny,114.83.136.122,68.75.180.87,80,Wherever,Kadupayung,Indonesia,Wherever,3ad6b881-59cc-4f10-8158-de0566f25da5,2019-08-17 22:37:09 UTC
+207,deny,174.87.135.224,222.235.202.14,80,Wherever,Le Mans,France,Wherever,87c914bf-b7c6-44b0-9688-9aea9aa13fff,2019-08-17 22:37:09 UTC
+208,allow,227.53.67.173,54.121.158.219,80,Wherever,Bagalangit,Philippines,Wherever,ff45eb50-db5c-40ba-ab12-39e70fa6c3a5,2019-08-17 22:37:09 UTC
+209,allow,190.35.38.239,232.214.251.31,80,Wherever,Omuo-Ekiti,Nigeria,Wherever,73f2ebf5-a1ca-42bc-aa26-f56ef573acfb,2019-08-17 22:37:09 UTC
+210,deny,38.162.71.99,113.252.225.242,80,Wherever,Bijia,China,Wherever,a03fcb89-4ce2-4605-ac4c-fb4aa9f9176e,2019-08-17 22:37:09 UTC
+211,deny,210.118.4.91,208.200.217.252,80,Wherever,Zhouzhuang,China,Wherever,12bc3823-6bf3-46f4-85fc-70e0cf25e917,2019-08-17 22:37:09 UTC
+212,allow,138.43.205.92,136.143.43.152,80,Wherever,Tomakivka,Ukraine,Wherever,0cb8bf9d-6ddd-4483-8703-74af0cb28caf,2019-08-17 22:37:09 UTC
+213,allow,150.238.90.172,0.1.222.126,80,Wherever,Bakungan,Indonesia,Wherever,1455c10c-14b3-421d-a1cb-01827baee291,2019-08-17 22:37:09 UTC
+214,allow,18.234.199.111,136.162.24.21,80,Wherever,Chiang Mai,Thailand,Wherever,ed7d15b7-9e37-44bb-9a16-2cc9f83709a8,2019-08-17 22:37:09 UTC
+215,allow,173.253.35.219,102.5.252.17,80,Wherever,Zavoronezhskoye,Russia,Wherever,ed43cb4e-a027-460b-abaf-58ebbf66c565,2019-08-17 22:37:09 UTC
+216,allow,55.121.108.90,208.84.8.155,80,Wherever,Xingfeng,China,Wherever,8bdf4afa-321a-478f-be82-1e719be4b19c,2019-08-17 22:37:09 UTC
+217,allow,29.60.18.108,67.190.224.131,80,Wherever,Biguaçu,Brazil,Wherever,1fd044e0-c2de-4283-b095-e4f5c9188c5c,2019-08-17 22:37:09 UTC
+218,deny,27.189.245.54,195.0.177.174,80,Wherever,Herne,Germany,Wherever,0cfb7a4d-3411-4521-9a0c-e3c60b5254df,2019-08-17 22:37:09 UTC
+219,allow,49.222.176.130,247.49.172.218,80,Wherever,Sukhobezvodnoye,Russia,Wherever,29d4b4cf-7ac4-4b8b-aa2b-00bd755500ab,2019-08-17 22:37:09 UTC
+220,allow,66.202.203.71,42.252.71.239,80,Wherever,Quipot,Philippines,Wherever,1200476b-b7b9-470a-ab9b-bd547543efaa,2019-08-17 22:37:09 UTC
+221,deny,146.2.217.166,91.46.48.224,80,Wherever,Minle,China,Wherever,cb0e0192-9449-47bd-bf45-a0789e0fb75b,2019-08-17 22:37:09 UTC
+222,deny,69.250.136.216,37.106.242.240,80,Wherever,Berlin,Germany,Wherever,a18a02ec-cbb3-4ccd-a2b4-f82aefa6112f,2019-08-17 22:37:09 UTC
+223,deny,223.34.10.33,98.87.146.187,80,Wherever,Xinhua,China,Wherever,b1b38cc6-ae47-4518-a529-eef720b8f844,2019-08-17 22:37:09 UTC
+224,deny,26.238.196.192,255.21.87.35,80,Wherever,Kruševac,Serbia,Wherever,9bb745f9-9b40-4401-aecd-b3a1ff6ddffb,2019-08-17 22:37:09 UTC
+225,deny,4.4.56.44,103.189.190.41,80,Wherever,Lueng Putu,Indonesia,Wherever,9eb6515f-9df0-4adc-b300-ff091758ea2a,2019-08-17 22:37:09 UTC
+226,allow,97.161.18.131,58.7.125.18,80,Wherever,Paraíso,Costa Rica,Wherever,35fcadfc-b20b-4077-983a-2f56699e3369,2019-08-17 22:37:09 UTC
+227,deny,22.23.149.231,184.67.140.138,80,Wherever,Novyye Cherëmushki,Russia,Wherever,6abf69bf-cd7f-477c-901b-e3224265f101,2019-08-17 22:37:09 UTC
+228,allow,80.210.184.34,85.117.72.17,80,Wherever,Tall aḑ Ḑamān,Syria,Wherever,bf13117f-6e66-4133-807f-cd34f2a75e7a,2019-08-17 22:37:09 UTC
+229,allow,121.216.44.105,169.207.91.34,80,Wherever,Longcun,China,Wherever,ea38248a-5a19-4d39-9a3a-be70684d68f8,2019-08-17 22:37:09 UTC
+230,allow,204.142.32.194,149.90.195.43,80,Wherever,Benghazi,Libya,Wherever,0f82678e-ae73-4362-8ba3-f1b816fc2ae1,2019-08-17 22:37:09 UTC
+231,deny,187.194.18.54,64.12.26.220,80,Wherever,Fria,Guinea,Wherever,af2dd8cf-7069-4f7b-92e6-1e534a07b64b,2019-08-17 22:37:09 UTC
+232,deny,98.83.244.118,135.151.201.153,80,Wherever,Kanshan,China,Wherever,6ddae279-d84d-435d-9a67-8a0f63d40151,2019-08-17 22:37:09 UTC
+233,allow,67.231.80.187,197.220.75.37,80,Wherever,Las Vegas,United States,Wherever,cb17784f-9a5d-4e3e-b6a1-315163faea43,2019-08-17 22:37:09 UTC
+234,allow,170.158.63.173,108.207.198.147,80,Wherever,Aguisan,Philippines,Wherever,0388d939-f692-4df4-af47-846434317636,2019-08-17 22:37:09 UTC
+235,allow,202.110.122.221,123.171.114.173,80,Wherever,Az Zulfi,Saudi Arabia,Wherever,8e36ade3-ec5b-4018-947c-6dd8e4c53cc7,2019-08-17 22:37:09 UTC
+236,allow,39.37.63.178,202.200.253.183,80,Wherever,Zhugentan,China,Wherever,d028ef49-29b6-4d16-a1f0-39e84d47da45,2019-08-17 22:37:09 UTC
+237,deny,87.206.54.189,192.44.153.53,80,Wherever,Repelón,Colombia,Wherever,923ecd82-06f7-474f-90d9-98bf6ac198e7,2019-08-17 22:37:09 UTC
+238,allow,39.204.137.244,1.230.3.147,80,Wherever,Sabinópolis,Brazil,Wherever,80d22250-5185-49ab-8436-c69f3a8eebc2,2019-08-17 22:37:09 UTC
+239,allow,92.221.192.224,12.4.147.11,80,Wherever,Izra‘,Syria,Wherever,d5c629a2-e7ae-4f66-aa01-dfcb1cac9edc,2019-08-17 22:37:09 UTC
+240,deny,68.124.144.25,64.100.65.165,80,Wherever,Nisporeni,Moldova,Wherever,da76ec4e-4fc5-4914-9891-35d8d0b00d71,2019-08-17 22:37:09 UTC
+241,allow,244.196.11.60,7.237.34.117,80,Wherever,Paris 17,France,Wherever,7430c974-bab6-4dd9-93d1-243b04275b7a,2019-08-17 22:37:09 UTC
+242,deny,116.105.199.112,22.177.48.77,80,Wherever,Santa Ana,Philippines,Wherever,7a8c76dc-5035-462e-b022-6123283b9ccd,2019-08-17 22:37:09 UTC
+243,deny,66.240.99.169,167.238.239.247,80,Wherever,Taboão da Serra,Brazil,Wherever,e12f6f61-2832-4a1c-8aaa-412baec2eec3,2019-08-17 22:37:09 UTC
+244,allow,21.84.90.242,192.16.205.47,80,Wherever,Şuraabad,Azerbaijan,Wherever,d83f9303-6497-4a16-8604-e25f12822efa,2019-08-17 22:37:09 UTC
+245,allow,176.64.73.65,36.49.4.226,80,Wherever,Gujiang,China,Wherever,fb08df70-2774-477d-ab4d-5e2d7db5e34d,2019-08-17 22:37:09 UTC
+246,allow,122.16.36.42,210.23.2.139,80,Wherever,Wum,Cameroon,Wherever,32a91bf4-4d2a-4b87-b293-3395585079b1,2019-08-17 22:37:09 UTC
+247,deny,95.138.232.63,213.23.94.170,80,Wherever,Tabia,Morocco,Wherever,af379ae7-b6ae-4546-b111-29702913a952,2019-08-17 22:37:09 UTC
+248,allow,12.53.62.162,247.29.79.117,80,Wherever,Pinheiro,Portugal,Wherever,836d8f50-406c-4be4-9692-8b681f700a87,2019-08-17 22:37:09 UTC
+249,deny,56.130.26.10,33.76.150.152,80,Wherever,Güira de Melena,Cuba,Wherever,d97c115e-1bdf-4275-9b9e-df4c3796eee9,2019-08-17 22:37:09 UTC
+250,allow,185.132.254.204,150.71.91.225,80,Wherever,Bulgan,Mongolia,Wherever,7de68ec1-6680-43e1-81bc-f4e98f96923f,2019-08-17 22:37:09 UTC
+251,deny,88.199.137.19,11.125.152.133,80,Wherever,Cihaladan,Indonesia,Wherever,12c819d1-0ef4-4282-a979-c9b0213f2bd4,2019-08-17 22:37:09 UTC
+252,deny,163.173.29.105,238.108.207.29,80,Wherever,Gannan,China,Wherever,aac8ed8c-a392-407a-bfbf-5a61a0d428c2,2019-08-17 22:37:09 UTC
+253,deny,115.61.222.170,251.224.238.4,80,Wherever,Kalianyar Selatan,Indonesia,Wherever,07f4e8ba-dd90-42ee-970b-652c052bf270,2019-08-17 22:37:09 UTC
+254,deny,77.133.15.185,247.80.251.21,80,Wherever,Al ‘Azīzīyah,Iraq,Wherever,31679f96-deea-4e96-8412-276b30fd2646,2019-08-17 22:37:09 UTC
+255,allow,34.10.19.152,73.7.59.19,80,Wherever,Kolmården,Sweden,Wherever,9c61b290-225f-46ac-b7c2-ee6347b894e0,2019-08-17 22:37:09 UTC
+256,allow,42.204.45.1,198.184.124.184,80,Wherever,Huangyuan Chengguanzhen,China,Wherever,1322d39f-be19-4049-95c0-17e2bb765932,2019-08-17 22:37:09 UTC
+257,deny,35.254.44.56,57.215.182.112,80,Wherever,Tantu,China,Wherever,f496b23d-cfea-43b5-8ab0-5b6c32120cc9,2019-08-17 22:37:09 UTC
+258,deny,75.211.195.214,97.109.35.94,80,Wherever,Shcherbinka,Russia,Wherever,889bba9b-ffc0-48e1-b6e4-9b90185a6890,2019-08-17 22:37:09 UTC
+259,allow,48.232.202.195,158.185.146.196,80,Wherever,Liangzeng,China,Wherever,88fa02d1-77db-4b4c-ae8c-121565418368,2019-08-17 22:37:09 UTC
+260,deny,46.75.230.113,63.191.50.149,80,Wherever,Uujim,Mongolia,Wherever,626c05fe-746f-452f-8d8b-f7c058e9e01d,2019-08-17 22:37:09 UTC
+261,deny,21.122.101.26,2.188.142.6,80,Wherever,Aparecida,Brazil,Wherever,0bb3d4db-14dd-40b5-a9c3-98c21406889e,2019-08-17 22:37:09 UTC
+262,deny,162.209.143.103,204.76.218.224,80,Wherever,Złotniki Kujawskie,Poland,Wherever,ddfd05ab-84e0-46c0-b3fa-4a81a698a857,2019-08-17 22:37:09 UTC
+263,deny,224.183.23.112,118.125.48.15,80,Wherever,Balzan,Malta,Wherever,b3ed8521-8f5c-4d92-bdf9-2859a6ec9285,2019-08-17 22:37:09 UTC
+264,deny,162.206.249.237,113.153.171.80,80,Wherever,El Corpus,Honduras,Wherever,65d3bf3e-76f7-4ac0-8a71-f2ca6bab820b,2019-08-17 22:37:09 UTC
+265,allow,80.153.37.80,198.137.37.246,80,Wherever,Qingjiang,China,Wherever,c3f0ebaf-3e07-4348-a5f8-40092fd1adf1,2019-08-17 22:37:09 UTC
+266,deny,69.143.194.98,212.24.14.87,80,Wherever,Shuiting,China,Wherever,bc9c5437-08c4-4517-9d09-7fbf793508a2,2019-08-17 22:37:09 UTC
+267,allow,57.51.150.7,254.27.51.167,80,Wherever,Thawi Watthana,Thailand,Wherever,4e111a8c-fb43-4ee6-974f-28d214a2625b,2019-08-17 22:37:09 UTC
+268,deny,123.52.62.217,165.181.10.42,80,Wherever,Soutinho,Portugal,Wherever,bb1b829d-bf7e-4492-99d1-fea58e7ef803,2019-08-17 22:37:09 UTC
+269,deny,121.16.224.168,7.150.222.162,80,Wherever,Santa Rita,Mexico,Wherever,85e560ae-e89f-45a1-8880-89d2093999d7,2019-08-17 22:37:09 UTC
+270,deny,244.23.120.13,124.128.43.80,80,Wherever,Embu,Brazil,Wherever,7bc314f4-e247-4225-a5ca-f1e711c8370d,2019-08-17 22:37:09 UTC
+271,deny,211.106.47.172,133.183.54.216,80,Wherever,Bamban,Philippines,Wherever,27b79e9a-af3c-4435-9ea6-cc666b2b4c07,2019-08-17 22:37:09 UTC
+272,allow,116.39.106.72,187.56.234.27,80,Wherever,Qiaotou,China,Wherever,f3dd0130-781f-4c64-8cff-a30520217405,2019-08-17 22:37:09 UTC
+273,allow,3.132.192.16,35.221.144.99,80,Wherever,Lourdes,Philippines,Wherever,55277e24-0192-42e5-ad77-dc07749d9e02,2019-08-17 22:37:09 UTC
+274,allow,58.105.81.94,228.207.240.214,80,Wherever,Nanzhang Chengguanzhen,China,Wherever,e0ea4af2-9f24-453f-acc9-e6de5cc19574,2019-08-17 22:37:09 UTC
+275,deny,166.43.96.119,255.55.120.114,80,Wherever,Campo,Portugal,Wherever,22dfe61b-489d-4583-9706-f4c7f51d7bfd,2019-08-17 22:37:09 UTC
+276,deny,54.92.17.230,123.56.177.49,80,Wherever,Górki,Poland,Wherever,741237e7-dbae-4eeb-a422-c5362087bbdc,2019-08-17 22:37:09 UTC
+277,allow,37.109.168.221,129.152.56.164,80,Wherever,Gerelayang,Indonesia,Wherever,ec72fc5b-2e8f-4ca7-941d-d3742610b04e,2019-08-17 22:37:09 UTC
+278,allow,110.124.51.163,164.251.131.199,80,Wherever,Xiting,China,Wherever,b6097770-0d89-4aa0-ae20-c496d6e108f9,2019-08-17 22:37:09 UTC
+279,allow,68.13.30.220,109.91.229.194,80,Wherever,Xushangqiao,China,Wherever,5ce7b66f-5f04-4196-9d7c-58d144567b7d,2019-08-17 22:37:09 UTC
+280,deny,181.80.21.176,227.49.25.239,80,Wherever,Patos,Brazil,Wherever,b5f21293-5edd-4996-9e7f-d44321b7cdb6,2019-08-17 22:37:09 UTC
+281,deny,158.198.239.134,59.114.141.161,80,Wherever,Pas Pul,Afghanistan,Wherever,1cd5001d-330a-406d-a31a-3acb3ef36be7,2019-08-17 22:37:09 UTC
+282,deny,132.80.158.179,66.76.122.188,80,Wherever,Niños Heroes,Mexico,Wherever,63aea993-4a83-441a-ac74-ca7142aae857,2019-08-17 22:37:09 UTC
+283,deny,150.253.146.48,248.83.228.255,80,Wherever,Krujë,Albania,Wherever,d831a88e-be6a-422a-a28c-167152f84a76,2019-08-17 22:37:09 UTC
+284,allow,210.121.99.190,238.131.222.65,80,Wherever,Oxford,Canada,Wherever,f7fe3f32-bbfb-453e-859f-452bfb53e7fa,2019-08-17 22:37:09 UTC
+285,allow,238.244.93.249,126.62.25.34,80,Wherever,Irákleion,Greece,Wherever,4ef605ad-306b-48b9-940b-42096d5e6899,2019-08-17 22:37:09 UTC
+286,allow,239.102.236.208,188.136.133.245,80,Wherever,Yantan,China,Wherever,6e1817b6-4fb6-41fe-a95f-03a397fdc66c,2019-08-17 22:37:09 UTC
+287,deny,144.103.223.60,243.174.9.29,80,Wherever,Wonorejo,Indonesia,Wherever,45f4d17e-c832-472b-818a-149f64407d81,2019-08-17 22:37:09 UTC
+288,deny,114.144.208.30,204.164.110.178,80,Wherever,Catalina,Canada,Wherever,22bb18b5-73cb-465e-9518-f731e0a14901,2019-08-17 22:37:09 UTC
+289,deny,26.169.29.130,204.5.36.23,80,Wherever,Thetford-Mines,Canada,Wherever,c23221cb-b920-4a8b-b23f-71757bdc0b02,2019-08-17 22:37:09 UTC
+290,deny,108.140.221.72,225.23.109.29,80,Wherever,Reguenga,Portugal,Wherever,fd727215-367c-4638-a7f2-832b7757bb9c,2019-08-17 22:37:09 UTC
+291,deny,172.157.181.168,83.4.92.150,80,Wherever,Zátor,Czech Republic,Wherever,48d5f0c0-1721-48c3-a86b-1b5059ef5a7e,2019-08-17 22:37:09 UTC
+292,deny,28.138.61.204,81.147.102.159,80,Wherever,Les Cèdres,Canada,Wherever,b5c21ae8-86df-44bd-b234-2851ce3fe78d,2019-08-17 22:37:09 UTC
+293,deny,95.221.92.218,99.105.232.19,80,Wherever,Champerico,Guatemala,Wherever,cca21168-608c-4590-aef1-70b4ecd1a552,2019-08-17 22:37:09 UTC
+294,deny,206.138.156.35,71.147.160.151,80,Wherever,Xinxiang,China,Wherever,0e4c31dc-2fb6-4e83-a4b4-adb4c35d84d3,2019-08-17 22:37:09 UTC
+295,allow,71.77.178.86,182.169.43.69,80,Wherever,Leye,China,Wherever,46c9d897-c42f-4080-9f28-227dd2ac3a03,2019-08-17 22:37:09 UTC
+296,allow,82.242.225.205,15.124.21.85,80,Wherever,Líbano,Colombia,Wherever,2b95ddf7-368c-4353-b599-503ee002b18b,2019-08-17 22:37:09 UTC
+297,allow,152.101.184.123,137.12.209.196,80,Wherever,Kidodi,Tanzania,Wherever,26cc5add-40f2-48c6-91a6-2904859af5d7,2019-08-17 22:37:09 UTC
+298,deny,39.39.63.227,31.128.254.60,80,Wherever,Jönköping,Sweden,Wherever,7094ebc8-cf52-4b96-858c-e29db88ae778,2019-08-17 22:37:09 UTC
+299,deny,100.168.181.132,127.205.119.217,80,Wherever,Envira,Brazil,Wherever,7727d812-3fb1-460c-aa76-e1fc679a78a3,2019-08-17 22:37:09 UTC
+300,deny,27.50.169.158,218.4.13.85,80,Wherever,Cariamanga,Ecuador,Wherever,db0b70a5-8f88-4e0d-bdb6-9950eef45792,2019-08-17 22:37:09 UTC
+301,deny,236.192.109.111,46.18.145.66,80,Wherever,Gasri,Indonesia,Wherever,9d5020a9-21e2-4179-94a0-34ebdc97304a,2019-08-17 22:37:09 UTC
+302,allow,157.83.52.107,29.217.167.2,80,Wherever,Guanzhuang,China,Wherever,13e7bdda-e9bd-4efe-8835-93ac3f6bcdb4,2019-08-17 22:37:09 UTC
+303,deny,145.169.177.214,34.124.53.10,80,Wherever,Nakhon Si Thammarat,Thailand,Wherever,769d6f26-5edc-452b-b7eb-46202cbeb37b,2019-08-17 22:37:09 UTC
+304,allow,142.201.59.151,164.33.152.37,80,Wherever,Batatais,Brazil,Wherever,a1bda71d-5ef9-44e8-af19-f08172a52322,2019-08-17 22:37:09 UTC
+305,deny,168.80.222.250,207.123.246.231,80,Wherever,Llano de Piedra,Panama,Wherever,b34b9399-5511-48ee-99ff-023ceae16cac,2019-08-17 22:37:09 UTC
+306,allow,156.88.170.39,50.84.64.147,80,Wherever,Arboga,Sweden,Wherever,3d07bb40-943d-47dc-81ec-0c4cd99c212f,2019-08-17 22:37:09 UTC
+307,allow,30.218.89.215,153.6.247.114,80,Wherever,Juan Adrián,Dominican Republic,Wherever,96fd9f47-7f55-47e8-945e-9b53f5152626,2019-08-17 22:37:09 UTC
+308,allow,2.210.24.238,93.30.55.182,80,Wherever,Ronggo,Indonesia,Wherever,de0df96e-23cf-4054-a1d8-60d958ddcf11,2019-08-17 22:37:09 UTC
+309,allow,255.166.185.210,44.46.172.147,80,Wherever,Majalengka,Indonesia,Wherever,2ad7b51c-88aa-49b7-84fc-0e9a4b256b63,2019-08-17 22:37:09 UTC
+310,deny,218.133.44.113,112.108.55.192,80,Wherever,Pringgoboyo,Indonesia,Wherever,e5938aec-7d20-4f7c-9ffa-ef4089ff17c9,2019-08-17 22:37:09 UTC
+311,deny,234.78.171.18,219.174.118.184,80,Wherever,Banjarmasin,Indonesia,Wherever,05e8a598-d09c-4cc9-8d26-6efbd517da28,2019-08-17 22:37:09 UTC
+312,allow,60.103.255.84,57.18.55.1,80,Wherever,Yangyuan,China,Wherever,179f04bf-0692-4a3d-8689-fe15f89b272e,2019-08-17 22:37:09 UTC
+313,allow,165.171.226.191,6.33.33.180,80,Wherever,Falāvarjān,Iran,Wherever,15d61e9e-4f3e-4c8b-a7f3-c0bd075874fd,2019-08-17 22:37:09 UTC
+314,deny,253.222.88.127,243.118.47.238,80,Wherever,Libourne,France,Wherever,d2d53355-ab77-48b0-a57f-c9675f5745d6,2019-08-17 22:37:09 UTC
+315,deny,173.69.119.115,190.137.174.217,80,Wherever,Złoty Stok,Poland,Wherever,c8b11772-1240-4956-a0dc-bf6410a96053,2019-08-17 22:37:09 UTC
+316,deny,129.57.115.122,98.10.43.109,80,Wherever,Ḩalāwah,Jordan,Wherever,9b18c256-d8c3-4804-8e3f-84b33c553406,2019-08-17 22:37:09 UTC
+317,deny,56.252.71.222,164.11.14.200,80,Wherever,Annopol,Poland,Wherever,71c07d4d-7f57-419c-8db8-c3e16c7b787d,2019-08-17 22:37:09 UTC
+318,deny,6.195.67.56,130.97.39.211,80,Wherever,Jargalant,Mongolia,Wherever,b4770319-40b9-4bcc-8ccf-5b8cce77236f,2019-08-17 22:37:09 UTC
+319,allow,93.152.137.0,56.169.218.190,80,Wherever,Olenyok,Russia,Wherever,fdc8e11e-b057-484d-bd01-d8449d473e2b,2019-08-17 22:37:09 UTC
+320,allow,226.120.66.44,237.104.193.155,80,Wherever,Dumbéa,New Caledonia,Wherever,f85d81f2-1f2a-431d-8ecd-576de7db3e47,2019-08-17 22:37:09 UTC
+321,deny,163.168.35.237,99.180.234.209,80,Wherever,Qingyun,China,Wherever,9e22be86-5246-491f-963c-b5db0354ad1f,2019-08-17 22:37:09 UTC
+322,deny,11.4.116.177,133.72.88.136,80,Wherever,Lampuyang,Indonesia,Wherever,6dba514b-8616-453e-85b7-1a2e6e7d485a,2019-08-17 22:37:09 UTC
+323,deny,31.143.250.249,55.251.116.17,80,Wherever,Xujiafang,China,Wherever,b1f5a89f-617d-41f8-a3a6-0ff488656e3b,2019-08-17 22:37:09 UTC
+324,allow,247.11.120.232,217.121.161.42,80,Wherever,San Fernando,Philippines,Wherever,72abb968-a473-4e46-b900-7727810816ea,2019-08-17 22:37:09 UTC
+325,deny,105.235.17.29,185.95.215.120,80,Wherever,Kibara,Tanzania,Wherever,4bb652e4-3640-4057-a8e2-791086ec8a2a,2019-08-17 22:37:09 UTC
+326,allow,145.128.202.232,176.224.151.26,80,Wherever,Saint-Brieuc,France,Wherever,59d86394-d272-4e31-9e70-5991048e8ceb,2019-08-17 22:37:09 UTC
+327,deny,152.205.128.21,10.134.199.101,80,Wherever,Yanggu,China,Wherever,a231338e-8a2b-4cf9-b594-d68129cfbcde,2019-08-17 22:37:09 UTC
+328,deny,89.102.102.13,100.102.149.155,80,Wherever,Usab,Philippines,Wherever,24e1d57b-d745-4065-b2bc-6f4670e094a2,2019-08-17 22:37:09 UTC
+329,deny,175.67.11.171,150.47.111.45,80,Wherever,Belmullet,Ireland,Wherever,ee9535de-3926-4422-adcd-b94ba0c0cf4b,2019-08-17 22:37:09 UTC
+330,allow,105.86.22.119,6.129.21.165,80,Wherever,Pánormos,Greece,Wherever,0abb1270-afb7-4596-a7e9-e8dfe4db66da,2019-08-17 22:37:09 UTC
+331,deny,183.110.87.158,182.33.89.172,80,Wherever,Okhotsk,Russia,Wherever,779bd483-cd1b-48e7-a002-d7b05970eb51,2019-08-17 22:37:09 UTC
+332,deny,38.53.151.51,222.108.4.48,80,Wherever,Lindavista,Mexico,Wherever,9902717d-3cbf-4f85-b456-199c32f021a2,2019-08-17 22:37:09 UTC
+333,deny,105.176.129.64,42.41.8.175,80,Wherever,Rancaseneng,Indonesia,Wherever,977a9527-5e25-49de-8889-9763453e5739,2019-08-17 22:37:09 UTC
+334,deny,175.223.172.213,40.1.173.83,80,Wherever,Las Vegas,United States,Wherever,8ba045f3-a7e2-4bfa-8d19-fe95eb1ac13a,2019-08-17 22:37:09 UTC
+335,allow,221.126.184.170,247.215.131.137,80,Wherever,Richmond,United States,Wherever,cc26ab32-13e4-47cc-8322-e154c417efc1,2019-08-17 22:37:09 UTC
+336,allow,45.151.165.79,153.100.137.70,80,Wherever,Plaza de Caisán,Panama,Wherever,ea73ab21-13e1-4dde-b312-b0546ea28bc8,2019-08-17 22:37:09 UTC
+337,allow,167.10.200.218,56.66.41.236,80,Wherever,Los Dos Caminos,Venezuela,Wherever,2079e519-768b-40d0-b154-c3c034847e49,2019-08-17 22:37:09 UTC
+338,deny,17.15.187.161,237.241.217.95,80,Wherever,Aqsay,Kazakhstan,Wherever,9a683744-1390-45a6-a54a-858564950da0,2019-08-17 22:37:09 UTC
+339,deny,196.13.239.86,62.215.115.61,80,Wherever,Khlong Luang,Thailand,Wherever,ed7fdf77-e909-458b-b5bd-065095971d1b,2019-08-17 22:37:09 UTC
+340,deny,220.109.90.99,195.152.219.83,80,Wherever,Mae Ramat,Thailand,Wherever,fbb67b0c-69b1-42dc-af9b-5414fea36506,2019-08-17 22:37:09 UTC
+341,deny,161.137.44.191,253.254.11.23,80,Wherever,Carania,Peru,Wherever,f3cfae82-d280-43cd-9364-fd9087bf2761,2019-08-17 22:37:09 UTC
+342,deny,100.202.98.230,4.108.73.48,80,Wherever,Wschowa,Poland,Wherever,8222f329-9c01-4665-b4b6-bd382ff2d37a,2019-08-17 22:37:09 UTC
+343,deny,122.64.76.98,43.159.70.200,80,Wherever,Nanpiao,China,Wherever,f2df2ad6-53af-47a2-ab58-019a74b9f0a2,2019-08-17 22:37:09 UTC
+344,deny,238.75.175.233,167.9.20.105,80,Wherever,Samara,Russia,Wherever,76ac57f3-4d6f-4b24-90d8-ce2f8a89305d,2019-08-17 22:37:09 UTC
+345,deny,77.127.67.137,122.82.63.152,80,Wherever,Mabu,China,Wherever,52d2f617-9880-4006-b605-55fa8385b8d7,2019-08-17 22:37:09 UTC
+346,deny,73.165.31.103,231.113.233.247,80,Wherever,Mitrópoli,Greece,Wherever,ebf66343-edb1-4c1f-844a-56d064d94259,2019-08-17 22:37:09 UTC
+347,deny,74.27.134.71,20.166.29.144,80,Wherever,Tamano,Japan,Wherever,0839a2d4-2cf7-49ac-a3df-c4c3990ce936,2019-08-17 22:37:09 UTC
+348,deny,18.4.194.123,179.198.49.142,80,Wherever,Maindang,Philippines,Wherever,7bd9d522-cd65-4b73-b61f-308e1aa54761,2019-08-17 22:37:09 UTC
+349,allow,244.87.211.83,70.182.178.180,80,Wherever,Pazarić,Bosnia and Herzegovina,Wherever,4dfea2ee-1106-4173-ba8d-51a1ac00a44a,2019-08-17 22:37:09 UTC
+350,allow,96.99.190.23,9.243.195.55,80,Wherever,New Shagunnu,Nigeria,Wherever,2b929560-901a-44f6-a0e5-7d3af03ff42f,2019-08-17 22:37:09 UTC
+351,deny,52.49.133.184,10.43.127.220,80,Wherever,Al Hijrah,Yemen,Wherever,7956d494-5144-432e-b6a3-241fa98b801e,2019-08-17 22:37:09 UTC
+352,deny,116.48.167.113,218.241.155.254,80,Wherever,Saipan,Northern Mariana Islands,Wherever,a41b76a6-ebdd-4e1d-82da-f620d08f358e,2019-08-17 22:37:09 UTC
+353,deny,22.51.45.19,221.65.244.213,80,Wherever,Saint Louis,United States,Wherever,55c14937-3f96-4368-99c7-9e5ebe98a44a,2019-08-17 22:37:09 UTC
+354,deny,208.163.31.141,53.254.29.58,80,Wherever,Kerkrade,Netherlands,Wherever,e0b6b9fb-7803-4810-ba43-72f984f4a32d,2019-08-17 22:37:09 UTC
+355,deny,85.196.150.85,138.170.130.3,80,Wherever,Dabou,Ivory Coast,Wherever,5e20a6cf-d739-4f0e-b4c7-d1bf019ad91c,2019-08-17 22:37:09 UTC
+356,allow,55.36.152.22,186.21.174.168,80,Wherever,Marvdasht,Iran,Wherever,f68201d5-b274-41f0-8f4d-a7731016d612,2019-08-17 22:37:09 UTC
+357,deny,107.254.193.148,119.30.90.143,80,Wherever,Göteborg,Sweden,Wherever,879ef3df-0264-4518-bf1d-069b8e523a46,2019-08-17 22:37:09 UTC
+358,deny,93.63.84.135,225.91.166.163,80,Wherever,Łęki,Poland,Wherever,744a29dd-d8c4-4a9c-91c3-6864f1cc0393,2019-08-17 22:37:09 UTC
+359,deny,112.241.126.134,20.97.255.104,80,Wherever,Talipan,Philippines,Wherever,ad4e7880-d934-4859-8b4f-1b8af6d75c41,2019-08-17 22:37:09 UTC
+360,deny,10.14.146.27,14.72.230.3,80,Wherever,Tatebayashi,Japan,Wherever,5ea99a42-ff80-4244-9fa2-56c550234b78,2019-08-17 22:37:09 UTC
+361,deny,232.191.142.133,163.146.46.170,80,Wherever,Maluso,Philippines,Wherever,a61a49ab-6175-4ddd-bc05-fee85a79c150,2019-08-17 22:37:09 UTC
+362,allow,252.228.122.1,242.252.106.90,80,Wherever,Taquile,Peru,Wherever,a554e8ef-a65d-4487-a2ed-cc14fa69eee3,2019-08-17 22:37:09 UTC
+363,deny,33.222.172.193,100.238.32.110,80,Wherever,Linpu,China,Wherever,ebc58c8b-ee05-4f6e-af62-86603e0ee580,2019-08-17 22:37:09 UTC
+364,allow,180.128.251.245,58.6.22.16,80,Wherever,Dayr Dibwān,Palestinian Territory,Wherever,71a2b29a-a2ef-4bdb-a7ce-036988681806,2019-08-17 22:37:09 UTC
+365,allow,70.25.190.251,161.216.234.214,80,Wherever,Los Andes,Colombia,Wherever,f3098036-109c-4673-b204-f6843fc79bd6,2019-08-17 22:37:09 UTC
+366,allow,198.237.9.92,82.198.99.221,80,Wherever,Arras,France,Wherever,310b2a3f-76fc-40a2-9550-b9d8a4de5c5b,2019-08-17 22:37:10 UTC
+367,allow,134.103.250.167,132.120.199.62,80,Wherever,Mafraq,Jordan,Wherever,e9873f0b-9e99-4081-bc65-c669549cb01f,2019-08-17 22:37:10 UTC
+368,deny,229.44.114.207,96.185.162.165,80,Wherever,Nanniu,China,Wherever,10295347-5d60-497a-a67c-6853548efbdd,2019-08-17 22:37:10 UTC
+369,deny,116.8.205.61,222.175.89.87,80,Wherever,Tanshan,China,Wherever,3e67cd9e-8994-45e8-8c9d-64d0c9cf7a1e,2019-08-17 22:37:10 UTC
+370,deny,223.195.183.89,152.49.182.146,80,Wherever,Carcassonne,France,Wherever,7bfd2c9c-63c8-4bdc-b8a4-46a0ced00755,2019-08-17 22:37:10 UTC
+371,allow,101.241.92.122,79.155.4.85,80,Wherever,Bento Gonçalves,Brazil,Wherever,1b9c975a-fe0e-4c61-bc5f-dcd1cb065b11,2019-08-17 22:37:10 UTC
+372,deny,131.171.232.99,244.35.171.112,80,Wherever,Laiyang,China,Wherever,1aa83ad6-eca6-4128-bd89-738146eafbac,2019-08-17 22:37:10 UTC
+373,allow,199.31.187.95,3.38.127.165,80,Wherever,Little Baguio,Philippines,Wherever,1b044c6f-e8ea-4ff5-8fbd-2f8bf173086b,2019-08-17 22:37:10 UTC
+374,deny,218.210.19.129,198.66.74.215,80,Wherever,Alepoú,Greece,Wherever,7811f821-30ec-4d7c-93b3-05e3aa549f2b,2019-08-17 22:37:10 UTC
+375,deny,176.70.53.128,172.72.168.120,80,Wherever,Dazi,China,Wherever,a11187e2-13f3-460f-81c4-4f852e7c1f4b,2019-08-17 22:37:10 UTC
+376,allow,52.224.59.190,45.23.253.207,80,Wherever,Kurungannyawa,Indonesia,Wherever,4f5ab079-7cdf-4cd4-9a34-5d083785bef1,2019-08-17 22:37:10 UTC
+377,deny,2.27.176.5,77.98.227.96,80,Wherever,Thị Trấn Yên Cát,Vietnam,Wherever,6f325745-82e2-4ac6-963f-7ed52bbd4289,2019-08-17 22:37:10 UTC
+378,allow,236.176.234.7,109.0.217.178,80,Wherever,Lyuban’,Belarus,Wherever,be8bed0a-dc20-4228-9d23-961eb60b64de,2019-08-17 22:37:10 UTC
+379,deny,83.188.47.159,133.200.73.189,80,Wherever,Cambita Garabitos,Dominican Republic,Wherever,367a0571-8600-41e1-a496-f691275e3b59,2019-08-17 22:37:10 UTC
+380,allow,130.46.203.217,46.127.90.149,80,Wherever,Butahai,China,Wherever,9a135c0e-d574-41a5-b13b-ce7ad73ed323,2019-08-17 22:37:10 UTC
+381,deny,248.88.229.126,238.114.122.15,80,Wherever,Dzhalka,Russia,Wherever,79787a15-5eff-4cdb-828b-4f9a0a6ecbaf,2019-08-17 22:37:10 UTC
+382,allow,126.19.175.138,241.25.123.117,80,Wherever,Monte da Pedra,Portugal,Wherever,477e3e6c-8b56-41ef-a8a7-7f09caf42b63,2019-08-17 22:37:10 UTC
+383,allow,180.92.233.158,134.146.98.81,80,Wherever,Thị Trấn Sìn Hồ,Vietnam,Wherever,1e4baede-c698-41c3-b134-1cd487d56ab7,2019-08-17 22:37:10 UTC
+384,deny,38.106.45.128,248.16.17.134,80,Wherever,Datarkadu,Indonesia,Wherever,2b79972f-bf27-4a61-9d21-d7954cb945f1,2019-08-17 22:37:10 UTC
+385,deny,74.187.124.249,163.96.225.234,80,Wherever,Mora,Sweden,Wherever,9bdc39bd-ebcf-42e8-baf8-a2843b51ffcc,2019-08-17 22:37:10 UTC
+386,deny,3.76.162.247,201.32.55.133,80,Wherever,Gowurdak,Turkmenistan,Wherever,52c893c5-a8e3-40b0-abe3-06a3f542dcb1,2019-08-17 22:37:10 UTC
+387,deny,131.190.189.127,211.52.49.4,80,Wherever,Xingcheng,China,Wherever,ddec29a8-d335-4afa-bb28-0e9e4f91aef2,2019-08-17 22:37:10 UTC
+388,deny,32.165.118.78,99.3.70.47,80,Wherever,Xiaopu,China,Wherever,05c9a485-21bd-4240-af3d-43f47d7b7178,2019-08-17 22:37:10 UTC
+389,allow,150.33.172.205,2.123.138.62,80,Wherever,Washington,United States,Wherever,20cc9df1-ae2e-42e1-8a68-5d26bc4fd729,2019-08-17 22:37:10 UTC
+390,deny,94.7.102.4,143.204.62.16,80,Wherever,Gardawice,Poland,Wherever,20f98a3d-7538-4ac8-b456-cc82b0a539a2,2019-08-17 22:37:10 UTC
+391,allow,93.61.198.238,40.80.192.10,80,Wherever,Pattani,Thailand,Wherever,ba598111-dc28-4272-a0ac-eddf19e7cb78,2019-08-17 22:37:10 UTC
+392,allow,152.191.218.236,43.17.81.159,80,Wherever,Ekimchan,Russia,Wherever,720c7248-f422-4e41-82e3-0c845c7606c8,2019-08-17 22:37:10 UTC
+393,allow,107.243.214.70,68.128.31.6,80,Wherever,Örnsköldsvik,Sweden,Wherever,12d504d8-1eff-48fe-b12e-348b039232a4,2019-08-17 22:37:10 UTC
+394,allow,148.68.190.232,212.137.23.249,80,Wherever,San Antonio,United States,Wherever,87bb0280-e621-403e-8b30-b535d1d13eac,2019-08-17 22:37:10 UTC
+395,allow,205.85.228.19,244.99.131.82,80,Wherever,Thika,Kenya,Wherever,8385818a-14ee-4a5b-9ce6-49c078200339,2019-08-17 22:37:10 UTC
+396,deny,143.174.117.206,79.206.199.20,80,Wherever,Liufang,China,Wherever,561a5070-0a6b-479b-8d07-824b563bdfe1,2019-08-17 22:37:10 UTC
+397,allow,160.133.94.155,67.150.208.156,80,Wherever,Tyresö,Sweden,Wherever,539cac49-d497-4976-a5dd-9da54327a3f9,2019-08-17 22:37:10 UTC
+398,allow,171.253.36.126,53.158.108.245,80,Wherever,Itambé,Brazil,Wherever,5ab4c7ac-82b9-49f1-a6ac-20249ba19e69,2019-08-17 22:37:10 UTC
+399,deny,7.78.41.3,184.113.161.161,80,Wherever,Sędziszów,Poland,Wherever,5f0ea84a-96b5-4ea6-9450-ced6a0d21254,2019-08-17 22:37:10 UTC
+400,allow,119.11.126.247,158.187.10.10,80,Wherever,Fenshui,China,Wherever,aa59411e-b525-46b6-9340-5de9438eedf4,2019-08-17 22:37:10 UTC
+401,deny,126.171.71.83,38.181.162.215,80,Wherever,Valada,Portugal,Wherever,96135940-2b60-4c1e-b0e3-a0e479252617,2019-08-17 22:37:10 UTC
+402,allow,189.25.131.113,9.51.145.242,80,Wherever,Kebonjaya,Indonesia,Wherever,7e5c6590-ccf4-4c12-90f7-1abcffcb17e6,2019-08-17 22:37:10 UTC
+403,deny,125.213.87.93,250.34.207.108,80,Wherever,Villeurbanne,France,Wherever,f14124da-e056-4902-ac7a-5ac78dc6c93b,2019-08-17 22:37:10 UTC
+404,deny,94.244.141.146,166.210.9.72,80,Wherever,Canguçu,Brazil,Wherever,3476ce37-c47b-4110-a3b4-c27f93fcf44b,2019-08-17 22:37:10 UTC
+405,deny,81.116.186.168,245.146.199.115,80,Wherever,Las Parejas,Argentina,Wherever,3d3ec101-62ac-4568-9514-2301a9f894e2,2019-08-17 22:37:10 UTC
+406,deny,12.135.153.87,24.27.234.158,80,Wherever,Bratislava,Slovakia,Wherever,53ca67b7-7b70-44c0-875d-9b92b5378a2b,2019-08-17 22:37:10 UTC
+407,deny,166.102.155.155,240.87.128.190,80,Wherever,Ghār al Milḩ,Tunisia,Wherever,a56e546a-05c0-443a-9ebc-0087817e8dd8,2019-08-17 22:37:10 UTC
+408,allow,83.217.173.183,156.242.190.92,80,Wherever,Huangshapu,China,Wherever,81469d02-5c1d-4716-a24c-262a0365607b,2019-08-17 22:37:10 UTC
+409,deny,56.201.192.243,62.13.198.144,80,Wherever,Ostružnica,Serbia,Wherever,b6b1a2d3-9618-4c22-887f-0f67da6415c6,2019-08-17 22:37:10 UTC
+410,deny,212.74.216.9,148.124.149.138,80,Wherever,Quán Hành,Vietnam,Wherever,45b246c5-c5aa-4b5c-ab4b-d5b6d8152215,2019-08-17 22:37:10 UTC
+411,deny,163.125.213.100,179.148.100.185,80,Wherever,Paitan Este,Philippines,Wherever,54c0f097-456c-40e4-9451-10159448e7da,2019-08-17 22:37:10 UTC
+412,allow,232.46.19.76,69.234.216.20,80,Wherever,Maxu,China,Wherever,bf09792a-095a-4b14-9a0e-a935e9cf8e57,2019-08-17 22:37:10 UTC
+413,deny,137.175.164.99,15.21.135.198,80,Wherever,Ocongate,Peru,Wherever,6193da46-29d8-4ba7-a2f6-84686805e87f,2019-08-17 22:37:10 UTC
+414,allow,138.179.246.31,133.119.222.31,80,Wherever,Courtaboeuf,France,Wherever,936c939b-bde0-49cd-84e5-bc82fc0c63a6,2019-08-17 22:37:10 UTC
+415,allow,196.86.183.26,29.196.177.0,80,Wherever,Yishi,China,Wherever,bc6e0689-a1ea-435d-a428-b194fc59ca3f,2019-08-17 22:37:10 UTC
+416,allow,120.196.96.202,124.252.56.107,80,Wherever,Setro,Indonesia,Wherever,133103be-579c-4ad8-af1b-901a3d2f9536,2019-08-17 22:37:10 UTC
+417,allow,219.102.245.130,86.227.60.223,80,Wherever,Phaya Thai,Thailand,Wherever,3806be79-f0d3-40cb-85bc-d03188f8a1f2,2019-08-17 22:37:10 UTC
+418,allow,67.122.113.101,224.43.1.130,80,Wherever,Sumuragung,Indonesia,Wherever,bd63b157-97ce-4935-8054-f01e8a2f2ba7,2019-08-17 22:37:10 UTC
+419,deny,245.76.124.103,201.206.101.18,80,Wherever,Sasnovy Bor,Belarus,Wherever,501e3402-6ae3-4b71-8e80-d0d0ab150f8e,2019-08-17 22:37:10 UTC
+420,deny,51.172.54.4,230.63.176.52,80,Wherever,Wucun,China,Wherever,3613da83-3cfa-43b9-8799-1421bc30b001,2019-08-17 22:37:10 UTC
+421,allow,198.26.135.79,232.107.165.91,80,Wherever,Xiangxi,China,Wherever,b941b586-adf8-48b8-8f2e-3d7f8a26b229,2019-08-17 22:37:10 UTC
+422,deny,176.30.36.194,176.181.205.124,80,Wherever,Santa Justina,Philippines,Wherever,e8b4c62a-5ad7-4fde-b7dc-6d6d97e46881,2019-08-17 22:37:10 UTC
+423,allow,10.239.231.92,213.44.93.75,80,Wherever,Terneuzen,Netherlands,Wherever,f56bb26f-7714-4a23-a73f-15757b1120ad,2019-08-17 22:37:10 UTC
+424,allow,33.0.0.102,91.197.29.220,80,Wherever,Sexiong,China,Wherever,c80b6877-c041-4873-add1-b1689053e881,2019-08-17 22:37:10 UTC
+425,deny,49.222.173.31,45.74.124.205,80,Wherever,Ribeira,Portugal,Wherever,094bb44f-a36b-4087-b4c6-2b17c8366fb0,2019-08-17 22:37:10 UTC
+426,allow,15.166.218.148,225.145.165.169,80,Wherever,Goubétto,Djibouti,Wherever,8ab7c908-c6bf-447a-aeb5-85617c5d3852,2019-08-17 22:37:10 UTC
+427,deny,141.105.151.144,230.147.75.44,80,Wherever,Colos,Portugal,Wherever,290cf68a-68ba-4a7d-8647-5327ee73231a,2019-08-17 22:37:10 UTC
+428,deny,232.85.215.121,45.108.142.90,80,Wherever,Wŏnju,South Korea,Wherever,13d3e5a8-328e-47e9-bf45-7f8fde04c805,2019-08-17 22:37:10 UTC
+429,deny,60.183.45.202,72.48.102.113,80,Wherever,Mibu,Japan,Wherever,4e17001d-cc06-48c8-bcbe-9154d975fec3,2019-08-17 22:37:10 UTC
+430,allow,126.99.218.137,82.8.248.129,80,Wherever,Kamaishi,Japan,Wherever,ead3d56d-5de0-46f1-ba3f-0f55135148cd,2019-08-17 22:37:10 UTC
+431,allow,70.155.49.49,136.38.107.208,80,Wherever,Kloangpopot,Indonesia,Wherever,8735652d-d9e0-4540-82fc-5b100290cc65,2019-08-17 22:37:10 UTC
+432,allow,207.189.47.246,125.109.123.22,80,Wherever,Toužim,Czech Republic,Wherever,f7c828ad-cd1c-404b-8c9a-791645040461,2019-08-17 22:37:10 UTC
+433,allow,108.105.68.172,232.21.75.83,80,Wherever,Bayangol,Russia,Wherever,bf8f20cc-54f7-432a-a8c6-98e5134b4a17,2019-08-17 22:37:10 UTC
+434,allow,93.17.113.108,138.197.25.159,80,Wherever,Nihommatsu,Japan,Wherever,aea22782-935c-478e-ae1f-fe2a64233786,2019-08-17 22:37:10 UTC
+435,allow,143.94.118.180,19.85.18.137,80,Wherever,Muheza,Tanzania,Wherever,2c47279d-ecdd-4cf7-bfbe-d8c18b17bebe,2019-08-17 22:37:10 UTC
+436,deny,236.127.57.155,145.198.60.91,80,Wherever,Malakwāl,Pakistan,Wherever,c2343b51-93c3-4609-82e1-23606c32b2e1,2019-08-17 22:37:10 UTC
+437,allow,180.127.188.41,223.146.217.11,80,Wherever,Saýat,Turkmenistan,Wherever,5a2f3125-4510-4de4-9361-6ac36d262337,2019-08-17 22:37:10 UTC
+438,deny,82.159.233.13,167.80.215.90,80,Wherever,San Pablo,Philippines,Wherever,b12910c7-c507-48fc-b013-fb5c5f37f607,2019-08-17 22:37:10 UTC
+439,deny,111.49.56.154,46.74.250.169,80,Wherever,Nakhabino,Russia,Wherever,e9d87358-e5cc-46b3-9ca1-f9fc4412297a,2019-08-17 22:37:10 UTC
+440,deny,213.168.184.184,205.199.9.222,80,Wherever,Bern,Switzerland,Wherever,854efa44-eac0-4907-b1fb-a5b5565c179e,2019-08-17 22:37:10 UTC
+441,deny,124.78.51.159,248.79.190.84,80,Wherever,Khūgyāṉī,Afghanistan,Wherever,0deb7df5-80c2-4481-bb4e-5342249eda44,2019-08-17 22:37:10 UTC
+442,allow,11.43.52.181,79.15.31.70,80,Wherever,Fort Liberté,Haiti,Wherever,7e252b5d-e603-4d8a-ad51-72f70f58ff13,2019-08-17 22:37:10 UTC
+443,allow,7.243.48.243,156.67.155.157,80,Wherever,Xindong,China,Wherever,26dc8a77-91f7-40ba-902e-cbbefa4fe782,2019-08-17 22:37:10 UTC
+444,allow,159.210.17.150,176.73.53.123,80,Wherever,Banjar Serangan,Indonesia,Wherever,4622cbf8-9166-4f55-838e-3021e61a29ab,2019-08-17 22:37:10 UTC
+445,allow,25.120.219.150,80.231.238.171,80,Wherever,Cincinnati,United States,Wherever,a5148135-b984-4665-a037-44b44d1a5a01,2019-08-17 22:37:10 UTC
+446,allow,182.19.121.198,95.220.246.65,80,Wherever,Luoqiao,China,Wherever,922a65f3-315b-49f9-9498-38da1c004b42,2019-08-17 22:37:10 UTC
+447,allow,55.136.249.38,179.204.145.42,80,Wherever,Bang Bo District,Thailand,Wherever,534332f2-0dca-4af2-b86e-5298c03269bb,2019-08-17 22:37:10 UTC
+448,deny,42.47.59.67,171.30.134.224,80,Wherever,Hedao,China,Wherever,bef553cb-d81d-4007-aa1d-96187da05c73,2019-08-17 22:37:10 UTC
+449,allow,255.176.178.17,189.161.214.166,80,Wherever,‘Ibrī,Oman,Wherever,75fad73f-2499-4976-a1fb-2e6085e5a876,2019-08-17 22:37:10 UTC
+450,deny,182.8.70.199,65.64.227.210,80,Wherever,Jablanovec,Croatia,Wherever,cd2bbdc6-bce5-47f7-83a2-6025ce568088,2019-08-17 22:37:10 UTC
+451,allow,158.36.131.160,15.177.89.214,80,Wherever,Taboão da Serra,Brazil,Wherever,ab48d29b-bddf-49d7-b376-4e483e8a416d,2019-08-17 22:37:10 UTC
+452,deny,192.239.161.180,36.32.129.132,80,Wherever,Najd al Jumā‘ī,Yemen,Wherever,18bcac19-b98b-420c-9975-140160045ebc,2019-08-17 22:37:10 UTC
+453,allow,205.229.205.162,71.229.170.110,80,Wherever,Kota Kinabalu,Malaysia,Wherever,e0df6975-fedd-4e77-8fe1-a8e35d7a3c74,2019-08-17 22:37:10 UTC
+454,allow,86.143.84.222,150.131.179.105,80,Wherever,Bern,Switzerland,Wherever,19e53426-5362-4dae-bb27-55da64068033,2019-08-17 22:37:10 UTC
+455,allow,17.9.183.2,180.248.184.4,80,Wherever,Shatian,China,Wherever,8d6e6a63-5ced-461c-b087-486f62a593f9,2019-08-17 22:37:10 UTC
+456,allow,52.174.220.72,25.119.208.88,80,Wherever,Bantacan,Philippines,Wherever,f2a8a715-b7dd-48d3-8c95-ca30d7cb294f,2019-08-17 22:37:10 UTC
+457,allow,112.55.59.29,189.116.70.9,80,Wherever,Cikadu,Indonesia,Wherever,b4aca791-1767-4538-a0d5-8c15d4fd7512,2019-08-17 22:37:10 UTC
+458,deny,66.122.213.172,210.149.113.204,80,Wherever,Jiancheng,China,Wherever,72bce883-da5a-4a3a-a27f-fc3f76d450aa,2019-08-17 22:37:10 UTC
+459,allow,57.87.1.130,191.97.101.69,80,Wherever,Lanlongkou,China,Wherever,a7f93b56-1a9c-48b1-9138-9c19160e99bc,2019-08-17 22:37:10 UTC
+460,allow,62.209.183.167,4.59.203.252,80,Wherever,Pākpattan,Pakistan,Wherever,8f91217d-4200-4265-a383-668d91f810f5,2019-08-17 22:37:10 UTC
+461,deny,65.144.176.88,253.118.35.183,80,Wherever,Mīrābād,Afghanistan,Wherever,aa418981-e6d8-4e20-b6f5-549f73eb446d,2019-08-17 22:37:10 UTC
+462,allow,65.79.72.51,98.92.189.244,80,Wherever,Svalöv,Sweden,Wherever,b51c0420-6ef2-4251-bfdb-7575f0a21030,2019-08-17 22:37:10 UTC
+463,deny,180.218.15.232,150.124.251.97,80,Wherever,Knurów,Poland,Wherever,370734fa-2c51-430b-bccc-1a3dbe7a4598,2019-08-17 22:37:10 UTC
+464,deny,100.66.164.11,244.4.219.221,80,Wherever,Khirdalan,Azerbaijan,Wherever,8a3579b7-7555-40b0-ad39-3e268d87ddd7,2019-08-17 22:37:10 UTC
+465,allow,112.188.84.181,58.163.45.0,80,Wherever,Linjiang,China,Wherever,a8ab3177-87dc-4601-9a34-6e5a91f36443,2019-08-17 22:37:10 UTC
+466,allow,255.249.170.136,221.83.13.173,80,Wherever,Gonzalo,Dominican Republic,Wherever,a2d1fcab-c0fd-45ad-9923-8a5715922f2e,2019-08-17 22:37:10 UTC
+467,allow,202.225.238.211,150.27.31.64,80,Wherever,Boto,Indonesia,Wherever,329ccb7b-a2f4-4829-a1f7-d3b3b4f0d4b4,2019-08-17 22:37:10 UTC
+468,deny,2.205.169.123,36.252.234.71,80,Wherever,Zwedru,Liberia,Wherever,13e8de2f-6e20-45f6-893d-9c2a6febc8c3,2019-08-17 22:37:10 UTC
+469,allow,29.18.56.68,72.209.9.144,80,Wherever,Steinsel,Luxembourg,Wherever,45a2ba72-b167-4c61-bf04-ee89c18b62f9,2019-08-17 22:37:10 UTC
+470,deny,15.247.138.130,117.24.121.26,80,Wherever,Maguling,Philippines,Wherever,2af01ffc-f3a9-4d62-a01b-b5f4c2638829,2019-08-17 22:37:10 UTC
+471,allow,143.145.45.175,85.116.20.189,80,Wherever,Sakété,Benin,Wherever,e2cb1df2-b78d-4441-ab70-d853c0eaf2c5,2019-08-17 22:37:10 UTC
+472,deny,245.159.24.155,233.106.164.221,80,Wherever,Rio Covo ( Santa Eulália ),Portugal,Wherever,6f26c88c-6d23-489e-9dfd-c9c4f8eaeff7,2019-08-17 22:37:10 UTC
+473,allow,188.123.138.162,37.6.4.182,80,Wherever,Santiago de Baney,Equatorial Guinea,Wherever,8c216c98-679a-465c-a2fb-bb9adfae1611,2019-08-17 22:37:10 UTC
+474,deny,237.159.10.116,103.36.145.187,80,Wherever,Melrose,Mauritius,Wherever,ff3983ad-5d63-4b52-baa1-d19e885c5306,2019-08-17 22:37:10 UTC
+475,deny,231.225.26.65,230.238.206.89,80,Wherever,Nguékhokh,Senegal,Wherever,56a1d70a-cf9e-4fb0-ae4e-b473fbde059e,2019-08-17 22:37:10 UTC
+476,allow,2.226.141.145,46.44.67.178,80,Wherever,Extremoz,Brazil,Wherever,b820ac9c-1fa9-4372-bc48-b2030d3300c9,2019-08-17 22:37:10 UTC
+477,allow,147.198.97.255,59.193.179.140,80,Wherever,Naples,United States,Wherever,aec33c48-b7ee-4f3b-8429-33f7bc77e2c0,2019-08-17 22:37:10 UTC
+478,deny,203.181.150.117,8.24.152.186,80,Wherever,Shabel’skoye,Russia,Wherever,9cbb7dd5-4786-4885-8ed4-90553fcbfa67,2019-08-17 22:37:10 UTC
+479,allow,174.81.58.64,195.148.203.194,80,Wherever,Upig,Philippines,Wherever,3540b89d-20db-4d39-9e69-cad99e8c48ca,2019-08-17 22:37:10 UTC
+480,deny,120.88.250.91,215.18.147.178,80,Wherever,São Tomé,Sao Tome and Principe,Wherever,6a019d78-8843-482f-bdbf-a01e76e6f7d3,2019-08-17 22:37:10 UTC
+481,allow,51.144.70.74,237.44.219.246,80,Wherever,Tiegai,China,Wherever,fe6a5391-aab4-4c14-b635-ccb0f4d24245,2019-08-17 22:37:10 UTC
+482,deny,56.203.186.42,2.15.70.96,80,Wherever,Shakhty,Russia,Wherever,2cb034d8-78b8-47c8-bbd0-bf62f1685812,2019-08-17 22:37:10 UTC
+483,deny,234.160.65.66,109.153.206.74,80,Wherever,Grängesberg,Sweden,Wherever,351d4e18-ce8c-4564-8399-1d9d588d3890,2019-08-17 22:37:10 UTC
+484,allow,74.69.59.175,64.16.98.221,80,Wherever,Encontrados,Venezuela,Wherever,3e81b6a9-7568-4295-b848-5b5875dfc881,2019-08-17 22:37:10 UTC
+485,deny,115.137.230.24,59.51.27.209,80,Wherever,Tyresö,Sweden,Wherever,c3f9a1d6-0599-49db-bfdf-e7eadf5a50fd,2019-08-17 22:37:10 UTC
+486,allow,141.181.132.187,114.101.24.85,80,Wherever,Sande Vila Nova,Portugal,Wherever,8f43dce8-c86b-4ad9-8037-b12dacd12911,2019-08-17 22:37:10 UTC
+487,deny,212.1.158.194,198.162.75.252,80,Wherever,Shaliangzi,China,Wherever,51a6d14f-1473-4d9f-8b94-c30f4b1e099d,2019-08-17 22:37:10 UTC
+488,deny,69.242.16.188,147.98.181.83,80,Wherever,Calamba,Philippines,Wherever,bff854b9-65ab-4a0f-9b55-0b2ac09ed1e1,2019-08-17 22:37:10 UTC
+489,allow,242.63.241.208,64.79.174.198,80,Wherever,Gar,China,Wherever,74c13cae-af11-45aa-ad3c-b7aabe1cb4c8,2019-08-17 22:37:10 UTC
+490,allow,217.42.229.32,96.155.157.252,80,Wherever,Zaoshi,China,Wherever,8986a6d6-905b-4145-beac-57cc6bf20431,2019-08-17 22:37:10 UTC
+491,deny,106.44.32.49,108.179.124.151,80,Wherever,Yangsha,China,Wherever,73795e57-ac27-4deb-a66e-89b4918fb341,2019-08-17 22:37:10 UTC
+492,deny,0.33.198.31,148.56.20.180,80,Wherever,Toupi,China,Wherever,17cd3737-ec6c-4cee-be6d-e516c1416ec7,2019-08-17 22:37:10 UTC
+493,allow,146.226.203.47,71.4.23.12,80,Wherever,Ngerengere,Tanzania,Wherever,6dd103b0-2599-4c5f-b285-25eb360b5417,2019-08-17 22:37:10 UTC
+494,deny,144.85.2.182,172.178.160.51,80,Wherever,Quitilipi,Argentina,Wherever,5960854c-69ed-404d-bebb-f1242880585c,2019-08-17 22:37:10 UTC
+495,allow,161.183.208.28,57.154.25.170,80,Wherever,Goričan,Croatia,Wherever,2d240435-f2b2-4ece-8ece-2684e2987848,2019-08-17 22:37:10 UTC
+496,allow,122.131.57.163,249.77.142.205,80,Wherever,Ibaiti,Brazil,Wherever,67ffe927-d210-4e59-a32a-844301a7172a,2019-08-17 22:37:10 UTC
+497,deny,147.21.202.51,242.45.120.246,80,Wherever,Esteio,Brazil,Wherever,020b703e-a2f2-486b-811f-564c3b60e1e4,2019-08-17 22:37:10 UTC
+498,deny,222.245.42.202,12.25.56.203,80,Wherever,Tomarovka,Russia,Wherever,99ba7281-6040-46d1-88d9-fc64f503e2f7,2019-08-17 22:37:10 UTC
+499,allow,220.19.89.73,111.29.42.46,80,Wherever,Shangzhuang,China,Wherever,483403f3-2150-42d0-8b8f-e8efb0d8a0b9,2019-08-17 22:37:10 UTC
+500,allow,192.121.108.62,177.81.130.27,80,Wherever,Zhendong,China,Wherever,caf158fb-fcb9-4931-8784-01b89f755a19,2019-08-17 22:37:10 UTC
+501,deny,45.58.45.72,253.55.186.71,80,Wherever,Itoman,Japan,Wherever,6fcce168-8902-43a9-9e69-fa17e7cd4c79,2019-08-17 22:37:10 UTC
+502,allow,79.239.181.159,205.118.211.115,80,Wherever,Xukou,China,Wherever,dd1a4f86-da4e-469c-98aa-d51850581cb3,2019-08-17 22:37:10 UTC
+503,deny,163.52.37.17,66.46.214.215,80,Wherever,Ķegums,Latvia,Wherever,9946a6ec-de76-4d5d-997a-d0327ab86966,2019-08-17 22:37:10 UTC
+504,allow,124.129.199.98,254.234.58.168,80,Wherever,Puutuga,Indonesia,Wherever,ddf57ee0-5205-4ff1-b488-9c23187e18a0,2019-08-17 22:37:10 UTC
+505,deny,177.146.85.33,190.247.162.7,80,Wherever,Ol’ginka,Russia,Wherever,8fe9d762-34f1-4b32-b996-7eb1132db5be,2019-08-17 22:37:10 UTC
+506,allow,32.227.151.49,41.94.63.67,80,Wherever,Ostuncalco,Guatemala,Wherever,bc6b6cd5-ad37-4d3b-92a9-c649a6ae4d9f,2019-08-17 22:37:10 UTC
+507,deny,133.119.66.84,97.14.202.234,80,Wherever,Birinci Aşıqlı,Azerbaijan,Wherever,2d9d50d6-9139-4d1b-8318-8bd4c0081e7f,2019-08-17 22:37:10 UTC
+508,deny,12.163.63.176,101.211.111.223,80,Wherever,Gouqi,China,Wherever,85d4d3ff-a525-456c-b264-0b9fcaf5cc2d,2019-08-17 22:37:10 UTC
+509,deny,136.62.138.127,164.201.55.11,80,Wherever,Finspång,Sweden,Wherever,393bcff6-8c65-4181-b493-151440b76bb5,2019-08-17 22:37:10 UTC
+510,allow,205.7.156.204,76.152.129.111,80,Wherever,Jianguo,China,Wherever,10e17d22-c8d9-4e61-838d-195a5e493b84,2019-08-17 22:37:10 UTC
+511,deny,179.248.91.176,11.226.176.83,80,Wherever,Logon,Philippines,Wherever,544a5f14-d363-459a-a581-e72d73f04d3d,2019-08-17 22:37:10 UTC
+512,deny,111.218.225.69,105.147.181.31,80,Wherever,Yinchuan,China,Wherever,eae11d6a-3da8-473b-b8da-5a0a2d045a9a,2019-08-17 22:37:10 UTC
+513,deny,82.133.60.103,228.222.176.171,80,Wherever,Qilin,China,Wherever,917ed20b-8688-4f40-a314-7b7f8e601529,2019-08-17 22:37:10 UTC
+514,allow,109.178.39.133,178.0.124.216,80,Wherever,Sicheng,China,Wherever,7c7bebee-bff0-40a4-ac2a-886b8280103a,2019-08-17 22:37:10 UTC
+515,allow,250.52.123.125,50.87.39.182,80,Wherever,Sélestat,France,Wherever,2386b2af-5043-4918-a2c1-8b24b02a3f7a,2019-08-17 22:37:10 UTC
+516,allow,174.193.189.79,131.174.180.84,80,Wherever,Luoxiong,China,Wherever,4d9ff8fe-18e7-4ee7-8a26-fcb112d4f7b9,2019-08-17 22:37:10 UTC
+517,deny,252.190.156.152,32.170.62.210,80,Wherever,Tarłów,Poland,Wherever,eb42d99b-cb78-4db6-bda5-3880db4c9933,2019-08-17 22:37:10 UTC
+518,allow,139.136.170.90,150.145.71.186,80,Wherever,Теарце,Macedonia,Wherever,6e320641-379c-4266-803a-c6386b1c4599,2019-08-17 22:37:10 UTC
+519,deny,175.210.216.34,178.42.111.13,80,Wherever,Gaoling,China,Wherever,2d8e4b4f-0dc1-47af-8c3b-f014a223ef15,2019-08-17 22:37:10 UTC
+520,allow,106.244.218.89,173.45.207.212,80,Wherever,Rive-de-Gier,France,Wherever,1db31243-fbd0-4dac-b842-4db3a6d3f8d9,2019-08-17 22:37:10 UTC
+521,allow,176.194.116.1,34.7.160.18,80,Wherever,Vyshneye Dolgoye,Russia,Wherever,026dec92-4fb6-449e-a63c-9eae1a9fb058,2019-08-17 22:37:10 UTC
+522,allow,166.221.36.110,111.61.97.129,80,Wherever,Horana South,Sri Lanka,Wherever,6ab0e102-e279-4a89-8d15-abefaed866fe,2019-08-17 22:37:10 UTC
+523,deny,248.105.1.194,85.153.88.253,80,Wherever,Dhībīn,Syria,Wherever,497faf1e-1d3e-461d-8318-15fba20b1ebe,2019-08-17 22:37:10 UTC
+524,deny,51.7.153.140,66.231.215.103,80,Wherever,Asarum,Sweden,Wherever,1799cf5a-416f-473c-a438-151eaa6d3bf7,2019-08-17 22:37:10 UTC
+525,allow,128.18.117.48,200.108.37.79,80,Wherever,Hehu,China,Wherever,358fc6c5-66e7-4975-a9f2-5723840cfa4a,2019-08-17 22:37:10 UTC
+526,allow,23.18.119.29,201.91.223.73,80,Wherever,El Caño,Panama,Wherever,3775bfcb-5d18-4a53-9214-5a4535b485cf,2019-08-17 22:37:10 UTC
+527,deny,241.190.71.123,110.165.184.147,80,Wherever,Holboo,Mongolia,Wherever,3e485434-e117-432d-8494-204b6df47f22,2019-08-17 22:37:10 UTC
+528,allow,172.175.243.136,210.25.73.47,80,Wherever,Zabierzów,Poland,Wherever,abc7ce50-d71b-4eaa-926a-8d87dcc7a99d,2019-08-17 22:37:10 UTC
+529,deny,158.110.26.252,91.227.93.82,80,Wherever,Tangxing,China,Wherever,0ca88d00-943f-47ab-a30f-ffe03b91725f,2019-08-17 22:37:10 UTC
+530,allow,53.236.104.54,117.100.186.190,80,Wherever,Blaye,France,Wherever,eb1f7e2a-b053-4440-942a-f41a3cdcd7dd,2019-08-17 22:37:10 UTC
+531,deny,70.184.31.119,44.59.105.241,80,Wherever,Kasamwa,Tanzania,Wherever,b2bc0c80-e94b-44d2-a123-b6c9eecff357,2019-08-17 22:37:10 UTC
+532,deny,150.188.241.232,230.91.56.237,80,Wherever,Ágios Spyrídon,Greece,Wherever,0bf8f0a0-4554-43cb-911a-a3773f7938fa,2019-08-17 22:37:10 UTC
+533,allow,170.201.193.86,249.205.87.133,80,Wherever,Tsyurupyns’k,Ukraine,Wherever,4ec00113-3d5c-472c-a7a2-38a386d6d465,2019-08-17 22:37:10 UTC
+534,deny,92.11.6.204,44.172.169.192,80,Wherever,Funes,Colombia,Wherever,54323763-ade6-4ffa-98ad-c01101cd4b73,2019-08-17 22:37:10 UTC
+535,allow,212.149.47.72,10.113.84.114,80,Wherever,Kukurečani,Macedonia,Wherever,66ceeb21-5bba-4979-ab22-c70238c05fbf,2019-08-17 22:37:10 UTC
+536,allow,13.35.21.0,224.185.17.156,80,Wherever,Sadao,Thailand,Wherever,d0e22e45-03f7-404a-848f-f5d7bcd1112a,2019-08-17 22:37:10 UTC
+537,deny,165.132.11.254,12.210.243.143,80,Wherever,Bryan,United States,Wherever,19a7afb5-4dae-4e1b-b6f7-4b0c22cadf69,2019-08-17 22:37:10 UTC
+538,allow,188.150.106.137,240.50.116.71,80,Wherever,Kimitsu,Japan,Wherever,e261ec77-3ca2-4e1f-ad51-6b3a7a767a35,2019-08-17 22:37:10 UTC
+539,allow,207.88.211.119,168.232.108.167,80,Wherever,Berehomet,Ukraine,Wherever,d6f82246-26d4-4b07-a343-9a0ff443f267,2019-08-17 22:37:10 UTC
+540,deny,23.95.240.53,198.47.174.60,80,Wherever,Aktau,Kazakhstan,Wherever,b72c5b5f-4ef5-4c1e-a70d-d3bf19ff300c,2019-08-17 22:37:10 UTC
+541,deny,228.152.18.116,217.187.138.180,80,Wherever,Kouloúra,Greece,Wherever,a8fb7388-5d42-43a9-a6d3-a099949bb1f9,2019-08-17 22:37:10 UTC
+542,allow,235.73.124.140,221.158.57.214,80,Wherever,Youcheng,China,Wherever,53a106be-5f50-4f3d-b7c6-e717ebd37869,2019-08-17 22:37:10 UTC
+543,allow,244.154.79.31,216.217.203.234,80,Wherever,Kuching,Malaysia,Wherever,bb9472e6-84a2-41dc-8917-22aa403f0f29,2019-08-17 22:37:10 UTC
+544,allow,186.167.206.206,40.116.179.191,80,Wherever,Yengimahalla,China,Wherever,8b0a17da-ae79-4499-8836-0148af900756,2019-08-17 22:37:10 UTC
+545,deny,37.220.197.55,63.237.219.51,80,Wherever,Hayange,France,Wherever,ef5cee09-82ab-4679-a56f-6f9e3dc07fa6,2019-08-17 22:37:10 UTC
+546,deny,26.19.173.84,168.136.233.170,80,Wherever,Wantan,China,Wherever,74d38cc2-4abb-4904-95bc-0151370f89d6,2019-08-17 22:37:10 UTC
+547,allow,51.207.90.161,111.238.77.176,80,Wherever,Januária,Brazil,Wherever,c97ee325-2e07-4b1c-9cd8-1dc4b302b556,2019-08-17 22:37:10 UTC
+548,deny,201.82.127.209,108.47.100.187,80,Wherever,Trzebunia,Poland,Wherever,4a7bbcca-92f4-4ab3-afe4-3650918eca16,2019-08-17 22:37:10 UTC
+549,allow,126.187.114.141,133.144.123.57,80,Wherever,Brzeg Dolny,Poland,Wherever,9a4e359b-a3cb-4b91-bbd0-98abb370f37d,2019-08-17 22:37:10 UTC
+550,allow,227.164.151.152,230.76.93.137,80,Wherever,Seraya,Indonesia,Wherever,0d20c16b-e3c5-4f64-b8fd-c68d350da161,2019-08-17 22:37:10 UTC
+551,allow,8.205.52.84,225.157.226.165,80,Wherever,Xin’andu,China,Wherever,efff9135-cbb6-45b4-a7e2-63c7a6117886,2019-08-17 22:37:10 UTC
+552,allow,119.241.216.126,0.128.245.180,80,Wherever,Pedreira,Brazil,Wherever,a674e3ca-5957-4f9e-b7f4-9e3ec0e48e53,2019-08-17 22:37:10 UTC
+553,deny,31.94.106.75,89.122.70.214,80,Wherever,Bergen,Norway,Wherever,420f5a43-2b7a-433e-8877-d027a2d7b6e6,2019-08-17 22:37:10 UTC
+554,deny,74.75.56.155,50.100.173.5,80,Wherever,Huazhaizi,China,Wherever,fdda67a0-65cc-4b8d-a19f-dddb49679afd,2019-08-17 22:37:10 UTC
+555,deny,41.131.171.179,254.40.194.20,80,Wherever,Midland,Canada,Wherever,34eb417c-cf59-481f-9423-b6dd30201444,2019-08-17 22:37:10 UTC
+556,deny,141.119.212.50,66.174.91.109,80,Wherever,Salaza,Philippines,Wherever,4b02277c-b6fd-4940-9c22-3b9cf0212884,2019-08-17 22:37:10 UTC
+557,deny,48.233.144.241,41.15.81.55,80,Wherever,Chinhoyi,Zimbabwe,Wherever,1c724ff5-6b67-4e64-a90c-25c96a0b40e9,2019-08-17 22:37:10 UTC
+558,allow,75.38.221.71,90.75.98.234,80,Wherever,Sagopshi,Russia,Wherever,fe0b34c7-6291-463b-845e-4bcbb7a49fb0,2019-08-17 22:37:10 UTC
+559,deny,235.120.140.216,196.206.234.92,80,Wherever,Cicheng,China,Wherever,bf5f1527-e4fe-44cb-8b67-8c294f86b505,2019-08-17 22:37:10 UTC
+560,deny,102.183.75.153,249.66.161.214,80,Wherever,Malabago,Philippines,Wherever,5594099b-1dda-45d0-8a1d-e14ff4576630,2019-08-17 22:37:10 UTC
+561,allow,158.89.202.16,154.30.38.188,80,Wherever,Chernelytsya,Ukraine,Wherever,d8a47a05-4f9b-4b44-a163-da0f9354ea05,2019-08-17 22:37:10 UTC
+562,allow,154.39.218.207,190.66.208.109,80,Wherever,Pasirpanjang,Indonesia,Wherever,08cf04b0-e134-46ba-9f74-46ae5b222e02,2019-08-17 22:37:10 UTC
+563,allow,74.92.26.227,246.71.65.234,80,Wherever,Purwodadi,Indonesia,Wherever,0da03e45-6a9f-4c87-bb81-463d24dcf101,2019-08-17 22:37:10 UTC
+564,allow,71.191.156.204,177.216.126.243,80,Wherever,Jorowaru Daya,Indonesia,Wherever,eb2e7a17-5a17-4ad8-9558-156613442ba3,2019-08-17 22:37:10 UTC
+565,allow,47.205.255.126,165.164.74.108,80,Wherever,Katipunan,Philippines,Wherever,da95a9d6-ad6c-457d-8aa3-76932bea8bd5,2019-08-17 22:37:10 UTC
+566,deny,145.105.184.4,143.147.255.254,80,Wherever,Parchowo,Poland,Wherever,fae91eee-6170-4b07-b24d-342e9337e5e8,2019-08-17 22:37:10 UTC
+567,allow,129.73.184.134,80.54.254.39,80,Wherever,Pyatnitskoye,Russia,Wherever,919b9797-44b9-4c20-9af5-ab81a4d14c76,2019-08-17 22:37:10 UTC
+568,allow,75.154.111.121,36.82.20.103,80,Wherever,Boise,United States,Wherever,aaa66773-116c-4fd5-8a79-e4f3a9b8d8f4,2019-08-17 22:37:10 UTC
+569,deny,75.176.116.103,91.129.62.142,80,Wherever,Chochkan,Armenia,Wherever,3a924863-3497-4e14-ae77-fa44c9fdd457,2019-08-17 22:37:10 UTC
+570,allow,15.176.70.82,228.176.161.100,80,Wherever,Söderhamn,Sweden,Wherever,fad280c1-3156-4750-9fdd-c9bae9c83f8c,2019-08-17 22:37:10 UTC
+571,allow,163.83.141.173,107.168.104.32,80,Wherever,Ningxi,China,Wherever,8d532be9-51f0-45d1-8c54-4761c48edf48,2019-08-17 22:37:10 UTC
+572,allow,169.125.87.210,16.107.56.165,80,Wherever,Tottori,Japan,Wherever,0fe02be8-8bc1-4a60-a1c6-2d2f342f861e,2019-08-17 22:37:10 UTC
+573,deny,160.4.136.112,59.252.86.98,80,Wherever,La Mula,Venezuela,Wherever,451ecd27-361a-421b-9e7c-06c24d9b51ae,2019-08-17 22:37:10 UTC
+574,allow,55.253.94.208,82.73.100.32,80,Wherever,Nāḩiyat Baḩār,Iraq,Wherever,bfa31659-39f1-4612-ab36-aac8d6745881,2019-08-17 22:37:10 UTC
+575,allow,148.17.44.167,104.170.172.209,80,Wherever,Ciperang,Indonesia,Wherever,700e59aa-0c93-42f4-a586-f6a8e055e961,2019-08-17 22:37:10 UTC
+576,allow,100.45.26.71,190.225.194.149,80,Wherever,Hato Mayor del Rey,Dominican Republic,Wherever,0696f29b-46f2-4ce6-8da1-13480d22ac28,2019-08-17 22:37:10 UTC
+577,deny,100.141.151.142,106.142.227.143,80,Wherever,Chauk,Myanmar,Wherever,fbbaae42-a298-4e98-a4dc-b4541abe0af6,2019-08-17 22:37:10 UTC
+578,deny,243.223.222.1,98.86.227.165,80,Wherever,Zhoukou,China,Wherever,ddd82504-dfb9-445a-8312-cdd7b86d6576,2019-08-17 22:37:10 UTC
+579,deny,74.57.160.127,81.202.148.117,80,Wherever,Municipio de Copacabana,Colombia,Wherever,095dc13c-c6a8-4a75-a786-10d79416c405,2019-08-17 22:37:10 UTC
+580,allow,68.137.40.246,213.27.77.23,80,Wherever,Itapemirim,Brazil,Wherever,ba1b8495-4f94-400f-bc0d-1f9a0ab1da4d,2019-08-17 22:37:10 UTC
+581,deny,212.21.176.35,8.25.64.203,80,Wherever,Ogoja,Nigeria,Wherever,bd5b511c-2e33-43fe-9c4f-08766692b69f,2019-08-17 22:37:10 UTC
+582,deny,93.130.102.28,76.233.194.182,80,Wherever,Curug,Indonesia,Wherever,121708fb-26d5-440f-b609-8e676504d326,2019-08-17 22:37:10 UTC
+583,deny,179.189.184.216,12.141.180.224,80,Wherever,Nijmegen,Netherlands,Wherever,910a95b4-d518-4e88-89ba-6c6a65f44656,2019-08-17 22:37:10 UTC
+584,allow,228.152.165.143,161.218.192.246,80,Wherever,Roissy Charles-de-Gaulle,France,Wherever,44cdf9d7-ae39-4ab2-9c6b-f17af1dfd392,2019-08-17 22:37:10 UTC
+585,allow,59.174.115.49,94.90.111.44,80,Wherever,Yuanda,China,Wherever,a9ea3e88-2c03-47f4-869c-5ea1b2611643,2019-08-17 22:37:10 UTC
+586,allow,248.38.206.155,51.74.177.188,80,Wherever,Heřmanův Městec,Czech Republic,Wherever,533a99ff-4ff0-4d2f-8090-49d9c5810d6a,2019-08-17 22:37:11 UTC
+587,deny,7.17.240.117,224.4.202.173,80,Wherever,Airuk,Marshall Islands,Wherever,064ea0ed-9470-4fde-b689-82262fdfffea,2019-08-17 22:37:11 UTC
+588,allow,71.111.121.107,201.20.29.210,80,Wherever,Goworowo,Poland,Wherever,6e476104-22ee-42fa-ae1d-966404c68f67,2019-08-17 22:37:11 UTC
+589,deny,240.240.41.63,71.158.182.69,80,Wherever,Fatukanutu,Indonesia,Wherever,45a7d4fb-182b-432e-890b-046c0e44456a,2019-08-17 22:37:11 UTC
+590,deny,239.2.42.45,221.15.109.204,80,Wherever,Debesy,Russia,Wherever,db62d440-c172-4c39-b7c8-b18d9e843b97,2019-08-17 22:37:11 UTC
+591,deny,202.44.89.217,126.49.31.199,80,Wherever,Porto Velho,Brazil,Wherever,83e89b98-ab43-4b0e-9d98-11e8ee185376,2019-08-17 22:37:11 UTC
+592,deny,137.250.242.36,134.102.144.176,80,Wherever,Čačak,Serbia,Wherever,d6aa0dd2-455c-4842-8997-a0c01bd399c6,2019-08-17 22:37:11 UTC
+593,allow,225.135.62.237,134.49.154.225,80,Wherever,Laç,Albania,Wherever,729400da-d7bd-41e1-af53-5550b11aa96d,2019-08-17 22:37:11 UTC
+594,deny,12.235.49.118,37.243.16.208,80,Wherever,Muzambinho,Brazil,Wherever,6923124f-3ee7-4884-8cb9-89bb9f405085,2019-08-17 22:37:11 UTC
+595,deny,168.7.63.184,195.32.227.245,80,Wherever,Kastav,Croatia,Wherever,d90cb1ae-38d1-42eb-8a96-727c9b9da9d8,2019-08-17 22:37:11 UTC
+596,deny,156.178.203.17,212.245.215.10,80,Wherever,Sam Phran,Thailand,Wherever,f435332f-1cf4-43fd-9c83-1b909e59f024,2019-08-17 22:37:11 UTC
+597,deny,195.7.93.63,156.155.169.215,80,Wherever,Ar Rifā‘,Bahrain,Wherever,14207f9f-da67-45b3-92da-8fe2f1feab46,2019-08-17 22:37:11 UTC
+598,deny,233.204.24.219,190.211.175.215,80,Wherever,Ongabelen,Indonesia,Wherever,340bf605-6e19-4284-ad5f-583b7b7f2bf5,2019-08-17 22:37:11 UTC
+599,allow,125.220.94.63,56.190.234.132,80,Wherever,Thị Trấn Ngải Giao,Vietnam,Wherever,7c761108-eb88-49cb-a638-b18dbef83ef0,2019-08-17 22:37:11 UTC
+600,allow,33.105.206.129,147.101.251.2,80,Wherever,Enhtal,Mongolia,Wherever,a9d465b1-b786-4ddd-b311-d1486a607f69,2019-08-17 22:37:11 UTC
+601,allow,119.7.79.187,15.126.5.178,80,Wherever,Serowe,Botswana,Wherever,49fcfa52-9d53-4350-91f9-2ac061881aa6,2019-08-17 22:37:11 UTC
+602,deny,226.214.73.227,121.68.92.14,80,Wherever,Las Parejas,Argentina,Wherever,ef3e1f31-6772-40ae-8c7f-6313e9f715a7,2019-08-17 22:37:11 UTC
+603,allow,64.187.76.162,35.43.23.120,80,Wherever,Strzelce Krajeńskie,Poland,Wherever,b719164b-ef58-428e-8bfa-4f7472db3d4c,2019-08-17 22:37:11 UTC
+604,deny,14.71.154.98,113.93.238.100,80,Wherever,La Seyne-sur-Mer,France,Wherever,1b8cf380-8877-40b5-b130-97bb0e1f67e1,2019-08-17 22:37:11 UTC
+605,deny,167.207.207.207,42.59.188.195,80,Wherever,Clermont-Ferrand,France,Wherever,ee026180-86f4-41b7-ac25-c77267563de9,2019-08-17 22:37:11 UTC
+606,deny,178.30.79.166,249.128.232.221,80,Wherever,San Rafael,Philippines,Wherever,f24a0c7c-91c2-4838-b3a0-9a119dc14da7,2019-08-17 22:37:11 UTC
+607,allow,107.222.215.32,158.18.152.113,80,Wherever,San Antonio,Colombia,Wherever,7f08360c-5d39-4c08-b51e-b0bfd7d83352,2019-08-17 22:37:11 UTC
+608,allow,196.194.148.151,203.149.184.18,80,Wherever,Melbourne,Australia,Wherever,85f97b38-69d7-4043-8228-9ffeb9d25b5d,2019-08-17 22:37:11 UTC
+609,allow,141.18.119.58,202.213.19.64,80,Wherever,San Antonio,United States,Wherever,e6ae0a20-f40b-41af-bed2-3aae1187f3d4,2019-08-17 22:37:11 UTC
+610,deny,231.74.203.189,92.250.139.161,80,Wherever,Timurlorong,Indonesia,Wherever,85934146-4062-445f-8081-e590300d5b80,2019-08-17 22:37:11 UTC
+611,deny,207.48.208.69,231.143.212.249,80,Wherever,San Isidro,Mexico,Wherever,10b8f7c3-6aa8-468e-a884-eda34e931678,2019-08-17 22:37:11 UTC
+612,allow,193.201.17.169,215.2.127.197,80,Wherever,Zhangcunping,China,Wherever,9c3f5212-4d99-4a09-9f5b-2c29118297a6,2019-08-17 22:37:11 UTC
+613,deny,132.88.246.52,204.66.35.103,80,Wherever,Karangdawa Barat,Indonesia,Wherever,d0563bc6-8073-4c30-8b6b-e50dcc02ce99,2019-08-17 22:37:11 UTC
+614,deny,40.70.219.85,151.196.150.13,80,Wherever,Nguru,Nigeria,Wherever,1c092448-340d-45d5-879c-622eee0d9c08,2019-08-17 22:37:11 UTC
+615,deny,212.84.169.159,251.222.170.36,80,Wherever,Tanjung,Indonesia,Wherever,5f39f92b-ac8a-46e6-bf41-8bb61f665b0c,2019-08-17 22:37:11 UTC
+616,deny,225.151.68.108,176.142.13.211,80,Wherever,Kosów Lacki,Poland,Wherever,e38266e3-664b-4765-83d1-c5ff5e3d332a,2019-08-17 22:37:11 UTC
+617,allow,186.68.245.35,63.82.171.69,80,Wherever,Huancheng,China,Wherever,439bd0ec-af46-42c4-9684-000871b5a8ca,2019-08-17 22:37:11 UTC
+618,allow,231.183.98.216,21.244.205.25,80,Wherever,Bang Klam,Thailand,Wherever,3c2bb0d4-9070-4eaf-a40e-256b38a3feb1,2019-08-17 22:37:11 UTC
+619,deny,172.116.79.3,251.15.25.96,80,Wherever,Madrid,Colombia,Wherever,8494163d-6a31-419c-b6d1-17a12806fe5c,2019-08-17 22:37:11 UTC
+620,allow,133.86.213.178,221.143.4.64,80,Wherever,Chowṉêy,Afghanistan,Wherever,661d6d0f-1160-4922-9598-18566918f5eb,2019-08-17 22:37:11 UTC
+621,deny,123.31.213.21,112.236.222.141,80,Wherever,Tuchomie,Poland,Wherever,3e0019e0-5d6e-4732-a62b-13f1aa25ad90,2019-08-17 22:37:11 UTC
+622,allow,203.82.183.13,114.237.182.216,80,Wherever,Phunphin,Thailand,Wherever,4341a0e8-4ce6-4162-abad-d0922d936f6d,2019-08-17 22:37:11 UTC
+623,deny,165.72.11.98,88.19.229.197,80,Wherever,Changbu,China,Wherever,72f0a4fa-8bc2-40b4-8928-71bf25681416,2019-08-17 22:37:11 UTC
+624,allow,230.244.16.169,156.64.211.208,80,Wherever,Huainan,China,Wherever,f21fe24c-54aa-4345-b314-238938fd247c,2019-08-17 22:37:11 UTC
+625,deny,173.152.81.44,247.112.44.45,80,Wherever,Kochetok,Ukraine,Wherever,d90dd65f-dea1-467f-957f-48505439fc63,2019-08-17 22:37:11 UTC
+626,allow,101.34.255.65,147.125.53.24,80,Wherever,Fatumnasi,Indonesia,Wherever,78f4cc8c-6cd4-4979-9202-e7be3ba6920a,2019-08-17 22:37:11 UTC
+627,deny,155.191.75.50,62.226.126.131,80,Wherever,Chutove,Ukraine,Wherever,23318ebb-292c-47ac-9352-51d3fe2fcc2d,2019-08-17 22:37:11 UTC
+628,allow,12.164.67.66,3.181.240.246,80,Wherever,Olonets,Russia,Wherever,dbf0ea2d-b14e-412e-9fc2-d9723edb22aa,2019-08-17 22:37:11 UTC
+629,allow,29.58.183.140,236.133.211.18,80,Wherever,Colima,Costa Rica,Wherever,4e24f55a-6d5f-47de-8225-b231085e3656,2019-08-17 22:37:11 UTC
+630,deny,116.33.55.236,170.60.10.110,80,Wherever,Rathdrum,Ireland,Wherever,fe3e847a-938e-49c2-9f3c-b18842852482,2019-08-17 22:37:11 UTC
+631,allow,223.252.166.226,199.72.91.241,80,Wherever,Jiru,China,Wherever,4fb41dd9-5ac1-489a-8f82-dafe9071dfe6,2019-08-17 22:37:11 UTC
+632,allow,64.56.21.12,137.10.103.37,80,Wherever,Pucón,Chile,Wherever,59be16dc-5879-4773-acf2-e62f052a6655,2019-08-17 22:37:11 UTC
+633,allow,48.238.58.157,86.107.116.252,80,Wherever,Kaga Bandoro,Central African Republic,Wherever,0a5051ac-0ef9-4911-88be-c712627a0494,2019-08-17 22:37:11 UTC
+634,deny,104.1.151.214,98.42.47.103,80,Wherever,Seogeom-ri,South Korea,Wherever,22971a01-b8ab-4696-b4b2-37991a9b4247,2019-08-17 22:37:11 UTC
+635,deny,146.231.129.219,139.140.8.163,80,Wherever,Tungdor,China,Wherever,ad389f0d-2472-4453-ba70-bdccb58fecd1,2019-08-17 22:37:11 UTC
+636,deny,130.204.61.98,243.67.181.3,80,Wherever,Huamu,China,Wherever,f6a07e2b-8ed8-436d-986d-d50d9f55d33b,2019-08-17 22:37:11 UTC
+637,allow,132.27.6.251,236.170.116.126,80,Wherever,Mateur,Tunisia,Wherever,74a3f543-f8be-4e89-a11b-1029e04ddf11,2019-08-17 22:37:11 UTC
+638,allow,122.242.108.171,116.229.246.50,80,Wherever,Oltintopkan,Tajikistan,Wherever,9bf1cc85-0d88-4d63-a825-c1de4ba769dc,2019-08-17 22:37:11 UTC
+639,allow,22.101.1.98,76.218.205.75,80,Wherever,Ostrzeszów,Poland,Wherever,cd1018df-56c7-4c87-8c71-45d828597a49,2019-08-17 22:37:11 UTC
+640,deny,86.10.41.211,35.203.6.100,80,Wherever,Sepekov,Czech Republic,Wherever,ba7ec846-e673-45ac-b95d-d2fcd980c2d7,2019-08-17 22:37:11 UTC
+641,deny,119.26.248.24,114.149.159.17,80,Wherever,Socota,Peru,Wherever,680e9d36-2652-48ae-bc8c-e7b22fdf9884,2019-08-17 22:37:11 UTC
+642,deny,100.108.174.128,201.44.69.74,80,Wherever,Pelópion,Greece,Wherever,3de9ff7b-3cea-453b-8ca7-bca18b666703,2019-08-17 22:37:11 UTC
+643,allow,225.182.16.103,190.48.73.51,80,Wherever,Sabae,Japan,Wherever,c7335d8a-2974-40e3-a28b-b38a792f432b,2019-08-17 22:37:11 UTC
+644,deny,38.109.231.249,117.128.105.150,80,Wherever,Horní Jelení,Czech Republic,Wherever,da168818-1129-44cd-bcb7-8ceeca1b69bd,2019-08-17 22:37:11 UTC
+645,deny,111.89.116.215,178.0.152.154,80,Wherever,Uruguaiana,Brazil,Wherever,fae7f9a1-ff2b-4547-98ac-f767a4f72d0c,2019-08-17 22:37:11 UTC
+646,allow,177.13.24.13,177.133.226.145,80,Wherever,Guanting,China,Wherever,9e8106db-366c-4ae6-8862-1221a2ca9a90,2019-08-17 22:37:11 UTC
+647,deny,216.228.222.9,198.3.172.135,80,Wherever,Basud,Philippines,Wherever,35f00622-812c-4247-b61e-a16d1d9c8a59,2019-08-17 22:37:11 UTC
+648,allow,200.83.83.115,107.48.54.130,80,Wherever,Pader Palwo,Uganda,Wherever,a07fd78b-9cd8-4f32-8268-e09bf65c6ccc,2019-08-17 22:37:11 UTC
+649,allow,59.238.240.221,202.24.82.241,80,Wherever,Václavovice,Czech Republic,Wherever,974acee7-685f-4037-8c0e-c5fc18fd3870,2019-08-17 22:37:11 UTC
+650,deny,15.82.180.150,135.90.85.112,80,Wherever,Sobral,Brazil,Wherever,61c26004-2fb1-4663-a15e-7a58dc660222,2019-08-17 22:37:11 UTC
+651,deny,118.71.190.31,117.216.201.168,80,Wherever,Yunhe,China,Wherever,63322e44-92a8-4444-9ad1-3b4e35959ed1,2019-08-17 22:37:11 UTC
+652,deny,165.160.184.74,108.15.30.122,80,Wherever,Golčův Jeníkov,Czech Republic,Wherever,312a8a35-5823-4240-887f-ee5375307a38,2019-08-17 22:37:11 UTC
+653,deny,72.246.100.66,181.248.68.148,80,Wherever,Benguela,Angola,Wherever,283377a5-1da8-4ad9-b0d2-212b79767b28,2019-08-17 22:37:11 UTC
+654,deny,186.239.120.43,37.146.55.115,80,Wherever,La Virginia,Colombia,Wherever,4fd5efef-ad92-49f4-ad03-575534fd3d95,2019-08-17 22:37:11 UTC
+655,allow,61.12.5.192,196.217.34.192,80,Wherever,Mergayu,Indonesia,Wherever,f877a503-1a2b-4413-b9af-cbe751ebb318,2019-08-17 22:37:11 UTC
+656,deny,188.199.221.235,198.236.57.188,80,Wherever,Macaíba,Brazil,Wherever,81de3ba1-ded3-4cce-acbf-31d4daf12b98,2019-08-17 22:37:11 UTC
+657,allow,40.253.221.234,204.69.155.225,80,Wherever,Motrico,Philippines,Wherever,8843fea6-a850-4cc3-ab08-2cffb234af5f,2019-08-17 22:37:11 UTC
+658,deny,65.37.183.21,204.145.212.25,80,Wherever,Sebedo,Indonesia,Wherever,d7c5438b-e5aa-4465-a206-8f5bed189952,2019-08-17 22:37:11 UTC
+659,deny,168.8.113.6,81.181.167.171,80,Wherever,La Reforma,Guatemala,Wherever,701090b3-93f5-48d2-90c9-5448e5d5b760,2019-08-17 22:37:11 UTC
+660,deny,102.69.222.173,90.93.166.249,80,Wherever,Rueil-Malmaison,France,Wherever,dc820e48-865d-403f-b0f5-3dd35c432f60,2019-08-17 22:37:11 UTC
+661,allow,160.106.242.69,134.111.17.134,80,Wherever,Kapinango,Indonesia,Wherever,80f01301-75b5-487e-9b37-55c05176de99,2019-08-17 22:37:11 UTC
+662,allow,105.230.191.220,17.241.222.63,80,Wherever,Muzambinho,Brazil,Wherever,999c9c19-2a4f-4488-8d57-b25709b9eb47,2019-08-17 22:37:11 UTC
+663,deny,140.180.255.71,92.65.141.22,80,Wherever,Bazha,China,Wherever,80c63f97-5b99-4ab3-9419-89f33412572c,2019-08-17 22:37:11 UTC
+664,deny,126.214.104.88,245.237.230.185,80,Wherever,Minanga Norte,Philippines,Wherever,51b44790-8007-4411-9d3d-ce5de28c503c,2019-08-17 22:37:11 UTC
+665,allow,221.241.169.172,65.130.173.7,80,Wherever,Handan,China,Wherever,e60325ba-cee1-4fc3-a13d-95115434c849,2019-08-17 22:37:11 UTC
+666,deny,75.98.19.79,25.201.125.178,80,Wherever,Raejeru,Indonesia,Wherever,fd55c730-3a76-4ea1-b0ae-2df74e7a5d3f,2019-08-17 22:37:11 UTC
+667,allow,26.133.127.102,187.139.227.191,80,Wherever,Hebu,China,Wherever,3282ac14-ef44-4704-8594-cb627a77f03b,2019-08-17 22:37:11 UTC
+668,allow,197.156.224.69,223.74.239.196,80,Wherever,Kenyau,Indonesia,Wherever,df127ab6-4e3d-4292-8bb2-dec170a762b1,2019-08-17 22:37:11 UTC
+669,allow,239.33.13.151,98.90.133.198,80,Wherever,Bzou,Morocco,Wherever,56d4b4ee-4009-4484-a0d1-6df7c7c68113,2019-08-17 22:37:11 UTC
+670,deny,22.215.72.115,132.212.203.129,80,Wherever,Zašová,Czech Republic,Wherever,8d6caf88-415f-4d0d-9cc6-12ed767ea7bf,2019-08-17 22:37:11 UTC
+671,deny,46.239.20.238,145.120.226.12,80,Wherever,Fontana,Argentina,Wherever,72c8805f-d411-46ab-b3d0-d5a96d44ffe7,2019-08-17 22:37:11 UTC
+672,deny,253.146.22.209,153.228.7.159,80,Wherever,Hultsfred,Sweden,Wherever,820cd6af-3f91-4457-988d-589dcedba497,2019-08-17 22:37:11 UTC
+673,allow,45.72.175.60,159.31.78.252,80,Wherever,Jianguang,China,Wherever,3fc44a9b-66f2-4201-b67f-5fb212d11503,2019-08-17 22:37:11 UTC
+674,deny,249.86.211.50,187.150.211.42,80,Wherever,Mirzec,Poland,Wherever,02ffc9ee-7da3-4c0a-ae19-e692423da066,2019-08-17 22:37:11 UTC
+675,deny,154.31.91.242,107.119.118.209,80,Wherever,Alto Barinas,Venezuela,Wherever,f544a350-2351-4c2b-a401-3f7aea0dc49c,2019-08-17 22:37:11 UTC
+676,deny,80.231.244.118,172.210.116.98,80,Wherever,Melioratyvne,Ukraine,Wherever,497f842f-ce92-487b-955c-7583d57407cd,2019-08-17 22:37:11 UTC
+677,allow,139.32.155.31,73.75.124.253,80,Wherever,Lab,China,Wherever,ec064e20-b7e0-4466-b3f1-4a0da31effa9,2019-08-17 22:37:11 UTC
+678,deny,154.252.51.241,234.42.23.10,80,Wherever,Youludu Sibage,China,Wherever,8168c0f7-86b1-4035-95e6-2d7f96b1e065,2019-08-17 22:37:11 UTC
+679,deny,251.7.99.169,117.251.65.221,80,Wherever,Malvern,Jamaica,Wherever,aa2ca923-92c4-441e-9b26-88a292be6e8f,2019-08-17 22:37:11 UTC
+680,deny,179.41.97.255,211.246.229.246,80,Wherever,Chotepe,Honduras,Wherever,0343dfe4-ecbd-432e-8c96-7621795d621f,2019-08-17 22:37:11 UTC
+681,deny,23.60.227.20,172.192.97.91,80,Wherever,Totolan,Philippines,Wherever,d33c3bc3-4085-431b-b06c-d32580e147fd,2019-08-17 22:37:11 UTC
+682,allow,213.111.77.215,65.41.40.12,80,Wherever,Ignacio Zaragoza,Mexico,Wherever,11ca645a-059a-4297-8fd0-01bc04d7703c,2019-08-17 22:37:11 UTC
+683,deny,173.49.246.199,186.62.13.77,80,Wherever,Shanghu,China,Wherever,7a22c366-db18-476f-a7e1-b5e2e1d6e71d,2019-08-17 22:37:11 UTC
+684,deny,190.169.232.99,141.70.72.244,80,Wherever,Yizhivtsi,Ukraine,Wherever,f80dd882-3406-48aa-b173-b30be5b7ea67,2019-08-17 22:37:11 UTC
+685,allow,169.182.47.144,202.114.239.53,80,Wherever,Campo Grande,Brazil,Wherever,0c22e547-4efa-4e3a-9f33-e43e8677e7c0,2019-08-17 22:37:11 UTC
+686,deny,156.64.17.67,211.186.121.186,80,Wherever,Celso Ramos,Brazil,Wherever,94661857-4986-4446-b4b9-872b95d19554,2019-08-17 22:37:11 UTC
+687,deny,21.93.183.203,80.254.235.255,80,Wherever,Na Thawi,Thailand,Wherever,6d7caa12-1333-4caa-a27a-2669a469b288,2019-08-17 22:37:11 UTC
+688,allow,157.1.42.10,159.224.88.223,80,Wherever,Sololá,Guatemala,Wherever,2aa98257-4e37-4934-88ce-1c56b18fa1b1,2019-08-17 22:37:11 UTC
+689,deny,35.184.228.179,64.236.156.30,80,Wherever,Shazhuang,China,Wherever,7b49d181-d442-436f-9b78-228a6061cdfa,2019-08-17 22:37:11 UTC
+690,deny,218.80.12.198,89.186.168.126,80,Wherever,Citeureup,Indonesia,Wherever,c1a52573-ac7f-45b3-a281-6d20b4d98ed7,2019-08-17 22:37:11 UTC
+691,allow,23.148.3.99,140.159.28.230,80,Wherever,Batawa,Indonesia,Wherever,15934132-8619-41b4-ad15-ca4d1c52bf03,2019-08-17 22:37:11 UTC
+692,allow,219.8.138.87,181.63.129.155,80,Wherever,Staraya Kulatka,Russia,Wherever,1b02a3b1-b415-46d3-af68-54d600ee7a6a,2019-08-17 22:37:11 UTC
+693,deny,110.10.103.235,91.26.94.47,80,Wherever,Sheshory,Ukraine,Wherever,b3893bef-720a-401d-b4d0-9bb593e3530d,2019-08-17 22:37:11 UTC
+694,deny,152.208.135.73,71.67.161.115,80,Wherever,Naudero,Pakistan,Wherever,c2bd926b-8d84-4871-a8fe-4e3b83014108,2019-08-17 22:37:11 UTC
+695,allow,88.44.65.21,254.138.77.115,80,Wherever,Stavanger,Norway,Wherever,13eeeb45-f29c-4371-9a36-b7ae273e5485,2019-08-17 22:37:11 UTC
+696,deny,222.6.167.226,66.30.229.247,80,Wherever,Bagay,Philippines,Wherever,d02d29db-ab28-4f33-9d51-ba02730f06c1,2019-08-17 22:37:11 UTC
+697,allow,118.64.39.106,236.99.186.122,80,Wherever,Vichuga,Russia,Wherever,93a84f4d-8238-457f-8b8c-1791306ba40e,2019-08-17 22:37:11 UTC
+698,deny,255.240.246.138,240.83.182.175,80,Wherever,Brangsi,Indonesia,Wherever,5fd91033-5615-467b-b1e7-466a6c72983e,2019-08-17 22:37:11 UTC
+699,allow,155.154.91.207,77.40.243.188,80,Wherever,Contagem,Brazil,Wherever,98720c9c-6e93-4221-ba08-4844e27e9840,2019-08-17 22:37:11 UTC
+700,allow,77.182.47.23,29.159.95.24,80,Wherever,Wangmo,China,Wherever,12640b82-a2cd-4571-99fe-7d0d40eae39e,2019-08-17 22:37:11 UTC
+701,deny,174.42.79.66,38.145.60.212,80,Wherever,Puget-sur-Argens,France,Wherever,4c22b6f9-4629-4098-bbcb-689bb43d857f,2019-08-17 22:37:11 UTC
+702,allow,81.142.210.175,244.245.105.147,80,Wherever,Igpit,Philippines,Wherever,a4b78acc-2c96-450b-8a4d-528ae2ce0c78,2019-08-17 22:37:11 UTC
+703,allow,122.37.33.121,58.160.226.24,80,Wherever,Nūsay,Afghanistan,Wherever,4ad83799-6f9b-4bc9-acce-6a3680a32bb5,2019-08-17 22:37:11 UTC
+704,allow,204.74.29.223,253.186.198.205,80,Wherever,Igrim,Russia,Wherever,704c7e10-d9a5-410b-8249-a8cc9ffe28b2,2019-08-17 22:37:11 UTC
+705,allow,26.124.153.201,38.117.114.86,80,Wherever,Piquillín,Argentina,Wherever,a87f6f32-0417-4b3a-9f3a-dd3fb0c90115,2019-08-17 22:37:11 UTC
+706,deny,70.218.233.117,213.26.241.201,80,Wherever,Quilino,Argentina,Wherever,2f046ee5-bffa-4f6e-b7fa-acfb2401339a,2019-08-17 22:37:11 UTC
+707,allow,208.176.145.13,216.91.51.206,80,Wherever,Concepcion,Philippines,Wherever,b6eef501-86f1-4772-970d-4f0c39d43fb1,2019-08-17 22:37:11 UTC
+708,deny,190.223.102.89,107.55.134.199,80,Wherever,Ranua,Finland,Wherever,a23da358-ea19-44ff-91ac-874612b48f80,2019-08-17 22:37:11 UTC
+709,allow,101.113.193.92,209.25.255.43,80,Wherever,Buenos Aires,Mexico,Wherever,0446ea37-d6d5-4b39-bc88-573a86c09ccb,2019-08-17 22:37:11 UTC
+710,allow,135.177.8.123,53.78.145.252,80,Wherever,Imbang,Philippines,Wherever,c4236aae-2537-44f9-9358-beb265d1f9f9,2019-08-17 22:37:11 UTC
+711,allow,3.172.202.195,220.8.3.12,80,Wherever,Columbus,United States,Wherever,5b509a80-f33e-4b02-90bb-88cf1f407351,2019-08-17 22:37:11 UTC
+712,allow,109.250.16.26,63.179.40.233,80,Wherever,Forbach,France,Wherever,e004a6c7-574e-494b-aa2a-8adaa74efd20,2019-08-17 22:37:11 UTC
+713,deny,143.157.160.81,37.188.232.168,80,Wherever,Pentaplátano,Greece,Wherever,63200180-7f15-4e9c-bfef-05278b01865b,2019-08-17 22:37:11 UTC
+714,deny,82.170.124.131,203.41.187.175,80,Wherever,Lantang,China,Wherever,c27caad0-b300-4f3e-9edd-1529c2b57d8f,2019-08-17 22:37:11 UTC
+715,allow,16.182.35.93,168.110.167.196,80,Wherever,Lady Frere,South Africa,Wherever,59549a27-12c6-4d8a-8b0b-2d339fe69497,2019-08-17 22:37:11 UTC
+716,deny,161.227.206.68,23.200.116.76,80,Wherever,Axili,China,Wherever,2cf8b92a-6836-4224-a822-df190c5bd4b6,2019-08-17 22:37:11 UTC
+717,allow,13.119.236.149,102.84.2.224,80,Wherever,Toulouse,France,Wherever,e7f5f5e4-5f5f-4abd-8840-73714a9e795e,2019-08-17 22:37:11 UTC
+718,allow,88.215.200.137,161.201.71.43,80,Wherever,Husów,Poland,Wherever,831265d7-47c1-4c1f-a1fd-4a69ede2d053,2019-08-17 22:37:11 UTC
+719,allow,208.175.133.215,157.161.252.27,80,Wherever,Leuwibuleud,Indonesia,Wherever,0b894870-336b-478a-b224-86e0895c2a22,2019-08-17 22:37:11 UTC
+720,deny,43.166.161.14,163.67.146.56,80,Wherever,Tabūk,Saudi Arabia,Wherever,04fb489c-97bb-4034-96c3-8b9da9ad4a4c,2019-08-17 22:37:11 UTC
+721,deny,215.152.184.232,147.113.202.223,80,Wherever,Huangtan,China,Wherever,f3978906-3edd-43a7-bf66-f933305182d2,2019-08-17 22:37:11 UTC
+722,allow,144.208.222.204,200.113.206.176,80,Wherever,Weiyuankou,China,Wherever,61a5ae30-2618-4611-a1dd-bc7f63f3e877,2019-08-17 22:37:11 UTC
+723,deny,134.227.249.44,95.74.52.108,80,Wherever,Jiepai,China,Wherever,aa379780-214b-4cc8-9007-d907de405990,2019-08-17 22:37:11 UTC
+724,deny,43.84.24.146,177.86.53.199,80,Wherever,Hongshi,China,Wherever,31e4c434-4efc-4ba5-a614-a58e6f3f2cf3,2019-08-17 22:37:11 UTC
+725,deny,4.199.223.233,45.179.167.48,80,Wherever,‘Anātā,Palestinian Territory,Wherever,dd83300d-dae6-43d2-bcd0-1e730ab37fac,2019-08-17 22:37:11 UTC
+726,allow,228.7.148.108,124.182.48.186,80,Wherever,Kleszczewo,Poland,Wherever,8e787024-e806-423a-824d-ed85fba28939,2019-08-17 22:37:11 UTC
+727,deny,82.170.249.227,146.109.218.231,80,Wherever,Mandaguari,Brazil,Wherever,6d5e18fc-9822-4e8c-8f95-25cca5c89cdf,2019-08-17 22:37:11 UTC
+728,deny,138.148.36.173,192.21.59.239,80,Wherever,Simabur,Indonesia,Wherever,187e2992-9294-4a11-89e7-c21e2b52139a,2019-08-17 22:37:11 UTC
+729,allow,192.39.228.179,247.227.143.151,80,Wherever,Dikou,China,Wherever,32ce3af7-5804-4a83-8e01-950dd3a22d04,2019-08-17 22:37:11 UTC
+730,deny,134.163.148.69,163.40.243.92,80,Wherever,Meadow Lake,Canada,Wherever,286ac413-4a86-418d-b70e-4cb222e919ad,2019-08-17 22:37:11 UTC
+731,deny,28.189.222.172,213.208.38.80,80,Wherever,Opochka,Russia,Wherever,dbc0d23b-a86a-4a12-b7c7-bfcc2d19a938,2019-08-17 22:37:11 UTC
+732,deny,242.191.86.74,40.87.150.130,80,Wherever,Herby,Poland,Wherever,12addc65-f3f9-4a63-b5ed-c7ea486f280a,2019-08-17 22:37:11 UTC
+733,allow,66.226.27.52,120.141.204.1,80,Wherever,Shichuan,China,Wherever,755bd715-43e8-41a8-a79d-3ea5646d5cf7,2019-08-17 22:37:11 UTC
+734,allow,157.217.233.212,184.13.15.98,80,Wherever,Yangzhong,China,Wherever,8db88a6f-c2b3-4fce-8d40-d7735054b1a1,2019-08-17 22:37:11 UTC
+735,deny,195.114.39.207,210.137.122.90,80,Wherever,Fort Macleod,Canada,Wherever,5a80b132-c9ac-4888-abd4-14443d575a99,2019-08-17 22:37:11 UTC
+736,allow,101.120.160.124,181.39.248.163,80,Wherever,Uruçuca,Brazil,Wherever,6c235be8-0911-40e7-98e6-6e36ed240a87,2019-08-17 22:37:11 UTC
+737,deny,18.223.232.202,43.123.20.180,80,Wherever,Chropyně,Czech Republic,Wherever,14ad0e73-5d79-40bd-b9fc-a3ccd2a99bb3,2019-08-17 22:37:11 UTC
+738,allow,175.142.140.89,249.68.15.7,80,Wherever,Rešetari,Croatia,Wherever,10f1466b-3d5e-4ddc-8878-61b8b0e93ac8,2019-08-17 22:37:11 UTC
+739,deny,186.195.29.52,34.178.250.242,80,Wherever,Kamieniec Ząbkowicki,Poland,Wherever,a330fe63-df98-4eb6-a510-ad488e5b7cc6,2019-08-17 22:37:11 UTC
+740,deny,234.204.243.84,107.216.90.238,80,Wherever,Jinsha,China,Wherever,7fc85c63-f360-4bcb-b89e-3c063e9f93a3,2019-08-17 22:37:11 UTC
+741,allow,47.47.43.134,122.242.143.195,80,Wherever,Cibitung,Indonesia,Wherever,2aeffec9-41e1-4b1a-8742-42497ed314f3,2019-08-17 22:37:11 UTC
+742,deny,103.58.86.140,217.3.169.90,80,Wherever,Hobaramachi,Japan,Wherever,d7a74c95-bebd-40bc-9f88-fc840401278f,2019-08-17 22:37:11 UTC
+743,allow,27.193.85.135,113.125.54.245,80,Wherever,Sarykemer,Kazakhstan,Wherever,89811d30-5866-4f36-a993-5254aa50785b,2019-08-17 22:37:11 UTC
+744,deny,1.105.237.117,210.69.16.176,80,Wherever,Pa Kham,Thailand,Wherever,f1677f66-8453-45ae-bd40-075fea678b96,2019-08-17 22:37:11 UTC
+745,deny,170.131.245.193,137.7.46.83,80,Wherever,Tambakrejo,Indonesia,Wherever,dee25cfb-6452-4cff-a8ee-19dde74c3fc4,2019-08-17 22:37:11 UTC
+746,allow,63.67.41.182,245.10.175.254,80,Wherever,Dongjiahe,China,Wherever,397c3238-ac9b-4b2d-af5f-79c5992f3953,2019-08-17 22:37:11 UTC
+747,deny,15.76.152.12,232.82.226.206,80,Wherever,Fatualam,Indonesia,Wherever,408588a6-bfd1-4432-a26b-1c4831518f92,2019-08-17 22:37:11 UTC
+748,deny,113.212.201.120,193.81.129.182,80,Wherever,Sergio Osmeña Sr,Philippines,Wherever,eda5f68f-ada8-4168-902d-98f63e7cac2a,2019-08-17 22:37:11 UTC
+749,deny,32.56.179.136,79.200.107.116,80,Wherever,Murowana Goślina,Poland,Wherever,9e56d568-e59f-4911-943b-af6535bc16f4,2019-08-17 22:37:11 UTC
+750,deny,81.211.180.162,147.181.67.225,80,Wherever,Uzda,Belarus,Wherever,1cb259f7-e0d4-4482-ad8d-cc658c4414a1,2019-08-17 22:37:11 UTC
+751,allow,113.100.47.205,205.60.220.208,80,Wherever,San Pedro de Lloc,Peru,Wherever,c9f69b0a-1cb4-42c2-ad0d-2405f98c067b,2019-08-17 22:37:11 UTC
+752,deny,76.219.136.24,238.224.94.71,80,Wherever,Kurgan,Russia,Wherever,f7c6c189-9108-4747-a449-2ac6aa4f6a9b,2019-08-17 22:37:11 UTC
+753,allow,244.102.67.37,141.149.57.49,80,Wherever,San José de Mayo,Uruguay,Wherever,ecf51a4f-71f6-4438-afd3-ec800513480e,2019-08-17 22:37:11 UTC
+754,deny,18.176.238.255,130.189.3.125,80,Wherever,San Andrés Villa Seca,Guatemala,Wherever,96db3194-cbd1-4664-9065-29f1cad59ca7,2019-08-17 22:37:11 UTC
+755,deny,168.237.79.119,235.48.187.245,80,Wherever,Xiwanzi,China,Wherever,915033da-610c-4b1f-b41a-831ea38314c5,2019-08-17 22:37:11 UTC
+756,allow,149.114.198.199,76.203.58.137,80,Wherever,Pho Thale,Thailand,Wherever,012c1f35-fc9f-440c-8ff3-d5ef0cc48c4f,2019-08-17 22:37:11 UTC
+757,allow,126.233.186.160,107.253.188.89,80,Wherever,Heitan,China,Wherever,6b96d4a9-7710-4160-9f93-0e040f087f6b,2019-08-17 22:37:11 UTC
+758,deny,90.22.182.191,93.6.159.182,80,Wherever,Heihe,China,Wherever,ae05a2a8-a5dc-459d-9ea0-5dac36f35ea1,2019-08-17 22:37:11 UTC
+759,allow,222.192.251.226,189.90.100.158,80,Wherever,Brejo da Madre de Deus,Brazil,Wherever,2c0e0d0b-9474-4236-9e68-1d7d59c448ab,2019-08-17 22:37:11 UTC
+760,deny,151.105.170.136,253.249.104.77,80,Wherever,Kota Kinabalu,Malaysia,Wherever,090bc36d-4aa4-4fdf-a1df-96a9ddbbd8c9,2019-08-17 22:37:11 UTC
+761,allow,251.26.118.141,145.243.215.244,80,Wherever,Al Mukallā,Yemen,Wherever,74ecb74a-7f77-4c23-b573-eb36936436c7,2019-08-17 22:37:11 UTC
+762,allow,6.244.175.26,26.51.3.55,80,Wherever,Tam Bình,Vietnam,Wherever,f4773724-7fca-4135-885a-d81e067fcc0a,2019-08-17 22:37:11 UTC
+763,allow,233.116.67.88,135.86.194.179,80,Wherever,Grujugan,Indonesia,Wherever,ce20aaf7-cdf0-4f8d-8df1-b2cd89dbdbaf,2019-08-17 22:37:11 UTC
+764,allow,238.120.216.151,121.37.19.70,80,Wherever,Huanglong,China,Wherever,a9d6114b-f726-41d2-a7a9-10c8efe48912,2019-08-17 22:37:11 UTC
+765,allow,160.249.198.107,203.207.12.22,80,Wherever,Caspisapa,Peru,Wherever,72c73470-4ba8-4dd3-849c-08898706562e,2019-08-17 22:37:11 UTC
+766,deny,6.193.31.170,82.81.12.20,80,Wherever,Dabu,China,Wherever,b42d371c-c1b5-48b9-8b2c-d6a5680bdd11,2019-08-17 22:37:11 UTC
+767,deny,107.217.155.180,82.243.231.65,80,Wherever,Cimişlia,Moldova,Wherever,3b71e982-70d8-4e3e-8949-4759127f5210,2019-08-17 22:37:11 UTC
+768,deny,210.205.20.130,252.40.166.62,80,Wherever,Nirji,China,Wherever,b98ce9f9-8540-4390-ae09-4c06d58cdf16,2019-08-17 22:37:11 UTC
+769,allow,152.207.24.86,145.197.136.196,80,Wherever,Phú Khương,Vietnam,Wherever,1bf2ec4f-e304-4b6d-852b-825c331dba13,2019-08-17 22:37:11 UTC
+770,allow,49.157.92.199,207.77.135.93,80,Wherever,Peuara,Indonesia,Wherever,8fc8a834-2ca6-40ff-87fd-81bb55164666,2019-08-17 22:37:11 UTC
+771,allow,81.164.29.111,185.104.247.15,80,Wherever,Piggotts,Antigua and Barbuda,Wherever,4d36afa0-1660-41c4-89d3-ed0f36b3c0b1,2019-08-17 22:37:11 UTC
+772,deny,17.31.234.152,122.28.0.127,80,Wherever,Novodmitriyevskaya,Russia,Wherever,1dfd797e-08e5-4ef9-88f8-89fd6bab1771,2019-08-17 22:37:11 UTC
+773,allow,241.200.232.172,103.112.236.208,80,Wherever,Yangzi,China,Wherever,5d520e06-afae-405c-9b10-2fa183f2393b,2019-08-17 22:37:11 UTC
+774,allow,157.153.243.162,4.94.13.62,80,Wherever,Bojongaren,Indonesia,Wherever,96416d3c-ad6a-42d4-9c97-4838d61b47ff,2019-08-17 22:37:11 UTC
+775,deny,248.87.119.136,211.175.172.250,80,Wherever,Besançon,France,Wherever,a8b4138d-9d19-4c23-88b0-a8352347fa7f,2019-08-17 22:37:11 UTC
+776,allow,161.247.21.168,224.39.43.191,80,Wherever,Brodnica,Poland,Wherever,13d7908c-cffa-4f0d-b07a-885d2f2fa20b,2019-08-17 22:37:11 UTC
+777,allow,240.214.67.203,227.46.98.248,80,Wherever,Singosari,Indonesia,Wherever,a204e5ee-4167-4ee7-a70c-c93bbed23ac5,2019-08-17 22:37:11 UTC
+778,allow,159.131.2.11,194.41.234.87,80,Wherever,Nobeoka,Japan,Wherever,904a225e-4916-494e-b898-c646d8fb4297,2019-08-17 22:37:11 UTC
+779,deny,161.89.126.124,176.108.24.60,80,Wherever,Bang Klam,Thailand,Wherever,67b7cb01-e7fb-4fb2-8c6f-0943d4eaf79f,2019-08-17 22:37:11 UTC
+780,deny,55.225.28.85,202.207.194.86,80,Wherever,Nybro,Sweden,Wherever,0cb7c2e0-cc1d-4f80-b55d-637a65f19775,2019-08-17 22:37:11 UTC
+781,deny,52.144.26.20,250.157.82.161,80,Wherever,Brody,Ukraine,Wherever,113eebd8-80e0-466e-a1a7-2644a312158b,2019-08-17 22:37:11 UTC
+782,allow,199.94.126.55,70.24.181.73,80,Wherever,Muxagata,Portugal,Wherever,33a69f0d-f0ba-4ee2-a728-2568e34965fa,2019-08-17 22:37:11 UTC
+783,allow,99.139.74.135,214.157.41.235,80,Wherever,Tankhoy,Russia,Wherever,e1e394c6-2dfe-48f7-97d7-db13beb584b3,2019-08-17 22:37:11 UTC
+784,allow,167.253.68.74,136.12.50.184,80,Wherever,Salyan,Azerbaijan,Wherever,e603570b-685b-45d2-9995-089d89ae54e9,2019-08-17 22:37:11 UTC
+785,allow,240.161.153.156,184.90.40.166,80,Wherever,Nakkila,Finland,Wherever,7cbfdc55-18c3-4560-9b21-e0be57b4ac88,2019-08-17 22:37:11 UTC
+786,deny,57.220.140.137,54.77.207.4,80,Wherever,Guyi,China,Wherever,b9c00dc3-fa61-4bfd-b42b-742d5924d388,2019-08-17 22:37:11 UTC
+787,allow,244.1.42.98,185.91.113.76,80,Wherever,Uppsala,Sweden,Wherever,05f9c3ae-0887-421f-8925-5758069a1e0b,2019-08-17 22:37:11 UTC
+788,deny,175.220.179.51,98.59.204.255,80,Wherever,Delicias,Venezuela,Wherever,ab3c4bb6-64c1-41e5-aae1-91d7307f796c,2019-08-17 22:37:11 UTC
+789,deny,118.202.158.253,51.14.30.154,80,Wherever,Nsukka,Nigeria,Wherever,20f6fb82-d059-4426-b5f3-31c8e4ecf161,2019-08-17 22:37:11 UTC
+790,allow,147.249.95.24,221.163.167.184,80,Wherever,Pulau Pinang,Malaysia,Wherever,60185bca-4290-4a80-9d6e-5140d7d1f056,2019-08-17 22:37:11 UTC
+791,allow,25.163.16.118,210.96.6.132,80,Wherever,Washington,United States,Wherever,ae963ba4-90dd-424c-8190-10a91446cfc5,2019-08-17 22:37:11 UTC
+792,allow,115.203.228.165,190.51.55.108,80,Wherever,Gameleira,Brazil,Wherever,00c900cd-901f-4be9-9a39-22dfe07d8a4c,2019-08-17 22:37:11 UTC
+793,allow,162.143.58.42,230.39.80.29,80,Wherever,Farkhor,Tajikistan,Wherever,0992a31a-4092-4941-8d91-3a27d2c1dfda,2019-08-17 22:37:11 UTC
+794,allow,130.163.212.117,5.39.245.245,80,Wherever,Tatou,China,Wherever,b510faa9-2dc0-404a-81ce-45d2d60352cb,2019-08-17 22:37:11 UTC
+795,allow,32.145.97.190,104.84.43.121,80,Wherever,Cha’anpu,China,Wherever,8ae08a17-abaf-48ab-a563-8b5e6fc300b3,2019-08-17 22:37:11 UTC
+796,deny,99.97.249.189,137.229.89.95,80,Wherever,Zhagang,China,Wherever,d623a964-afed-46cc-a4c9-7b9885840202,2019-08-17 22:37:11 UTC
+797,deny,186.35.225.72,128.153.66.212,80,Wherever,Cachada,Portugal,Wherever,a22f0b5a-97f4-4735-986b-bfdb2841cb13,2019-08-17 22:37:11 UTC
+798,allow,183.198.87.228,59.22.57.70,80,Wherever,Sacramento,United States,Wherever,c5df1c7e-f580-4b80-a6e4-d15209af0e80,2019-08-17 22:37:11 UTC
+799,deny,233.172.69.2,123.12.142.195,80,Wherever,Selaawi,Indonesia,Wherever,06b924d3-0d93-4e50-85c9-52d95c495563,2019-08-17 22:37:11 UTC
+800,deny,224.137.202.135,93.22.99.58,80,Wherever,Xianxi,China,Wherever,05a0588e-33ba-4ef0-8bff-9f5b8d25519d,2019-08-17 22:37:11 UTC
+801,allow,248.52.59.151,71.30.17.59,80,Wherever,Laagri,Estonia,Wherever,951ff717-5b4c-464c-8e67-04ec56119c94,2019-08-17 22:37:11 UTC
+802,allow,158.18.201.112,140.236.28.191,80,Wherever,Barreiras,Brazil,Wherever,0ff1d275-0959-4c2c-91e2-2e619ff73907,2019-08-17 22:37:11 UTC
+803,deny,145.103.7.128,103.89.124.19,80,Wherever,Annotto Bay,Jamaica,Wherever,1011f7ad-685e-4da7-af69-84b792a0a38d,2019-08-17 22:37:11 UTC
+804,allow,215.109.0.49,131.22.26.34,80,Wherever,Mananum,Philippines,Wherever,cc4a6eb5-d643-49d6-97fd-211a92ce0da4,2019-08-17 22:37:11 UTC
+805,allow,210.175.12.243,199.209.0.247,80,Wherever,Settat,Morocco,Wherever,dfbf0716-63ea-43c9-9064-13e7f138ecbc,2019-08-17 22:37:11 UTC
+806,deny,254.133.71.237,2.113.212.95,80,Wherever,København,Denmark,Wherever,a9662678-30c4-4e1d-b8c6-b04f0a08267c,2019-08-17 22:37:11 UTC
+807,allow,32.230.183.67,217.121.163.202,80,Wherever,Fort-de-France,Martinique,Wherever,0e77e76c-d546-44cb-b336-b21f04f56755,2019-08-17 22:37:11 UTC
+808,deny,0.42.63.210,179.249.64.24,80,Wherever,Volnovakha,Ukraine,Wherever,78ca8ad9-b97f-46c4-855f-2983f0fd256e,2019-08-17 22:37:11 UTC
+809,allow,232.67.143.227,242.11.31.235,80,Wherever,Houston,United States,Wherever,7a418307-a0ed-4da6-8586-cd26ccf08c23,2019-08-17 22:37:11 UTC
+810,deny,251.224.248.77,213.187.25.198,80,Wherever,Igoumenítsa,Greece,Wherever,540ec5a2-6c7d-49cf-95f6-2f8bed93963b,2019-08-17 22:37:11 UTC
+811,allow,57.158.97.182,80.199.79.100,80,Wherever,Digah,Azerbaijan,Wherever,62d0daa2-6b6c-41d6-8630-7f5000860d99,2019-08-17 22:37:11 UTC
+812,allow,125.12.175.13,58.188.203.3,80,Wherever,Vidin,Bulgaria,Wherever,a85837b3-5ea7-4cd6-98c2-ed4386f82867,2019-08-17 22:37:11 UTC
+813,allow,9.175.49.132,43.90.27.42,80,Wherever,Yahe,China,Wherever,e9ec487f-6c97-4ae5-b41a-5103baf3b2c8,2019-08-17 22:37:11 UTC
+814,deny,55.235.170.237,141.56.154.230,80,Wherever,Neni,Nigeria,Wherever,5242e142-0c8a-4f41-bbc2-b1f6b4296a65,2019-08-17 22:37:11 UTC
+815,allow,159.218.119.121,137.172.89.206,80,Wherever,Tejen,Turkmenistan,Wherever,2a189d72-727f-4edd-b1a7-482cbe2427cf,2019-08-17 22:37:11 UTC
+816,deny,92.166.159.152,75.2.243.161,80,Wherever,Deshan,China,Wherever,95926c65-6caa-42f8-bb46-724e86557818,2019-08-17 22:37:11 UTC
+817,deny,170.32.208.136,27.84.219.135,80,Wherever,Ventspils,Latvia,Wherever,2c09555d-4937-4865-bd56-4b8b93bedef6,2019-08-17 22:37:11 UTC
+818,deny,57.187.253.101,6.59.160.81,80,Wherever,Ban Talat Nua,Thailand,Wherever,bb66da1c-d7fd-41ff-bc12-90b1fe537e17,2019-08-17 22:37:11 UTC
+819,deny,42.46.118.123,240.186.136.39,80,Wherever,Haoshui,China,Wherever,fea3fd22-23c8-48b2-b4bd-dcdfbcbe27a1,2019-08-17 22:37:11 UTC
+820,allow,212.171.128.250,25.18.191.212,80,Wherever,Nahiyat Ghammas,Iraq,Wherever,9abda323-020d-4521-a30a-0b78c7ba8fae,2019-08-17 22:37:11 UTC
+821,deny,102.217.141.36,13.111.45.106,80,Wherever,Dacudao,Philippines,Wherever,e1449da9-697e-45e8-a457-1c363a447af6,2019-08-17 22:37:11 UTC
+822,allow,231.11.23.39,169.82.154.68,80,Wherever,Bueng Khong Long,Thailand,Wherever,c0d5d9a7-ac96-4228-b9c1-dbf74d161dba,2019-08-17 22:37:11 UTC
+823,deny,13.201.136.204,79.175.213.44,80,Wherever,Danbury,United States,Wherever,653503c2-4b65-4919-9c4a-07c4151fe7f4,2019-08-17 22:37:11 UTC
+824,allow,199.32.30.2,220.123.137.9,80,Wherever,Zakamensk,Russia,Wherever,2e8a3ae3-d491-40ef-ad2c-2734a168745d,2019-08-17 22:37:11 UTC
+825,allow,235.146.248.227,51.228.57.61,80,Wherever,Piedrancha,Colombia,Wherever,a6efa8e0-f494-4c3d-bec3-91ef3ea664f5,2019-08-17 22:37:11 UTC
+826,allow,181.7.81.14,122.214.130.33,80,Wherever,Valinhos,Brazil,Wherever,23b9dde3-f3db-4706-acde-9c55ae02148f,2019-08-17 22:37:11 UTC
+827,deny,142.56.191.15,126.12.60.28,80,Wherever,Jihuluntu Sumu,China,Wherever,04f200c5-42a9-40d2-8cf2-2ff3f7759d32,2019-08-17 22:37:11 UTC
+828,allow,227.201.203.51,92.4.108.213,80,Wherever,Boca Suno,Ecuador,Wherever,27019920-ded1-4072-86aa-c43801fbaa72,2019-08-17 22:37:11 UTC
+829,allow,14.146.144.15,88.184.94.30,80,Wherever,Caen,France,Wherever,f4061d8e-7768-4100-ba19-51ac7d8c0537,2019-08-17 22:37:11 UTC
+830,allow,241.18.108.30,237.95.179.158,80,Wherever,Shifan,China,Wherever,d0ba0b2e-294f-4122-a0f4-870a16602ad0,2019-08-17 22:37:11 UTC
+831,allow,166.229.126.24,159.68.220.126,80,Wherever,Sindanghayu,Indonesia,Wherever,97ff17bc-c687-4092-94e1-3f4978e691d8,2019-08-17 22:37:11 UTC
+832,allow,51.125.206.0,63.81.88.65,80,Wherever,Chengbei,China,Wherever,e41f8d56-e097-4c00-8821-9887d57a4d62,2019-08-17 22:37:11 UTC
+833,deny,145.192.127.220,225.111.83.177,80,Wherever,Otyń,Poland,Wherever,cb26f59c-736b-4281-b372-b84cc8d896ea,2019-08-17 22:37:11 UTC
+834,deny,54.255.218.115,212.35.21.74,80,Wherever,Cikotok,Indonesia,Wherever,446b7cce-6d20-453f-85cc-b687ffc84a34,2019-08-17 22:37:11 UTC
+835,allow,126.184.128.55,63.207.108.167,80,Wherever,Al Burayqah,Libya,Wherever,a7d6c6c2-e99c-4803-96b9-53a0c322e327,2019-08-17 22:37:11 UTC
+836,allow,197.207.42.96,125.51.105.213,80,Wherever,Jawor,Poland,Wherever,83ec5826-e048-4b80-b0e1-8aaadac5442b,2019-08-17 22:37:11 UTC
+837,allow,61.230.111.206,35.80.64.213,80,Wherever,Requião,Portugal,Wherever,d70d2b63-465d-4439-9f62-c28bdd9249d9,2019-08-17 22:37:11 UTC
+838,allow,115.127.97.31,182.59.92.6,80,Wherever,Raffingora,Zimbabwe,Wherever,21bb1f15-db3e-4942-85f7-b923b879330d,2019-08-17 22:37:11 UTC
+839,allow,166.32.195.20,16.21.181.178,80,Wherever,Versailles,France,Wherever,35662f45-56c2-462a-8478-d40f121b6843,2019-08-17 22:37:11 UTC
+840,allow,161.163.191.22,194.219.112.115,80,Wherever,Kan’onjichō,Japan,Wherever,0274c13b-8f9a-46e6-9848-de5d55a74828,2019-08-17 22:37:11 UTC
+841,allow,118.82.19.47,94.38.63.32,80,Wherever,San Carlos,Colombia,Wherever,7eeaf693-2ffe-4e96-9d38-bccfc1eb62c2,2019-08-17 22:37:11 UTC
+842,deny,250.156.36.16,234.193.72.232,80,Wherever,Ḩāfiz̧ Moghul,Afghanistan,Wherever,1915cc54-6e69-4dff-8062-9afcd439744a,2019-08-17 22:37:12 UTC
+843,deny,82.7.85.68,82.4.124.170,80,Wherever,Evxinoúpolis,Greece,Wherever,de4122ab-7526-4cf0-b6fb-ff25724d36e8,2019-08-17 22:37:12 UTC
+844,allow,185.253.0.114,244.16.194.17,80,Wherever,Khalopyenichy,Belarus,Wherever,274159a1-0178-45c0-8eb4-9cf97b136f0c,2019-08-17 22:37:12 UTC
+845,deny,223.252.100.147,227.255.100.90,80,Wherever,Yuannan,China,Wherever,ad70a3f6-19c4-4eaa-b09c-c6faf6ba871c,2019-08-17 22:37:12 UTC
+846,deny,206.153.37.6,186.179.102.204,80,Wherever,San Vicente,Philippines,Wherever,d9608072-f77b-4677-8f7f-e567f733f57f,2019-08-17 22:37:12 UTC
+847,allow,80.139.27.0,154.212.104.60,80,Wherever,Pajić Polje,Bosnia and Herzegovina,Wherever,68afd5c4-8a72-46ce-a171-6f219a464eeb,2019-08-17 22:37:12 UTC
+848,allow,22.49.224.230,217.151.120.205,80,Wherever,Tulyushka,Russia,Wherever,48e02c49-ac8b-4d4e-949d-e7589ab56ede,2019-08-17 22:37:12 UTC
+849,deny,58.197.81.153,28.86.153.9,80,Wherever,Vanderbijlpark,South Africa,Wherever,e35a93cd-3911-4927-9d4e-285c08888057,2019-08-17 22:37:12 UTC
+850,deny,0.72.37.87,147.254.91.111,80,Wherever,Chiţcani,Moldova,Wherever,564742e0-c852-483b-aa6f-019ea7fea00d,2019-08-17 22:37:12 UTC
+851,deny,195.193.201.56,223.97.206.59,80,Wherever,Muzambinho,Brazil,Wherever,0754f5bc-c9ef-4807-a868-366009c83448,2019-08-17 22:37:12 UTC
+852,deny,160.9.94.180,119.50.78.162,80,Wherever,Nchelenge,Zambia,Wherever,f3614c0b-41e0-42f2-9b17-f4eabc1a313b,2019-08-17 22:37:12 UTC
+853,allow,138.226.206.40,44.178.1.246,80,Wherever,Anserma,Colombia,Wherever,673d5fab-4b5b-47fd-ba3a-c480f893cae7,2019-08-17 22:37:12 UTC
+854,allow,141.13.249.81,138.119.112.145,80,Wherever,Kloangpopot,Indonesia,Wherever,25bb5283-1060-4a96-981a-5f43a6df42e2,2019-08-17 22:37:12 UTC
+855,allow,124.41.101.89,193.95.233.11,80,Wherever,Terbangan,Indonesia,Wherever,213cf880-c9f3-4fe7-8ad7-0b50348dc9fa,2019-08-17 22:37:12 UTC
+856,deny,160.190.235.10,13.45.38.84,80,Wherever,Šumperk,Czech Republic,Wherever,aa301854-e415-488c-8f69-75241c25a4db,2019-08-17 22:37:12 UTC
+857,allow,6.224.131.96,194.239.97.142,80,Wherever,Zhangcun,China,Wherever,0a0d0857-3502-461e-b24d-dc479d1dc5e5,2019-08-17 22:37:12 UTC
+858,deny,134.170.130.62,177.13.254.205,80,Wherever,Ganxi,China,Wherever,527a12b0-5af3-4c0f-93e4-ca87d8933054,2019-08-17 22:37:12 UTC
+859,deny,224.227.12.163,133.203.96.133,80,Wherever,Bedford,Canada,Wherever,96829b90-72a3-4853-ac91-1e63f7d73d54,2019-08-17 22:37:12 UTC
+860,deny,106.62.131.56,166.105.64.175,80,Wherever,Hwawŏn,South Korea,Wherever,ca75e72b-baa5-481a-b2d1-3c6d03110bae,2019-08-17 22:37:12 UTC
+861,deny,193.231.230.160,60.78.188.89,80,Wherever,Heiheba,China,Wherever,d5877530-57ba-4179-a9b5-97ed4eb45132,2019-08-17 22:37:12 UTC
+862,allow,168.161.233.143,156.44.97.205,80,Wherever,Cabaritan East,Philippines,Wherever,469c1315-eb2e-405e-a054-670d222b1c0b,2019-08-17 22:37:12 UTC
+863,allow,234.156.62.4,235.230.182.135,80,Wherever,San Felipe,Chile,Wherever,5f5113ef-0ff3-40e5-b93c-3dc5bca195ac,2019-08-17 22:37:12 UTC
+864,deny,91.20.85.224,142.234.155.88,80,Wherever,Mandaue City,Philippines,Wherever,04e0f87d-380f-4ff3-af3a-a10decf673bc,2019-08-17 22:37:12 UTC
+865,allow,17.249.192.135,91.17.186.141,80,Wherever,Laguna Paiva,Argentina,Wherever,68dde114-1456-4916-a4e9-5c6390ad86e0,2019-08-17 22:37:12 UTC
+866,deny,211.222.233.133,229.219.127.223,80,Wherever,Mas‘adah,Syria,Wherever,85776ff6-3e2c-490e-b924-7938df9991ca,2019-08-17 22:37:12 UTC
+867,allow,37.198.131.25,235.13.201.144,80,Wherever,Lemahputih,Indonesia,Wherever,d71517c0-c01b-4b42-b5c0-d49158e319d6,2019-08-17 22:37:12 UTC
+868,deny,216.105.140.122,63.125.22.213,80,Wherever,Miami,United States,Wherever,a63562d4-9e35-496a-b066-9d206a9ad45d,2019-08-17 22:37:12 UTC
+869,allow,11.50.22.111,230.96.61.112,80,Wherever,Tambir,Indonesia,Wherever,c351b109-ed1e-475e-ae7a-e3da41aae4ef,2019-08-17 22:37:12 UTC
+870,allow,238.132.22.212,210.90.91.222,80,Wherever,Iradan,Kyrgyzstan,Wherever,fd372f61-b45b-44f5-96ab-c072f942f197,2019-08-17 22:37:12 UTC
+871,deny,250.114.128.186,6.139.119.153,80,Wherever,Biancheng,China,Wherever,e0e6d8e1-9644-4384-b708-c8ffb5049f87,2019-08-17 22:37:12 UTC
+872,allow,89.235.35.114,104.124.163.79,80,Wherever,Colorado Springs,United States,Wherever,68a57b4d-d54e-4e4c-99a1-7f48525b1235,2019-08-17 22:37:12 UTC
+873,allow,147.22.254.80,122.185.13.114,80,Wherever,Krajan Puger Wetan,Indonesia,Wherever,39a460fe-b1e2-4302-b63d-c73c91cd592e,2019-08-17 22:37:12 UTC
+874,deny,246.11.236.108,7.132.66.132,80,Wherever,Dār an Naşr,Yemen,Wherever,24254291-f38b-4b05-a933-509a001038c9,2019-08-17 22:37:12 UTC
+875,allow,244.213.135.168,80.218.238.106,80,Wherever,Changjiang,China,Wherever,da85703c-5d1e-4a62-970f-a1e49d5aee2c,2019-08-17 22:37:12 UTC
+876,allow,109.117.39.234,88.153.19.252,80,Wherever,Jinghai,China,Wherever,a454fcc5-d761-4e33-96af-f3fbe30b7ad3,2019-08-17 22:37:12 UTC
+877,allow,199.166.186.106,72.212.147.194,80,Wherever,Warung Wetan,Indonesia,Wherever,0e09fcc1-b4ea-4770-980e-b78b84294c7e,2019-08-17 22:37:12 UTC
+878,deny,16.103.55.148,71.140.225.144,80,Wherever,Venilale,East Timor,Wherever,74f44508-588d-46a1-b57b-efb35d361607,2019-08-17 22:37:12 UTC
+879,allow,129.201.219.69,110.43.177.67,80,Wherever,Jimo,China,Wherever,cad9fdbb-59d1-4226-9780-913a08a1ed9e,2019-08-17 22:37:12 UTC
+880,allow,111.84.228.23,16.160.217.96,80,Wherever,Oenpeotnai,Indonesia,Wherever,c4373a04-4ff4-4b9e-b0bd-4ac6ba630bb8,2019-08-17 22:37:12 UTC
+881,allow,238.73.11.85,253.51.230.140,80,Wherever,Znamenskoye,Russia,Wherever,177d24bc-b111-4c81-b4cf-b30c87e89a29,2019-08-17 22:37:12 UTC
+882,deny,86.52.106.153,195.218.237.152,80,Wherever,Dahe,China,Wherever,a451bf7e-f75c-44aa-8bde-cfa40c037b4b,2019-08-17 22:37:12 UTC
+883,allow,251.164.94.197,237.151.202.249,80,Wherever,Samboan,Philippines,Wherever,825e3f36-1777-444e-95d5-277c66166a0b,2019-08-17 22:37:12 UTC
+884,deny,19.33.26.138,58.171.168.72,80,Wherever,Kacangan Lor,Indonesia,Wherever,03c3fab0-b161-4bf3-8308-58bf342c5d5e,2019-08-17 22:37:12 UTC
+885,allow,19.2.49.136,204.246.77.208,80,Wherever,Kabare,Indonesia,Wherever,f2f80889-2072-4831-b1f4-e7b49b1732ca,2019-08-17 22:37:12 UTC
+886,allow,163.89.140.185,108.239.153.212,80,Wherever,Madrid,Colombia,Wherever,7e23a703-ca21-4b9c-b94d-69d54183797f,2019-08-17 22:37:12 UTC
+887,allow,106.3.239.103,25.197.238.149,80,Wherever,Hongxing,China,Wherever,b40ce947-b613-4021-86fd-d09a2256d35b,2019-08-17 22:37:12 UTC
+888,deny,48.7.147.78,104.131.87.193,80,Wherever,Temblador,Venezuela,Wherever,a1d97bdc-442e-462b-ba49-bcc87c4ffd92,2019-08-17 22:37:12 UTC
+889,allow,222.17.5.102,189.204.126.7,80,Wherever,Tempuran,Indonesia,Wherever,0cb74adc-7dc6-4da8-9d2e-a973c10dd778,2019-08-17 22:37:12 UTC
+890,deny,180.204.73.187,59.24.223.254,80,Wherever,Munde,Indonesia,Wherever,3dcbb96c-2b58-41e0-b9f1-0ec5dc7dfc7b,2019-08-17 22:37:12 UTC
+891,deny,140.77.251.255,194.7.87.235,80,Wherever,Lincheng,China,Wherever,c0411e77-a8d7-4216-9b1f-d76d4c4579bc,2019-08-17 22:37:12 UTC
+892,allow,155.30.2.192,48.74.201.2,80,Wherever,Kap Choeng,Thailand,Wherever,6c096293-5a5c-4154-9424-b5415b0f9535,2019-08-17 22:37:12 UTC
+893,allow,183.212.105.116,124.103.138.70,80,Wherever,Arada,Honduras,Wherever,5edfffaa-832d-48b8-9b23-679b5e1ed3b7,2019-08-17 22:37:12 UTC
+894,allow,212.14.184.191,131.46.63.195,80,Wherever,Kotablolong,Indonesia,Wherever,303f8203-c242-4d10-8c18-42147a6ae3e4,2019-08-17 22:37:12 UTC
+895,allow,100.112.138.67,134.198.212.246,80,Wherever,Velikiy Novgorod,Russia,Wherever,adc16c06-2f57-48fc-a422-70f3c091d031,2019-08-17 22:37:12 UTC
+896,deny,56.164.254.237,129.117.28.225,80,Wherever,Minuyan,Philippines,Wherever,d02ca3a3-61b8-46dd-a07f-e933392b71ad,2019-08-17 22:37:12 UTC
+897,deny,161.1.93.62,129.55.237.87,80,Wherever,Saint-Brieuc,France,Wherever,5eb75ca8-e1d7-4b7f-baaa-afb35d2e49a2,2019-08-17 22:37:12 UTC
+898,deny,123.253.235.74,178.219.138.238,80,Wherever,Kapchorwa,Uganda,Wherever,f679eae6-90e5-45a2-8e7b-4eceee29beb7,2019-08-17 22:37:12 UTC
+899,deny,169.65.49.142,50.173.73.19,80,Wherever,Khāsh,Afghanistan,Wherever,069861ce-8009-4e93-98c2-7cb436f9f6ae,2019-08-17 22:37:12 UTC
+900,allow,73.10.244.60,66.237.1.131,80,Wherever,Cigintung,Indonesia,Wherever,9b31c123-965f-4840-b643-07600176bbec,2019-08-17 22:37:12 UTC
+901,deny,73.235.71.94,119.220.7.157,80,Wherever,Rokytne,Ukraine,Wherever,940ba3a8-c7fb-4dc1-a496-7a20f0e2ec93,2019-08-17 22:37:12 UTC
+902,deny,1.119.22.24,144.231.86.124,80,Wherever,Baratã,Portugal,Wherever,f0a4cac9-8378-46ed-88f7-bd6df69a63b8,2019-08-17 22:37:12 UTC
+903,deny,213.26.6.152,87.65.55.73,80,Wherever,Chemodanovka,Russia,Wherever,ff9b7f9b-1f46-4783-b891-8560ef38646f,2019-08-17 22:37:12 UTC
+904,allow,126.62.214.162,239.70.3.146,80,Wherever,Veshnyaki,Russia,Wherever,62a278c6-81bd-4d0a-bf21-68f0ce747fba,2019-08-17 22:37:12 UTC
+905,allow,140.152.149.188,181.131.190.227,80,Wherever,Chengfeng,China,Wherever,0bd371cc-2b8a-49b3-aa7f-95bf2f2c72f5,2019-08-17 22:37:12 UTC
+906,allow,111.6.28.212,233.196.144.5,80,Wherever,Wengyang,China,Wherever,2c7579dc-6c7f-435d-9281-a7b5a5ca5bad,2019-08-17 22:37:12 UTC
+907,deny,190.207.192.79,160.23.4.107,80,Wherever,Lijia,China,Wherever,cd164eb2-c7f2-4f95-a0b0-e21021d8f16d,2019-08-17 22:37:12 UTC
+908,deny,186.138.62.111,224.1.106.80,80,Wherever,Lijiaxiang,China,Wherever,ed168302-23e1-40ed-84a7-adad7922ab11,2019-08-17 22:37:12 UTC
+909,allow,85.0.32.111,232.239.74.125,80,Wherever,Messina,Italy,Wherever,b6c300ed-cd00-4070-aaf7-84412f57546f,2019-08-17 22:37:12 UTC
+910,allow,194.125.100.161,238.172.47.157,80,Wherever,Lakota,Ivory Coast,Wherever,9ba41db2-b887-42c8-9e2c-d34567dae2be,2019-08-17 22:37:12 UTC
+911,deny,115.14.62.99,132.211.187.2,80,Wherever,Sefrou,Morocco,Wherever,49bf5051-4192-4fee-9e10-e76b8f7ddf83,2019-08-17 22:37:12 UTC
+912,deny,249.205.34.75,103.9.229.130,80,Wherever,Bang Pakong,Thailand,Wherever,0f300c37-9062-45b9-a993-6f01264eb1d3,2019-08-17 22:37:12 UTC
+913,allow,159.16.153.4,118.23.248.91,80,Wherever,Privodino,Russia,Wherever,8001dad1-8c8a-45f8-922d-3de30d354c44,2019-08-17 22:37:12 UTC
+914,deny,140.41.4.123,64.165.56.223,80,Wherever,Songgui,China,Wherever,57384f2f-1aca-4044-9654-a47a5450044a,2019-08-17 22:37:12 UTC
+915,deny,148.85.62.219,167.129.231.222,80,Wherever,Akriní,Greece,Wherever,9dde23be-fd40-4239-8205-6364ffac330d,2019-08-17 22:37:12 UTC
+916,deny,113.118.133.89,7.181.19.123,80,Wherever,Horní Lideč,Czech Republic,Wherever,37969430-a9f4-4743-a313-7d3fd673aa30,2019-08-17 22:37:12 UTC
+917,allow,84.163.174.32,218.216.154.231,80,Wherever,Houston,United States,Wherever,3b5cab85-a8b8-4460-84cc-7e5f277f2e9c,2019-08-17 22:37:12 UTC
+918,deny,50.92.142.21,48.177.177.175,80,Wherever,Rato,Indonesia,Wherever,849f306b-8ffb-42f7-ba90-4de6e3daf6fb,2019-08-17 22:37:12 UTC
+919,deny,234.121.66.182,6.137.164.163,80,Wherever,Mengenkrajan,Indonesia,Wherever,165738b0-e494-475d-9422-265ad7f83783,2019-08-17 22:37:12 UTC
+920,allow,25.126.137.26,129.20.32.156,80,Wherever,Desa Werasari,Indonesia,Wherever,c52e4769-bda9-4ca2-a128-43b00dd39def,2019-08-17 22:37:12 UTC
+921,deny,168.218.8.182,28.242.197.216,80,Wherever,Tiantang,China,Wherever,e5ab0b69-6e6e-47a6-a7fc-b45d00923068,2019-08-17 22:37:12 UTC
+922,deny,38.95.238.228,184.147.205.129,80,Wherever,Ţūlkarm,Palestinian Territory,Wherever,09cb5618-fdef-43f2-b1b3-17d711acc18a,2019-08-17 22:37:12 UTC
+923,deny,144.180.84.193,49.27.36.143,80,Wherever,Horqueta,Paraguay,Wherever,4a13827c-cad5-453c-969f-a0605c3c408b,2019-08-17 22:37:12 UTC
+924,deny,10.159.13.64,230.213.238.42,80,Wherever,Lyuboml’,Ukraine,Wherever,6fa35023-d9f4-412d-b359-0f2beebe6a12,2019-08-17 22:37:12 UTC
+925,allow,44.192.113.86,197.37.163.86,80,Wherever,Ertai,China,Wherever,56117b85-5f93-4710-9bd7-808b5fe0412c,2019-08-17 22:37:12 UTC
+926,deny,185.239.123.124,250.209.39.121,80,Wherever,Itabaiana,Brazil,Wherever,02941a0b-436c-45de-82fe-ad9e24a861cf,2019-08-17 22:37:12 UTC
+927,deny,95.53.223.164,252.209.89.65,80,Wherever,Yege,China,Wherever,bdc28e64-414b-450a-b2dc-c38df380662b,2019-08-17 22:37:12 UTC
+928,allow,198.126.121.47,97.1.70.209,80,Wherever,Guaratuba,Brazil,Wherever,4eb2339d-591c-40fe-9a30-d6b604333822,2019-08-17 22:37:12 UTC
+929,deny,54.113.252.91,174.131.37.193,80,Wherever,Quba,Azerbaijan,Wherever,4f633045-36a2-46c0-a8ed-25f91ac4fa77,2019-08-17 22:37:12 UTC
+930,deny,57.51.249.228,47.9.238.43,80,Wherever,Almeria,Philippines,Wherever,89ef3e28-9042-408e-9197-3a98bda7fbec,2019-08-17 22:37:12 UTC
+931,deny,130.184.227.182,235.15.182.41,80,Wherever,Odessa,United States,Wherever,9702c022-f1d9-4154-ac46-251922b58437,2019-08-17 22:37:12 UTC
+932,deny,35.82.75.149,118.124.237.120,80,Wherever,Shedok,Russia,Wherever,e980eed3-6067-4930-b481-dcb78bc2582a,2019-08-17 22:37:12 UTC
+933,deny,220.212.148.176,208.253.144.7,80,Wherever,Bandeirantes,Brazil,Wherever,8eaf0271-1701-4a33-9029-fbe9f43b0a9d,2019-08-17 22:37:12 UTC
+934,allow,200.217.56.3,254.157.180.160,80,Wherever,Iitti,Finland,Wherever,995a3275-ceb9-4d99-9fd6-c59483645353,2019-08-17 22:37:12 UTC
+935,allow,71.27.41.90,251.127.22.111,80,Wherever,Hulitu,China,Wherever,2753536a-31d2-46cd-8ed8-0583e7006739,2019-08-17 22:37:12 UTC
+936,deny,223.30.125.156,23.80.110.53,80,Wherever,Jaroměř,Czech Republic,Wherever,c68743fb-7d29-45f5-8d3f-a34e286468c3,2019-08-17 22:37:12 UTC
+937,allow,144.179.233.197,3.81.110.104,80,Wherever,Qarah Bāgh,Afghanistan,Wherever,12a56b5b-51c6-4768-8e47-a3a5d2e13b1d,2019-08-17 22:37:12 UTC
+938,allow,36.141.234.184,144.73.238.253,80,Wherever,Woro,Indonesia,Wherever,bf627f43-0b39-4c82-925d-d61a7952a55f,2019-08-17 22:37:12 UTC
+939,allow,234.199.32.85,96.54.153.187,80,Wherever,Sanxi,China,Wherever,55dc64c9-ab55-4d8c-bdd1-93068ab1b003,2019-08-17 22:37:12 UTC
+940,deny,75.9.236.29,96.250.245.137,80,Wherever,Čačinci,Croatia,Wherever,40598774-aedc-4983-b5ee-5b3f509e0dd9,2019-08-17 22:37:12 UTC
+941,allow,118.81.73.129,247.35.24.11,80,Wherever,Aldeia da Mata,Portugal,Wherever,e82179d9-4b8e-41df-ba14-d89fa54c462d,2019-08-17 22:37:12 UTC
+942,deny,160.236.12.220,96.30.215.4,80,Wherever,Malax,Finland,Wherever,7e61b5d0-e3e6-4bf1-9e5e-ef03f9580929,2019-08-17 22:37:12 UTC
+943,allow,232.65.236.130,243.79.210.212,80,Wherever,Rapas,Indonesia,Wherever,aca27cbf-e320-4921-99aa-40f6933f1c04,2019-08-17 22:37:12 UTC
+944,allow,34.239.42.100,176.233.217.199,80,Wherever,Voronezh,Russia,Wherever,c1693865-6e52-45ba-b6e6-e2a9af0706cd,2019-08-17 22:37:12 UTC
+945,allow,247.146.73.196,103.70.28.223,80,Wherever,Qianzhou,China,Wherever,8260e98b-510e-4206-891d-833ab2e3da47,2019-08-17 22:37:12 UTC
+946,deny,67.95.65.152,126.75.25.17,80,Wherever,Xianju,China,Wherever,76e9a4d1-18ed-47a7-b722-f4eae4cefc91,2019-08-17 22:37:12 UTC
+947,deny,130.29.70.24,31.26.129.44,80,Wherever,Pocora,Costa Rica,Wherever,3a7a2e81-07b6-419c-867d-cded76614df9,2019-08-17 22:37:12 UTC
+948,allow,29.49.228.221,72.39.12.159,80,Wherever,Seattle,United States,Wherever,4019f35f-09d2-4de0-b6de-6d778e816105,2019-08-17 22:37:12 UTC
+949,allow,201.29.25.238,137.128.12.248,80,Wherever,Moutsamoudou,Comoros,Wherever,0600a8ed-026d-422e-96f1-967e06be7429,2019-08-17 22:37:12 UTC
+950,deny,178.249.100.55,136.90.14.132,80,Wherever,Karangturi,Indonesia,Wherever,339bdad7-1f27-457a-891d-883cddc5883f,2019-08-17 22:37:12 UTC
+951,allow,96.234.93.45,113.58.30.121,80,Wherever,Narong,China,Wherever,d2e3f0da-cfca-46e2-bb27-c3b35740804b,2019-08-17 22:37:12 UTC
+952,allow,131.227.101.13,221.22.119.5,80,Wherever,Bomomani,Indonesia,Wherever,f2008edc-a99e-42b0-b16d-c92ce6fcad13,2019-08-17 22:37:12 UTC
+953,deny,36.3.88.69,107.183.3.192,80,Wherever,Mineralni Bani,Bulgaria,Wherever,407c3e42-a06c-4f3f-8c80-9150806e264e,2019-08-17 22:37:12 UTC
+954,allow,56.152.60.40,78.93.243.184,80,Wherever,Dillenburg,Germany,Wherever,07831ee2-ca12-4998-93e5-9558832fa89c,2019-08-17 22:37:12 UTC
+955,deny,106.204.182.70,150.197.61.73,80,Wherever,Cluain Meala,Ireland,Wherever,7ef32a4d-20d6-48f0-bc69-48711c758dad,2019-08-17 22:37:12 UTC
+956,deny,23.185.18.16,254.236.211.236,80,Wherever,Cruz,Portugal,Wherever,006e5a68-8b67-4661-a95d-86205fe80bc1,2019-08-17 22:37:12 UTC
+957,allow,26.28.164.195,29.221.219.53,80,Wherever,Chabařovice,Czech Republic,Wherever,9fe794b5-54c1-4c7d-a67b-6c5e01677793,2019-08-17 22:37:12 UTC
+958,allow,173.110.69.43,26.46.153.50,80,Wherever,Alvito,Portugal,Wherever,46547f51-3ba2-4b1e-9210-22f660336f9e,2019-08-17 22:37:12 UTC
+959,deny,12.43.29.13,177.193.212.36,80,Wherever,Villefontaine,France,Wherever,75b9611c-d862-49ff-a0a5-37876e12aa8e,2019-08-17 22:37:12 UTC
+960,allow,206.176.182.117,36.184.99.232,80,Wherever,Askainen,Finland,Wherever,5be453e3-6828-4a99-9069-f06cc01c2536,2019-08-17 22:37:12 UTC
+961,allow,98.252.244.55,185.226.103.187,80,Wherever,Salvacion,Philippines,Wherever,a85cdc02-7a51-4d2f-b7c1-d6890828b6bd,2019-08-17 22:37:12 UTC
+962,deny,65.166.31.121,21.226.112.217,80,Wherever,Fonte Boa dos Nabos,Portugal,Wherever,f6cac7bd-1bd7-43a7-a5d3-c497084172c3,2019-08-17 22:37:12 UTC
+963,allow,27.0.214.195,216.222.191.199,80,Wherever,Lavia,Finland,Wherever,4be4e20d-4893-4a54-aa6e-ea8dfe15d220,2019-08-17 22:37:12 UTC
+964,allow,152.7.81.102,122.51.255.200,80,Wherever,Huacao,China,Wherever,a479a824-bce2-414e-83be-790daa7065fe,2019-08-17 22:37:12 UTC
+965,deny,47.91.147.71,217.248.88.160,80,Wherever,Sult,Albania,Wherever,906b75ce-3f2f-4c25-bdf9-3dfe9978eff6,2019-08-17 22:37:12 UTC
+966,deny,241.116.103.128,178.147.174.229,80,Wherever,Jiaoziya,China,Wherever,c57033d6-6da0-4d29-bdb5-494a1179990f,2019-08-17 22:37:12 UTC
+967,allow,3.198.124.8,59.221.23.246,80,Wherever,Pasargunung,Indonesia,Wherever,1e61e94c-f89b-41e4-beb1-652e7380d274,2019-08-17 22:37:12 UTC
+968,deny,137.78.12.123,120.179.53.126,80,Wherever,Broska,Ukraine,Wherever,2305b704-035a-499b-8537-986d6ba07683,2019-08-17 22:37:12 UTC
+969,deny,154.34.229.118,34.8.35.231,80,Wherever,Pulau Pinang,Malaysia,Wherever,17276240-7b7b-4009-9019-6c7f34eece94,2019-08-17 22:37:12 UTC
+970,deny,112.226.206.253,234.137.142.249,80,Wherever,Koh Tao,Thailand,Wherever,5dfa80a3-f0de-4598-8c0c-fb2a6a50c33d,2019-08-17 22:37:12 UTC
+971,allow,187.3.187.30,255.176.5.30,80,Wherever,Arendal,Norway,Wherever,447cfea5-17ee-4541-a3df-5488aa50d659,2019-08-17 22:37:12 UTC
+972,allow,201.58.131.90,100.214.172.24,80,Wherever,Novaya Tavolzhanka,Russia,Wherever,f826f15a-19c3-47cf-aab9-3fb168fb1e1d,2019-08-17 22:37:12 UTC
+973,deny,174.134.152.190,35.48.210.20,80,Wherever,Viana,Brazil,Wherever,b7059486-05e9-4172-84b5-de824a563b1b,2019-08-17 22:37:12 UTC
+974,allow,1.169.125.255,86.66.118.148,80,Wherever,Providencia,Peru,Wherever,fc00daef-57ea-43fd-9dc9-ca383159f8d6,2019-08-17 22:37:12 UTC
+975,allow,197.204.211.228,130.214.214.185,80,Wherever,Timahankrajan,Indonesia,Wherever,627c6b8c-7ed0-4307-89c5-318e04006bd1,2019-08-17 22:37:12 UTC
+976,deny,2.143.138.191,7.172.184.96,80,Wherever,Tangzha,China,Wherever,af64d0f3-9169-4ee5-ad92-0c2e1303ca39,2019-08-17 22:37:12 UTC
+977,deny,202.162.36.185,120.188.100.226,80,Wherever,Petropavlovsk,Kazakhstan,Wherever,070a31d9-d240-4822-8005-bbc514477c23,2019-08-17 22:37:12 UTC
+978,allow,141.83.33.48,89.29.215.10,80,Wherever,Tumauini,Philippines,Wherever,6bfd2c37-daf6-46ae-8304-438bcb24f697,2019-08-17 22:37:12 UTC
+979,deny,79.158.224.137,239.191.84.13,80,Wherever,Baras,Philippines,Wherever,5d436e3c-2a9e-4a60-b217-34e7b8e96d28,2019-08-17 22:37:12 UTC
+980,deny,218.61.254.33,15.193.111.76,80,Wherever,Atawutung,Indonesia,Wherever,9343b752-86d1-400d-bae7-dffbe63c4cba,2019-08-17 22:37:12 UTC
+981,deny,209.65.254.200,199.198.121.51,80,Wherever,Yingpu,China,Wherever,7d488486-627e-4a2b-ac73-354ee18858ac,2019-08-17 22:37:12 UTC
+982,allow,136.148.158.175,176.13.159.232,80,Wherever,Nong Khae,Thailand,Wherever,f077cce9-6556-436a-ab87-f47fb127445e,2019-08-17 22:37:12 UTC
+983,deny,65.200.146.175,215.230.86.225,80,Wherever,Nueva Italia,Paraguay,Wherever,63dc3136-a34d-48d5-b093-e74d849d758b,2019-08-17 22:37:12 UTC
+984,allow,145.235.71.62,177.140.93.30,80,Wherever,Kozhanka,Ukraine,Wherever,beb13fe8-cc3e-4c76-b18f-4170da7c3ee8,2019-08-17 22:37:12 UTC
+985,deny,124.35.181.207,172.133.100.229,80,Wherever,Kopychyntsi,Ukraine,Wherever,b5f24079-e3aa-4936-80c5-b2b548c7bb75,2019-08-17 22:37:12 UTC
+986,deny,75.166.177.234,133.26.38.169,80,Wherever,Mongar,Bhutan,Wherever,1b68df28-20a8-497e-a29d-7a24d0c3d57c,2019-08-17 22:37:12 UTC
+987,deny,241.88.153.88,197.178.226.200,80,Wherever,Dimitrovgrad,Bulgaria,Wherever,7916d48e-6c11-47b3-bb53-6677122672de,2019-08-17 22:37:12 UTC
+988,allow,1.66.49.156,138.204.110.34,80,Wherever,Shuigou’ao,China,Wherever,250f67a3-bda0-4545-82af-d74190fb9416,2019-08-17 22:37:12 UTC
+989,allow,209.208.50.98,153.165.109.11,80,Wherever,Kotlovka,Russia,Wherever,f31a446d-dc27-4002-85cd-a44324ea4b2c,2019-08-17 22:37:12 UTC
+990,deny,213.166.36.220,224.216.118.182,80,Wherever,Jicun,China,Wherever,a31af9ca-4d78-4d79-98c4-ab885c9c0e4a,2019-08-17 22:37:12 UTC
+991,allow,200.207.68.245,43.214.183.133,80,Wherever,Esposende,Portugal,Wherever,b1f775a5-19dd-4c82-919c-0bdacbdfed20,2019-08-17 22:37:12 UTC
+992,deny,218.45.20.51,25.8.42.185,80,Wherever,Welkom,South Africa,Wherever,8a9d11c1-bf44-4256-ae8c-c07d7656907c,2019-08-17 22:37:12 UTC
+993,allow,174.96.102.83,125.207.214.43,80,Wherever,Vilcún,Chile,Wherever,c06dec35-8806-4ede-8f67-662ac09f0fce,2019-08-17 22:37:12 UTC
+994,allow,130.244.113.74,66.135.181.127,80,Wherever,Hedong,China,Wherever,46a6193b-4c31-4927-99ce-44a9b3ca5dc0,2019-08-17 22:37:12 UTC
+995,allow,207.14.206.3,173.106.91.9,80,Wherever,Jaša Tomić,Serbia,Wherever,9799fc80-23c5-4a5d-b46a-a24a831932bd,2019-08-17 22:37:12 UTC
+996,allow,100.46.93.124,239.240.247.186,80,Wherever,Fengren,China,Wherever,9481c2d6-2eb5-4924-95f4-0c4bf810edc8,2019-08-17 22:37:12 UTC
+997,allow,207.207.28.71,156.155.23.21,80,Wherever,Kanaya,Japan,Wherever,e661fc87-1612-4045-9edd-1cd971c1a0d1,2019-08-17 22:37:12 UTC
+998,deny,139.78.134.63,193.79.50.34,80,Wherever,Hamburg Winterhude,Germany,Wherever,86d07971-6bf0-48a3-a0c2-3eb2f1e4d710,2019-08-17 22:37:12 UTC
+999,allow,200.221.233.123,182.225.251.69,80,Wherever,Ketang,China,Wherever,933066dc-140f-48f5-9d58-b6c92563ba23,2019-08-17 22:37:12 UTC
+1000,allow,112.186.32.162,117.243.30.49,80,Wherever,Dongfeng,China,Wherever,846328a3-4830-4edc-9c63-12ce69e2297c,2019-08-17 22:37:12 UTC
